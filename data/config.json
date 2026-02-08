@@ -9,7 +9,7 @@
     "title_part_2": "Streams",
     "custom_js": "",
     "custom_meta_tags": [
-      "<meta name=\"google-site-verification\" content=\"C7MbhV3eAjVUwCdk-U2bVA3Vnwq7JPi7szIM3Q_wg2A\" />"
+      "<meta name=\"google-site-verification\" content=\"\" />"
     ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://totalsportek.top/sitemap.xml",
     "domain": "streameastlive.cc",
