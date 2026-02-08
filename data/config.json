@@ -304,6 +304,12 @@
         "isLeague": true,
         "hasLink": true,
         "isHidden": false
+      },
+      "Football": {
+        "score": 80,
+        "isLeague": false,
+        "hasLink": true,
+        "isHidden": false
       }
     },
     "UK": {
