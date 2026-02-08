@@ -567,11 +567,16 @@ def render_page(template, config, page_data, theme_override=None):
     
     country = s.get('target_country', 'US')
     prio = config.get('sport_priorities', {}).get(country, {})
+    
+    # [NEW CODE] Get the suffix setting
+    url_suffix = s.get('url_suffix', '-streams') 
+
     f_leagues = []
     for k, v in prio.items():
         if not k.startswith('_') and v.get('hasLink'):
             # Simple slugify for footer links
-            slug = k.lower().replace(' ', '-').replace('^[^a-z0-9]','') + "-streams"
+            # [CHANGED] Used url_suffix variable
+            slug = k.lower().replace(' ', '-').replace('^[^a-z0-9]','') + url_suffix
             f_leagues.append({'title': k, 'url': f"/{slug}/"})
     html = html.replace('{{FOOTER_LEAGUES}}', build_menu_html(f_leagues, 'footer_leagues'))
 
@@ -923,11 +928,15 @@ def main():
         if not theme_league: theme_league = config.get('theme', {})
 
         domain = config.get('site_settings', {}).get('domain', 'example.com')
+        
+        # [NEW CODE] Get the suffix setting
+        url_suffix = config.get('site_settings', {}).get('url_suffix', '-streams')
 
         for name, data in priorities.items():
             if name.startswith('_') or not data.get('hasLink'): continue
             
-            slug = name.lower().replace(' ', '-').replace('^[^a-z0-9]','') + "-streams"
+            # [CHANGED] Used url_suffix variable
+            slug = name.lower().replace(' ', '-').replace('^[^a-z0-9]','') + url_suffix
             is_league = data.get('isLeague', False)
             # Entity Intelligence (Parent Sport) - RESTORED LOGIC
             parent_sport = LEAGUE_PARENT_MAP.get(name)
