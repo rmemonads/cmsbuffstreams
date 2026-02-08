@@ -491,6 +491,7 @@ function populateUI() {
     setVal('footerCopyright', s.footer_copyright);
     setVal('footerDisclaimer', s.footer_disclaimer);
     setVal('targetCountry', s.target_country || 'US');
+    setVal('urlSuffix', s.url_suffix || '-streams');
     // Sitemap Settings
     if(document.getElementById('sitemapEnable')) document.getElementById('sitemapEnable').checked = s.sitemap_enabled === true;
     if(document.getElementById('sitemapIncludeLeagues')) document.getElementById('sitemapIncludeLeagues').checked = s.sitemap_include_leagues === true;
@@ -1626,6 +1627,7 @@ document.getElementById('saveBtn').onclick = async () => {
         domain: getVal('siteDomain'), logo_url: getVal('logoUrl'), favicon_url: getVal('faviconUrl'),
         footer_copyright: getVal('footerCopyright'), footer_disclaimer: getVal('footerDisclaimer'),
         target_country: c,
+        url_suffix: getVal('urlSuffix'),
         param_live: getVal('paramLive') || 'stream',
         param_info: getVal('paramInfo') || 'info'
     };
