@@ -549,32 +549,32 @@
     ],
     "hero": [
       {
-        "title": "🏈 NFL",
-        "url": "/nfl-streams/"
-      },
-      {
         "title": "🏀 NBA",
-        "url": "/nba-streams/"
+        "url": "/nba-live/"
       },
       {
-        "title": "🏆 NCAA",
-        "url": "/ncaa-streams/"
+        "title": "🏈 NFL",
+        "url": "/nfl-live/"
       },
       {
         "title": "⚾ MLB",
-        "url": "/mlb-streams/"
+        "url": "/mlb-live/"
       },
       {
         "title": "🏒 NHL",
-        "url": "/nhl-streams/"
+        "url": "/nhl-live/"
+      },
+      {
+        "title": "🏆 NCAA",
+        "url": "/ncaa-live/"
       },
       {
         "title": "🥊 UFC",
-        "url": "/ufc-streams/"
+        "url": "/ufc-live/"
       },
       {
-        "title": "🏆 Formula 1",
-        "url": "/formula-1-streams/"
+        "title": "⚽ Soccer",
+        "url": "/football-live/"
       }
     ],
     "footer_links": [
@@ -634,10 +634,10 @@
   ],
   "social_sharing": {
     "counts": {
-      "telegram": 3444,
-      "whatsapp": 34444,
-      "reddit": 34444,
-      "twitter": 34444
+      "telegram": 55675,
+      "whatsapp": 23644,
+      "reddit": 54345,
+      "twitter": 775544
     },
     "excluded_pages": "dmca,contact,about,privacy"
   },
