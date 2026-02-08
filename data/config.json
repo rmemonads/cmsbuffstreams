@@ -865,7 +865,7 @@
     "league_intro": "Watch {{NAME}} live streams and access the full {{YEAR}} schedule on {{SITE_TITLE}}. Get real-time fixtures, playoffs coverage, and fast HD {{SPORT}} streaming.",
     "league_live_title": "Trending Live",
     "league_upcoming_prefix": "Upcoming",
-    "league_upcoming_suffix": ""
+    "league_upcoming_suffix": "Matches"
   },
   "theme_page": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
