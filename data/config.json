@@ -5,8 +5,8 @@
     "sitemap_static_pages": "about, contact, privacy, terms, copyright-policy",
     "sitemap_lastmod_manual": "2026-02-07",
     "ga4_id": "G-CNHF08NBNZ",
-    "title_part_1": "Stream",
-    "title_part_2": "East",
+    "title_part_1": "Buff",
+    "title_part_2": "Streams",
     "custom_js": "",
     "custom_meta_tags": [
       "<meta name=\"google-site-verification\" content=\"C7MbhV3eAjVUwCdk-U2bVA3Vnwq7JPi7szIM3Q_wg2A\" />"
@@ -18,8 +18,8 @@
     "footer_copyright": "© 2026 StreamEast — Live sports streaming platform for major leagues and global tournaments in HD.",
     "footer_disclaimer": "",
     "target_country": "US",
-    "param_live": "streams",
-    "param_info": "livestream"
+    "param_live": "live",
+    "param_info": "info"
   },
   "theme": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
