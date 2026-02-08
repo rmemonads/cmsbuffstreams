@@ -130,7 +130,7 @@
     "back_to_top_icon_color": "#ffffff",
     "back_to_top_radius": "50%",
     "back_to_top_size": "50",
-    "display_hero": "block",
+    "display_hero": "none",
     "social_telegram_color": "#38bdf8",
     "social_whatsapp_color": "#4ade80",
     "social_reddit_color": "#fb7185",
@@ -910,8 +910,8 @@
     "excluded": "home, about, contact, terms, privacy, copyright-policy",
     "league_h1": "{{SITE_TITLE}} {{NAME}} Live Streams and Schedules",
     "league_intro": "Watch {{NAME}} live streams and access the full {{YEAR}} schedule on {{SITE_TITLE}}. Get real-time fixtures, playoffs coverage, and fast HD {{SPORT}} streaming.",
-    "league_live_title": "",
-    "league_upcoming_prefix": "",
+    "league_live_title": "Trending Live",
+    "league_upcoming_prefix": "Upcoming",
     "league_upcoming_suffix": ""
   },
   "theme_page": {
