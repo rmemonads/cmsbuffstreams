@@ -7,7 +7,7 @@
     <title>StreamEast MLS Live Streams and Schedules</title>
     <meta name="description" content="Watch MLS live streams and access the full 2026 schedule on StreamEast. Get real-time fixtures, playoffs coverage, and fast HD Soccer streaming.">
     <meta name="keywords" content="MLS stream, watch MLS free, MLS live">
-    <meta name="theme-color" content="#e50914">
+    <meta name="theme-color" content="#007aff">
 
     <!-- OPEN GRAPH -->
     <meta property="og:type" content="website">
@@ -33,28 +33,28 @@
     <style>
         :root {
             /* THEME VARIABLES */
-            --brand-primary: #e50914;
-            --brand-dark: #b81d24;
-            --status-green: #46d369;
-            --accent-gold: #ffd700;
-            --bg-body: #000000;
-            --bg-panel: #141414;
-            --border: #333333;
-            --text-main: #ffffff;
-            --text-muted: #b3b3b3;
+            --brand-primary: #007aff;
+            --brand-dark: #0051a8;
+            --status-green: #34c759;
+            --accent-gold: #00c7ff;
+            --bg-body: #0f172a;
+            --bg-panel: #1e293b;
+            --border: #334155;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
             
-            --font-family-base: system-ui, -apple-system, sans-serif;
+            --font-family-base: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             --font-family-headings: inherit;
-            --container-max-width: 1100px; 
-            --header-max-width: 1100px;
+            --container-max-width: 1050px; 
+            --header-max-width: 1050px;
             --border-radius-base: 8px; 
             --button-border-radius: 8px;
-            --hero-pill-radius: 8px;
+            --hero-pill-radius: 50px;
             
             /* HEADER */
             --header-bg: #000000;
-            --header-text-color: #e5e5e5;
-            --header-link-active-color: #e50914;
+            --header-text-color: #94a3b8;
+            --header-link-active-color: #007aff;
             --header-link-hover-color: #ffffff;
             --header-highlight-color: #ffffff;
             --header-border-bottom: 1px solid #334155;
@@ -62,29 +62,29 @@
 
             /* HERO */
             --hero-h1-color: #ffffff;
-            --hero-intro-color: #cccccc;
-            --hero-pill-bg: #242424;
-            --hero-pill-text: #e5e5e5;
-            --hero-pill-hover-bg: #3c0104;
+            --hero-intro-color: #94a3b8;
+            --hero-pill-bg: #1e293b;
+            --hero-pill-text: #cbd5e1;
+            --hero-pill-hover-bg: #007aff;
             --hero-pill-hover-text: #ffffff;
 
             /* MATCH ROWS */
-            --match-row-bg: #181818;
-            --match-row-border: #333333;
-        --match-row-radius: 8px;
-            --match-row-live-border-left: 4px solid #E50914;
-            --match-row-live-bg-start: #200404;
-            --match-row-live-bg-end: #141414;
-        --live-dot-color: #e50914;
-            --match-row-hover-bg: #222222;
-            --match-row-hover-border: #e50914;
-            --match-row-time-main-color: #b3b3b3;
+            --match-row-bg: #1e293b;
+            --match-row-border: #334155;
+        --match-row-radius: 5;
+            --match-row-live-border-left: 4px solid #007AFF;
+            --match-row-live-bg-start: #000000;
+            --match-row-live-bg-end: #000000;
+        --live-dot-color: #007aff;
+            --match-row-hover-bg: #334155;
+            --match-row-hover-border: #007aff;
+            --match-row-time-main-color: #94a3b8;
             --match-row-time-sub-color: #94a3b8;
-            --match-row-live-text-color: #8f8f8f;
-            --match-row-team-name-color: #ffffff;
+            --match-row-live-text-color: #60a5fa;
+            --match-row-team-name-color: #f8fafc;
             
             /* BUTTONS */
-            --match-row-btn-watch-bg: #e50914;
+            --match-row-btn-watch-bg: #007aff;
             --match-row-btn-watch-text: #ffffff;
             --match-row-hd-badge-bg: rgba(0,0,0,0.3);
             --match-row-hd-badge-text: #facc15;
@@ -93,75 +93,75 @@
             --match-row-btn-notify-text: #94a3b8;
             
             /* FOOTER */
-            --footer-bg-start: #141414;
-            --footer-bg-end: #000000;
+            --footer-bg-start: #1e293b;
+            --footer-bg-end: #0f172a;
             --footer-border-top: 1px solid #334155;
-            --footer-link-color: #b3b3b3;
+            --footer-link-color: #64748b;
             --footer-link-hover-color: #f1f5f9;
             
             /* SOCIALS */
-            --soc-sidebar-bg: #141414;
-            --soc-sidebar-border: #333333;
+            --soc-sidebar-bg: #000000;
+            --soc-sidebar-border: #334155;
             --soc-sidebar-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            --soc-btn-bg: #222222;
-            --soc-btn-border: #333333;
-        --soc-btn-radius: 4px;
+            --soc-btn-bg: #1e293b;
+            --soc-btn-border: #334155;
+        --soc-btn-radius: 50%;
             --soc-btn-color: #94a3b8;
-            --soc-btn-hover-bg: #595959;
-            --soc-btn-hover-border: #e50914;
+            --soc-btn-hover-bg: #007aff;
+            --soc-btn-hover-border: #007aff;
             --soc-btn-hover-transform: translateX(5px);
             --soc-btn-shadow: rgba(0,0,0,0.3);
-            --soc-count: #bdbdbd;
+            --soc-count: #94a3b8;
             
-            --mob-foot-bg: #141414;
+            --mob-foot-bg: #0f172a;
             --mob-foot-border: 1px solid #334155;
             --mob-foot-shadow: 0 -4px 10px rgba(0,0,0,0.5);
             --mob-foot-height: 60px;
             --mob-foot-active: rgba(255,255,255,0.1);
         /* SHOW MORE BUTTON */
-            --show-more-bg: #151515;
+            --show-more-bg: #1e293b;
             --show-more-border: #000000;
-            --show-more-text: #cccccc;
-            --show-more-radius: 4px;
-            --show-more-hover-bg: #e50914;
+            --show-more-text: #cbd5e1;
+            --show-more-radius: 25px;
+            --show-more-hover-bg: #007aff;
             --show-more-hover-border: #D00000;
             --show-more-hover-text: #ffffff;
             
             /* ARTICLE */
-            --article-bg: #111111;
-            --article-text: #b3b3b3;
-            --article-line-height: 1.6;
-            --article-bullet: #e50914;
-            --article-link: #e50914;
-            --article-h2-color: #ffffff;
-            --article-h2-border: 1px solid #333333;
+            --article-bg: #000000;
+            --article-text: #94a3b8;
+            --article-line-height: 1.7;
+            --article-bullet: #007aff;
+            --article-link: #00c7ff;
+            --article-h2-color: #f8fafc;
+            --article-h2-border: 0px solid #000000;
             
             /* LEAGUE CARDS (Footer) */
-            --lc-bg: #222222;
-            --lc-text: #ffffff;
-            --lc-border: 1px solid #333333;
-            --lc-radius: 4px;
-            --lc-hover-bg: #e50914;
+            --lc-bg: #334155;
+            --lc-text: #f8fafc;
+            --lc-border: 0px solid #000000;
+            --lc-radius: 10px;
+            --lc-hover-bg: #007aff;
             --lc-hover-text: #ffffff;
-            --lc-hover-border: 1px solid #e50914;
+            --lc-hover-border: 0px solid #e50914;
 
             /* UTILS */
-            --scrollbar-thumb-color: #e50914;
-            --btt-bg: #d00000;
+            --scrollbar-thumb-color: #007aff;
+            --btt-bg: #3b82f6;
             --btt-icon: #ffffff;
-            --btt-radius: 50px;
-            --btt-size: 40px;
+            --btt-radius: 50%;
+            --btt-size: 50px;
             
             /* ADD/UPDATE THESE: */
             --btt-border: 0px solid #000000;
             --btt-shadow: 0 4px 10px #000000;
-            --sys-status-bg: rgba(0, 189, 47, 0.1);
-            --sys-status-border: 1px solid #22c502;
-            --sys-status-text: #03b300;
-            --sys-status-dot-color: #06a220;
+            --sys-status-bg: rgba(0, 122, 255, 0.1);
+            --sys-status-border: 1px solid #007aff;
+            --sys-status-text: #60a5fa;
+            --sys-status-dot-color: #60a5fa;
             --sys-status-radius: 20px;
             
-            --section-logo-size: 24px;
+            --section-logo-size: 30px;
             --row-h-mob: 76px; --row-h-desk: 96px;
         }
 
@@ -188,8 +188,8 @@
 
         .logo-link { display: flex; align-items: center; gap: 10px; }
         .logo-img { height: var(--logo-image-size); width: var(--logo-image-size); border-radius: var(--border-radius-base); object-fit: cover; }
-        .logo-text { font-size: 1.4rem; font-weight: 900; font-style: italic; letter-spacing: -1px; text-transform: uppercase; color: #e50914; }
-        .logo-text span { color: #ffffff; }
+        .logo-text { font-size: 1.4rem; font-weight: 900; font-style: italic; letter-spacing: -1px; text-transform: uppercase; color: #f8fafc; }
+        .logo-text span { color: #007aff; }
         
         .nav-links { display: none; gap: 20px; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; color: var(--header-text-color); height: 100%; }
         .nav-links a { display: flex; align-items: center; height: 100%; border-bottom: 2px solid transparent; }
@@ -218,9 +218,9 @@
             100% { transform: scale(0.95); box-shadow: 0 0 0 0 transparent; }
         }
         /* HERO */
-        .hero-section { background: radial-gradient(circle at top, #230505 0%, #000000 100%); padding: 40px 15px;  border-bottom: 1px solid #334155; display: block; }
+        .hero-section { background: radial-gradient(circle at top, #0f172a 0%, #020617 100%); padding: 40px 15px;  display: block; }
        
-        .hero-inner { max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; text-align: center; align-items: center; }
+        .hero-inner { max-width: 1050px; margin: 0 auto; display: flex; flex-direction: column; text-align: center; align-items: center; }
         h1 { margin: 0 0 20px 0; font-size: 1.8rem; line-height: 1.2; color: var(--hero-h1-color); font-weight: 800; font-family: var(--font-family-headings); }
         .entity-intro { color: var(--hero-intro-color); font-size: 0.9rem; margin: 0 auto; margin-bottom: 20px; max-width: 800px; }
         
@@ -349,7 +349,7 @@
         .social-sidebar { 
             position: fixed; 
             left: 0; /* Use dynamic left */
-            top: 50%;   /* Changed DESKTOP to DESK */
+            top: 55%;   /* Changed DESKTOP to DESK */
             transform: translateY(-50%) scale(1.0); /* Changed DESKTOP to DESK */
             z-index: 90; 
             display: flex; flex-direction: column; gap: 8px; 
@@ -369,10 +369,10 @@
             cursor: pointer; 
         }
         .social-btn svg { width: 20px; height: 20px; fill: currentColor; display: block; }
-        .social-btn.telegram { color: #0088cc; } 
-        .social-btn.whatsapp { color: #25d366; }
-        .social-btn.reddit { color: #ff4500; } 
-        .social-btn.twitter { color: #1da1f2; } 
+        .social-btn.telegram { color: #38bdf8; } 
+        .social-btn.whatsapp { color: #4ade80; }
+        .social-btn.reddit { color: #fb7185; } 
+        .social-btn.twitter { color: #38bdf8; } 
         .social-btn.copy { color: var(--soc-btn-color); }
         
         .social-btn:hover { 
@@ -434,7 +434,7 @@
         }
         .league-card span { font-size: 0.8rem; font-weight: 700; color: inherit; overflow: hidden; text-overflow: ellipsis; }
         .l-icon { font-size: 1.1rem; }
-        #footer-leagues-section .sec-head { border-bottom: 1px solid #333333; }
+        #footer-leagues-section .sec-head { border-bottom: 2px solid #334155; }
     </style>
 <meta name="google-site-verification" content="C7MbhV3eAjVUwCdk-U2bVA3Vnwq7JPi7szIM3Q_wg2A" />
 
@@ -466,9 +466,9 @@
 
     <div id="socialSidebar" class="social-sidebar"></div>
 
-    <header class="h-layout-standard">
+    <header class="h-layout-inverted">
         <div class="header-container">
-            <a href="/" class="logo-link"><img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #3d0003;"> <div class="logo-text" style="color:#e50914;">Stream<span style="color:#ffffff;">East</span></div></a>
+            <a href="/" class="logo-link"><img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #007aff;"> <div class="logo-text" style="color:#f8fafc;">Stream<span style="color:#007aff;">East</span></div></a>
             <nav class="nav-links" id="desktopNav"><a href="/#schedule" class="highlighted">Schedule</a><a href="/#features">Features</a><a href="/#faqs">FAQs</a><a href="/about">Who We Are</a></nav>
             <button class="hamburger" onclick="toggleMenu()">☰</button>
         </div>
@@ -478,7 +478,7 @@
     <!-- HERO SECTION -->
     <div class="hero-section">
         <div class="hero-inner">
-            <div class="sys-status"><div class="live-dot"></div> System Status: Online</div>
+            <div class="sys-status"><div class="live-dot"></div> System Status: Live</div>
             <h1>StreamEast MLS Live Streams and Schedules</h1>
             <p class="entity-intro">Watch MLS live streams and access the full 2026 schedule on StreamEast. Get real-time fixtures, playoffs coverage, and fast HD Soccer streaming.</p> 
             <div class="cat-scroll"><a href="/nfl-streams/" class="cat-pill">🏈 NFL</a><a href="/nba-streams/" class="cat-pill">🏀 NBA</a><a href="/ncaa-streams/" class="cat-pill">🏆 NCAA</a><a href="/mlb-streams/" class="cat-pill">⚾ MLB</a><a href="/nhl-streams/" class="cat-pill">🏒 NHL</a><a href="/ufc-streams/" class="cat-pill">🥊 UFC</a><a href="/formula-1-streams/" class="cat-pill">🏆 Formula 1</a></div>
@@ -497,7 +497,7 @@
             <div class="sec-head">
                 <h2 class="sec-title">
                     <span id="upcoming-logo-container" style="font-size:1.2rem; display:inline-flex; align-items:center;">📅</span> 
-                    Upcoming MLS
+                    Upcoming MLS Matches
                 </h2>
             </div>
             <!-- Python replaces this with schedule rows -->
@@ -558,7 +558,7 @@
     </div>
     <div></div>
     <div class="f-brand">
-        <img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #3d0003;"> <div class="logo-text" style="color:#e50914;">Stream<span style="color:#ffffff;">East</span></div> 
+        <img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #007aff;"> <div class="logo-text" style="color:#f8fafc;">Stream<span style="color:#007aff;">East</span></div> 
     </div>
     </div>
         <div class="copyright">© 2026 StreamEast — Live sports streaming platform for major leagues and global tournaments in HD.</div>
