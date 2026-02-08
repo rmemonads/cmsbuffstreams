@@ -130,7 +130,7 @@
     "back_to_top_icon_color": "#ffffff",
     "back_to_top_radius": "50%",
     "back_to_top_size": "50",
-    "display_hero": "none",
+    "display_hero": "block",
     "social_telegram_color": "#38bdf8",
     "social_whatsapp_color": "#4ade80",
     "social_reddit_color": "#fb7185",
