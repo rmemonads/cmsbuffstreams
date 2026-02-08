@@ -25,7 +25,7 @@
     
     <!-- SCHEMA -->
     <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://streameastlive.cc/#organization", "name": "BuffStreams", "url": "https://streameastlive.cc/", "logo": {"@type": "ImageObject", "url": "https://streameastlive.cc/assets/streameast-logo.webp", "width": 512, "height": 512}}, {"@type": "WebSite", "@id": "https://streameastlive.cc/#website", "url": "https://streameastlive.cc/", "name": "BuffStreams", "publisher": {"@id": "https://streameastlive.cc/#organization"}}, {"@type": "CollectionPage", "@id": "https://streameastlive.cc/formula-1-live/#leaguepage", "url": "https://streameastlive.cc/formula-1-live/", "name": "BuffStreams Formula 1 Live Streams and Schedules", "description": "Watch Formula 1 live streams and access the full 2026 schedule on BuffStreams. Get real-time fixtures, playoffs coverage, and fast HD Motorsport streaming.", "mainEntity": {"@id": "https://streameastlive.cc/formula-1-live/#matchlist"}, "isPartOf": {"@id": "https://streameastlive.cc/#website"}, "about": {"@id": "https://streameastlive.cc/#organization"}}]}</script>
-<script id="dynamic-schema-placeholder" type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "@id": "https://streameastlive.cc/formula-1-live/#matchlist", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "SportsEvent", "name": "Formula 1 2026 - Bahrain Test", "description": "Watch Formula 1 2026 - Bahrain Test live stream. FORMULA 1.", "startDate": "2026-02-11T10:40:00.000Z", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "isAccessibleForFree": true, "url": "https://streameastlive.cc/watch/?info=formula-1-2026-bahrain-test-f841a320", "image": ["https://streameastlive.cc/assets/streameast-logo.webp"], "organizer": {"@id": "https://streameastlive.cc/#organization"}, "sport": "Motor Sports"}}]}</script>
+<script id="dynamic-schema-placeholder" type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "@id": "https://streameastlive.cc/formula-1-live/#matchlist", "itemListElement": []}</script>
 
     
     <style>html { scroll-behavior: smooth; }</style>
@@ -481,20 +481,20 @@
             <div class="sys-status"><div class="live-dot"></div> System Status: Live</div>
             <h1>BuffStreams Formula 1 Live Streams and Schedules</h1>
             <p class="entity-intro">Watch Formula 1 live streams and access the full 2026 schedule on BuffStreams. Get real-time fixtures, playoffs coverage, and fast HD Motorsport streaming.</p> 
-            <div class="cat-scroll"><a href="/nfl-streams/" class="cat-pill">🏈 NFL</a><a href="/nba-streams/" class="cat-pill">🏀 NBA</a><a href="/ncaa-streams/" class="cat-pill">🏆 NCAA</a><a href="/mlb-streams/" class="cat-pill">⚾ MLB</a><a href="/nhl-streams/" class="cat-pill">🏒 NHL</a><a href="/ufc-streams/" class="cat-pill">🥊 UFC</a><a href="/formula-1-streams/" class="cat-pill">🏆 Formula 1</a></div>
+            <div class="cat-scroll"><a href="/nba-live/" class="cat-pill">🏀 NBA</a><a href="/nfl-live/" class="cat-pill">🏈 NFL</a><a href="/mlb-live/" class="cat-pill">⚾ MLB</a><a href="/nhl-live/" class="cat-pill">🏒 NHL</a><a href="/ncaa-live/" class="cat-pill">🏆 NCAA</a><a href="/ufc-live/" class="cat-pill">🥊 UFC</a><a href="/football-live/" class="cat-pill">⚽ Soccer</a></div>
         </div>
     </div>
 
     <main class="container">
         
         <!-- LIVE SECTION -->
-        <div id="live-list" style="display:none;" style="display:none;">
+        <div id="live-list" style="display:none;">
             <!-- L_LIVE_START --><!-- L_LIVE_END -->
         </div>
 
         <!-- UPCOMING SECTION -->
         <div id="upcoming-container">
-            <div class="sec-head" style="border-bottom: 2px solid #334155;">
+            <div class="sec-head">
                 <h2 class="sec-title">
                     <span id="upcoming-logo-container" style="font-size:1.2rem; display:inline-flex; align-items:center;">📅</span> 
                     Upcoming Formula 1
@@ -502,7 +502,7 @@
             </div>
             <!-- Python replaces this with schedule rows -->
             <div id="schedule-list">
-                <!-- L_SCHED_START --><div class="match-row"><div class="col-time"><span class="time-main">05:40 AM ET</span><span class="time-sub">Feb 11</span></div><div class="teams-wrapper"><div class="league-tag">MOTOR SPORTS</div><div class="team-name" style="justify-content:center; font-weight:600;">Formula 1 2026 - Bahrain Test</div></div><div class="col-meta"><div style="display:flex; flex-direction:column; align-items:flex-end;"><span style="font-size:0.55rem; color:var(--text-muted); font-weight:700; text-transform:uppercase;">Starts</span><span class="meta-top" style="color:var(--accent-gold);">2d 15h 30m</span></div></div><div class="col-action"><button class="btn-notify" onclick="handleNotify(this)">🔔 Notify</button><button class="btn-copy-link" onclick="copyText('https://streameastlive.cc/watch/?info=formula-1-2026-bahrain-test-f841a320')"><svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg> Link</button></div></div><!-- L_SCHED_END -->
+                <!-- L_SCHED_START --><!-- L_SCHED_END -->
             </div>
         </div>
 
@@ -573,7 +573,7 @@
 
     <script>
         const SITE_DOMAIN = "https://streameastlive.cc";
-        const SHARE_CONFIG = {"counts": {"telegram": 3444, "whatsapp": 34444, "reddit": 34444, "twitter": 34444}, "excluded_pages": "dmca,contact,about,privacy"};
+        const SHARE_CONFIG = {"counts": {"telegram": 55675, "whatsapp": 23644, "reddit": 54345, "twitter": 775544}, "excluded_pages": "dmca,contact,about,privacy"};
         
         window.addEventListener('DOMContentLoaded', () => {
             highlightActiveMenu();

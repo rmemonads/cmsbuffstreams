@@ -25,7 +25,7 @@
     
     <!-- SCHEMA -->
     <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://streameastlive.cc/#organization", "name": "BuffStreams", "url": "https://streameastlive.cc/", "logo": {"@type": "ImageObject", "url": "https://streameastlive.cc/assets/streameast-logo.webp", "width": 512, "height": 512}}, {"@type": "WebSite", "@id": "https://streameastlive.cc/#website", "url": "https://streameastlive.cc/", "name": "BuffStreams", "publisher": {"@id": "https://streameastlive.cc/#organization"}}, {"@type": "CollectionPage", "@id": "https://streameastlive.cc/mls-live/#leaguepage", "url": "https://streameastlive.cc/mls-live/", "name": "BuffStreams MLS Live Streams and Schedules", "description": "Watch MLS live streams and access the full 2026 schedule on BuffStreams. Get real-time fixtures, playoffs coverage, and fast HD Soccer streaming.", "mainEntity": {"@id": "https://streameastlive.cc/mls-live/#matchlist"}, "isPartOf": {"@id": "https://streameastlive.cc/#website"}, "about": {"@type": "SportsOrganization", "name": "MLS", "sameAs": ["https://en.wikipedia.org/wiki/Major_League_Soccer", "https://www.wikidata.org/wiki/Q18543"]}}]}</script>
-<script id="dynamic-schema-placeholder" type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "@id": "https://streameastlive.cc/mls-live/#matchlist", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "SportsEvent", "name": "Sloven vs Jagodina", "description": "Watch Sloven vs Jagodina live stream. Serbia - 2.MLS.", "startDate": "2026-02-08T17:00:00.000Z", "eventStatus": "https://schema.org/EventLive", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "isAccessibleForFree": true, "url": "https://streameastlive.cc/watch/?info=sloven-vs-jagodina-ea2a272f", "image": ["https://streameastlive.cc/assets/streameast-logo.webp"], "organizer": {"@id": "https://streameastlive.cc/#organization"}, "sport": "Basketball", "homeTeam": {"@type": "SportsTeam", "name": "Sloven"}, "awayTeam": {"@type": "SportsTeam", "name": "Jagodina"}}}]}</script>
+<script id="dynamic-schema-placeholder" type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "@id": "https://streameastlive.cc/mls-live/#matchlist", "itemListElement": []}</script>
 
     
     <style>html { scroll-behavior: smooth; }</style>
@@ -481,20 +481,20 @@
             <div class="sys-status"><div class="live-dot"></div> System Status: Live</div>
             <h1>BuffStreams MLS Live Streams and Schedules</h1>
             <p class="entity-intro">Watch MLS live streams and access the full 2026 schedule on BuffStreams. Get real-time fixtures, playoffs coverage, and fast HD Soccer streaming.</p> 
-            <div class="cat-scroll"><a href="/nfl-streams/" class="cat-pill">🏈 NFL</a><a href="/nba-streams/" class="cat-pill">🏀 NBA</a><a href="/ncaa-streams/" class="cat-pill">🏆 NCAA</a><a href="/mlb-streams/" class="cat-pill">⚾ MLB</a><a href="/nhl-streams/" class="cat-pill">🏒 NHL</a><a href="/ufc-streams/" class="cat-pill">🥊 UFC</a><a href="/formula-1-streams/" class="cat-pill">🏆 Formula 1</a></div>
+            <div class="cat-scroll"><a href="/nba-live/" class="cat-pill">🏀 NBA</a><a href="/nfl-live/" class="cat-pill">🏈 NFL</a><a href="/mlb-live/" class="cat-pill">⚾ MLB</a><a href="/nhl-live/" class="cat-pill">🏒 NHL</a><a href="/ncaa-live/" class="cat-pill">🏆 NCAA</a><a href="/ufc-live/" class="cat-pill">🥊 UFC</a><a href="/football-live/" class="cat-pill">⚽ Soccer</a></div>
         </div>
     </div>
 
     <main class="container">
         
         <!-- LIVE SECTION -->
-        <div id="live-list">
-            <!-- L_LIVE_START --><div class="section-box"><div class="sec-head" style="border-bottom: 2px solid #007aff;"><h2 class="sec-title"><div class="live-dot-pulse"></div> Trending Live</h2><span style="font-size:0.8rem; font-weight:700; color:var(--match-row-live-text-color); display:flex; align-items:center; gap:6px;">● 1 Live Events</span></div><div class="match-list"><div class="match-row live"><div class="col-time"><span class="live-txt">2h 09'</span><span class="time-sub">BASKETBALL</span></div><div class="teams-wrapper"><div class="league-tag">SERBIA - 2.MLS</div><div class="team-name"><div class="logo-box"><span class="t-logo" style="background:#00897b">S</span></div> Sloven</div><div class="team-name"><div class="logo-box"><span class="t-logo" style="background:#3949ab">J</span></div> Jagodina</div></div><div class="col-meta"></div><div class="col-action"><a href="https://streameastlive.cc/watch/?info=sloven-vs-jagodina-ea2a272f" class="btn-watch">Streams <span class="hd-badge">HD</span></a><button class="btn-copy-link" onclick="copyText('https://streameastlive.cc/watch/?info=sloven-vs-jagodina-ea2a272f')"><svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg> Link</button></div></div></div></div><!-- L_LIVE_END -->
+        <div id="live-list" style="display:none;">
+            <!-- L_LIVE_START --><!-- L_LIVE_END -->
         </div>
 
         <!-- UPCOMING SECTION -->
         <div id="upcoming-container">
-            <div class="sec-head" style="border-bottom: 2px solid #334155;">
+            <div class="sec-head">
                 <h2 class="sec-title">
                     <span id="upcoming-logo-container" style="font-size:1.2rem; display:inline-flex; align-items:center;">📅</span> 
                     Upcoming MLS
@@ -502,7 +502,7 @@
             </div>
             <!-- Python replaces this with schedule rows -->
             <div id="schedule-list">
-                <!-- L_SCHED_START --><div class="match-row" style="justify-content:center;">No upcoming matches found.</div><!-- L_SCHED_END -->
+                <!-- L_SCHED_START --><!-- L_SCHED_END -->
             </div>
         </div>
 
@@ -573,7 +573,7 @@
 
     <script>
         const SITE_DOMAIN = "https://streameastlive.cc";
-        const SHARE_CONFIG = {"counts": {"telegram": 3444, "whatsapp": 34444, "reddit": 34444, "twitter": 34444}, "excluded_pages": "dmca,contact,about,privacy"};
+        const SHARE_CONFIG = {"counts": {"telegram": 55675, "whatsapp": 23644, "reddit": 54345, "twitter": 775544}, "excluded_pages": "dmca,contact,about,privacy"};
         
         window.addEventListener('DOMContentLoaded', () => {
             highlightActiveMenu();
