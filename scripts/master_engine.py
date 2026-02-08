@@ -132,6 +132,7 @@ PRIORITY_SETTINGS = config.get('sport_priorities', {}).get(TARGET_COUNTRY, {})
 DOMAIN = SITE_SETTINGS.get('domain', 'example.com')
 PARAM_LIVE = SITE_SETTINGS.get('param_live', 'stream')
 PARAM_INFO = SITE_SETTINGS.get('param_info', 'info')
+URL_SUFFIX = SITE_SETTINGS.get('url_suffix', '-streams')
 THEME = config.get('theme', {})
 
 # ==============================================================================
@@ -727,7 +728,7 @@ def build_homepage(matches):
             for m in grp: used_ids.add(m['id'])
             logo = get_logo(key, 'leagues')
             icon = logo if not logo.startswith('fallback') else '🏆'
-            link = f"/{slugify(key)}-streams/" if settings.get('hasLink') else None
+            link = f"/{slugify(key)}{URL_SUFFIX}/" if settings.get('hasLink') else None
             
             # --- START UPDATE: PREFIX & SUFFIX ---
             # 1. Get Prefix/Suffix from Theme
@@ -890,7 +891,7 @@ def inject_leagues(matches):
     for key, settings in PRIORITY_SETTINGS.items():
         if key.startswith('_'): continue
         
-        slug = slugify(key) + "-streams"
+        slug = slugify(key) + URL_SUFFIX
         target_file = os.path.join(OUTPUT_DIR, slug, 'index.html')
         
         if not os.path.exists(target_file): 
@@ -1058,7 +1059,7 @@ def generate_sitemap(matches):
     if s_sett.get('sitemap_include_leagues', False):
         for key, settings in PRIORITY_SETTINGS.items():
             if key.startswith('_') or not settings.get('hasLink'): continue
-            slug = slugify(key) + "-streams"
+            slug = slugify(key) + URL_SUFFIX
             add_url(slug, "0.9", "always", manual_date)
 
     # C. Static Pages (Manual Date)
