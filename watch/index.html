@@ -18,60 +18,60 @@
     <style>
         :root {
             /* --- GLOBAL THEME VARIABLES --- */
-            --brand-primary: #e50914;
-            --brand-dark: #b81d24;
-            --bg-body: #000000;
-            --bg-panel: #141414;
-            --text-main: #ffffff;
-            --text-muted: #b3b3b3;
-            --border: #333333;
-            --accent-gold: #ffd700;
+            --brand-primary: #007aff;
+            --brand-dark: #0051a8;
+            --bg-body: #0f172a;
+            --bg-panel: #1e293b;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --border: #334155;
+            --accent-gold: #00c7ff;
             
-            --font-family-base: system-ui, -apple-system, sans-serif;
+            --font-family-base: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             --font-family-headings: inherit;
-            --container-max-width: 1100px;
-            --header-max-width: 1100px;
-            --border-radius-base: 4px;
+            --container-max-width: 1050px;
+            --header-max-width: 1050px;
+            --border-radius-base: 8px;
             --button-border-radius: 8px;
             
             /* HEADER & FOOTER */
             --header-bg: #000000;
-            --header-text-color: #e5e5e5;
-            --header-link-active-color: #e50914;
+            --header-text-color: #94a3b8;
+            --header-link-active-color: #007aff;
             --header-link-hover-color: #ffffff;
             --header-highlight-color: #ffffff;
-            --header-highlight-hover: #e50914;
+            --header-highlight-hover: #00c7ff;
             --header-border-bottom: 1px solid #334155;
-            --logo-text-p1-color: #e50914;
-            --logo-text-p2-color: #ffffff;
+            --logo-text-p1-color: #f8fafc;
+            --logo-text-p2-color: #007aff;
             --logo-image-size: 40px;
-        --soc-btn-radius: 4px;
+        --soc-btn-radius: 50%;
 
-            --footer-bg-start: #141414;
-            --footer-bg-end: #000000;
+            --footer-bg-start: #1e293b;
+            --footer-bg-end: #0f172a;
             --footer-border-top: 1px solid #334155;
             --footer-heading-color: #94a3b8;
-            --footer-link-color: #b3b3b3;
+            --footer-link-color: #64748b;
             --footer-link-hover-color: #f1f5f9;
             --footer-link-hover-transform: translateX(5px);
             --footer-copyright-color: #475569;
-            --footer-desc-color: #808080;
+            --footer-desc-color: #94a3b8;
 
             /* SOCIALS */
-            --soc-sidebar-bg: #141414;
-            --soc-sidebar-border: #333333;
+            --soc-sidebar-bg: #000000;
+            --soc-sidebar-border: #334155;
             --soc-sidebar-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            --soc-btn-bg: #222222;
-            --soc-btn-border: #333333;
+            --soc-btn-bg: #1e293b;
+            --soc-btn-border: #334155;
             --soc-btn-color: #94a3b8;
-        --soc-btn-radius: 4px;
-            --soc-btn-hover-bg: #262626;
-            --soc-btn-hover-border: #e50914;
+        --soc-btn-radius: 50%;
+            --soc-btn-hover-bg: #007aff;
+            --soc-btn-hover-border: #007aff;
             --soc-btn-hover-transform: translateX(5px);
             --soc-btn-shadow: rgba(0,0,0,0.3);
-            --soc-count: #e6e6e6;
+            --soc-count: #94a3b8;
             
-            --mob-foot-bg: #141414;
+            --mob-foot-bg: #0f172a;
             --mob-foot-border: 1px solid #334155;
             --mob-foot-shadow: 0 -4px 10px rgba(0,0,0,0.5);
             --mob-foot-height: 60px;
@@ -83,57 +83,57 @@
             --toast-border: #16a34a;
 
             /* ... inside UTILS section ... */
-            --btt-bg: #d00000;
+            --btt-bg: #3b82f6;
             --btt-icon: #ffffff;
-            --btt-radius: 50px;
-            --btt-size: 40px;
+            --btt-radius: 50%;
+            --btt-size: 50px;
             
             /* ADD/UPDATE THESE: */
             --btt-border: 0px solid #000000;
             --btt-shadow: 0 4px 10px #000000;
 
             /* LEAGUE CARDS (Footer) */
-            --lc-bg: #222222;
-            --lc-text: #ffffff;
-            --lc-border: 1px solid #333333;
-            --lc-radius: 4px;
-            --lc-hover-bg: #e50914;
+            --lc-bg: #334155;
+            --lc-text: #f8fafc;
+            --lc-border: 0px solid #000000;
+            --lc-radius: 10px;
+            --lc-hover-bg: #007aff;
             --lc-hover-text: #ffffff;
-            --lc-hover-border: 1px solid #e50914;
+            --lc-hover-border: 0px solid #e50914;
 
             
-            --article-bg: #111111;
-            --article-text: #b3b3b3;
-            --article-line-height: 1.6;
-            --article-bullet: #e50914;
-            --article-link: #e50914;
-            --article-h2-color: #ffffff;
-            --article-h2-border: 1px solid #333333;
+            --article-bg: #000000;
+            --article-text: #94a3b8;
+            --article-line-height: 1.7;
+            --article-bullet: #007aff;
+            --article-link: #00c7ff;
+            --article-h2-color: #f8fafc;
+            --article-h2-border: 0px solid #000000;
             
-            --scrollbar-thumb-color: #e50914;
+            --scrollbar-thumb-color: #007aff;
             --skeleton-gradient-start: #1e293b;
             --skeleton-gradient-mid: #334155;
             --skeleton-gradient-end: #1e293b;
 
             /* --- NEW WATCH VARIABLES --- */
-            --chat-header-bg: #141414;
-            --chat-header-text: #e50914;
+            --chat-header-bg: #1e293b;
+            --chat-header-text: #f8fafc;
             --chat-dot-color: #a12b2b;
             --chat-dot-size: 6px;
             --chat-overlay-bg: rgba(2, 3, 23, 0.9);
             --chat-input-bg: #000000;
             --chat-input-text: #e6e6e6;
             
-            --w-table-head-bg: #181818;
-            --w-table-body-bg: #111111;
-            --w-table-border: #333333;
-            --w-table-radius: 6;
-            --w-team-color: #ffffff;
-            --w-vs-color: #bababa;
+            --w-table-head-bg: #334155;
+            --w-table-body-bg: #1e293b;
+            --w-table-border: #475569;
+            --w-table-radius: 5px;
+            --w-team-color: #f8fafc;
+            --w-vs-color: #d1d1d1;
             --w-team-size: 1.4rem;
             --w-vs-size: 2rem;
             
-            --w-btn-bg: #e50914;
+            --w-btn-bg: #007aff;
             --w-btn-text: #ffffff;
             --w-btn-dis-bg: #413e3e;
             --w-btn-dis-text: #daf609;
@@ -436,7 +436,7 @@
         .social-sidebar { 
             position: fixed; 
             left: 0; /* Use dynamic left */
-            top: 50%;   /* Changed DESKTOP to DESK */
+            top: 55%;   /* Changed DESKTOP to DESK */
             transform: translateY(-50%) scale(1.0); /* Changed DESKTOP to DESK */
             z-index: 90; 
             display: flex; flex-direction: column; gap: 8px; 
@@ -456,10 +456,10 @@
             cursor: pointer; 
         }
         .social-btn svg { width: 20px; height: 20px; fill: currentColor; display: block; }
-        .social-btn.telegram { color: #0088cc; } 
-        .social-btn.whatsapp { color: #25d366; }
-        .social-btn.reddit { color: #ff4500; } 
-        .social-btn.twitter { color: #1da1f2; } 
+        .social-btn.telegram { color: #38bdf8; } 
+        .social-btn.whatsapp { color: #4ade80; }
+        .social-btn.reddit { color: #fb7185; } 
+        .social-btn.twitter { color: #38bdf8; } 
         .social-btn.copy { color: var(--soc-btn-color); }
         
         .social-btn:hover { 
@@ -535,7 +535,7 @@
         
         #stream-h1 { font-family: var(--font-family-headings); }
         /* FIX: Apply Admin Border Settings to Footer Leagues Title */
-        #footer-leagues-section .sec-head { border-bottom: 1px solid #333333; }
+        #footer-leagues-section .sec-head { border-bottom: 2px solid #334155; }
     </style>
 <meta name="google-site-verification" content="C7MbhV3eAjVUwCdk-U2bVA3Vnwq7JPi7szIM3Q_wg2A" />
 
@@ -567,9 +567,9 @@
 
     <div id="socialSidebar" class="social-sidebar"></div>
 
-    <header class="h-layout-standard">
+    <header class="h-layout-inverted">
         <div class="header-container">
-            <a href="/" class="logo-link"><img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #360205;"> <div class="logo-text" style="color:#e50914;">Stream<span style="color:#ffffff;">East</span></div></a>
+            <a href="/" class="logo-link"><img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #007aff;"> <div class="logo-text" style="color:#f8fafc;">Stream<span style="color:#007aff;">East</span></div></a>
             <nav class="nav-links" id="desktopNav"><a href="/#schedule" class="highlighted">Schedule</a><a href="/#features">Features</a><a href="/#faqs">FAQs</a><a href="/about">Who We Are</a></nav>
             <button class="hamburger" onclick="toggleMenu()">☰</button>
         </div>
@@ -850,7 +850,7 @@
     </div>
     <div></div>
     <div class="f-brand">
-        <img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #360205;"> <div class="logo-text" style="color:#e50914;">Stream<span style="color:#ffffff;">East</span></div> 
+        <img src="/assets/streameast-logo.webp" alt="StreamEast" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #007aff;"> <div class="logo-text" style="color:#f8fafc;">Stream<span style="color:#007aff;">East</span></div> 
     </div>
     </div>
         <div class="copyright">© 2026 StreamEast — Live sports streaming platform for major leagues and global tournaments in HD.</div>
@@ -882,18 +882,18 @@
         const SHARE_CONFIG = {"counts": {"telegram": 3444, "whatsapp": 34444, "reddit": 34444, "twitter": 34444}, "excluded_pages": "dmca,contact,about,privacy"};
 
         const W_CONFIG = {
-            sidebar_swap: false, 
+            sidebar_swap: true, 
             ad1: true,             
             ad2: false,             
             discord: true,     
-            discord_order: "bottom", 
+            discord_order: "top", 
             text_join: "Join Room",
-            text_chat_title: "Live Chat",
+            text_chat_title: "Join Chat",
             text_discord_title: "Join Discord",
             text_discord_btn: "Join",
-            text_watch_btn: "Watch Live Stream",
-            text_watch_dis: "Stream Starts Soon",
-            text_info_btn: "View Match Info"
+            text_watch_btn: "Watch Now",
+            text_watch_dis: "Upcoming",
+            text_info_btn: "Match info"
         };
         
         const W_SEO = { title_tpl: "{{HOME}} vs {{AWAY}} Live Stream | {{LEAGUE}} - StreamEast", desc_tpl: "Live coverage details for {{HOME}} vs {{AWAY}} in the {{LEAGUE}}. Check scheduled start time, streaming availability, and browser compatibility on StreamEast.", title_single: "Watch {{VS}} Live Stream Online | {{LEAGUE}} Event - StreamEast", desc_single: "Official broadcast schedule for {{VS}} in the {{LEAGUE}}. View start times, fight card details, and live streaming availability for this {{SPORT}} event on StreamEast." };
