@@ -538,8 +538,8 @@
         "highlight": true
       },
       {
-        "title": "Features",
-        "url": "/#features",
+        "title": "User Guide",
+        "url": "/#user-guide",
         "highlight": false
       },
       {
@@ -548,8 +548,8 @@
         "highlight": false
       },
       {
-        "title": "Who We Are",
-        "url": "/about",
+        "title": "Founder Story",
+        "url": "/founder-story/",
         "highlight": false
       }
     ],
@@ -591,20 +591,20 @@
     ],
     "footer_static": [
       {
-        "title": "Copyright Policy",
-        "url": "/copyright-policy/"
-      },
-      {
         "title": "Privacy Policy",
-        "url": "/privacy"
+        "url": "/privacy/"
       },
       {
         "title": "Terms & Conditions",
-        "url": "/terms"
+        "url": "/terms/"
       },
       {
-        "title": "Contact",
-        "url": "/contact"
+        "title": "Copyright Policy",
+        "url": "/dmca/"
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact/"
       }
     ],
     "footer_leagues": [
