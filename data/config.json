@@ -167,7 +167,7 @@
     "sys_status_radius": "15",
     "sys_status_dot_color": "#60a5fa",
     "sys_status_dot_size": "10",
-    "static_h1_align": "left",
+    "static_h1_align": "center",
     "footer_columns": "3",
     "footer_show_disclaimer": false,
     "footer_slot_1": "menu",
@@ -404,7 +404,28 @@
         "org": true,
         "live": true,
         "schedule": true,
-        "faq_list": [],
+        "faq_list": [
+          {
+            "q": "Is an account required to use Buffstreams? ",
+            "a": "No, Buffstreams does not require users to sign up. We prioritize user privacy and safety by ensuring links and streams are accessed immediately. This policy is part of Buffstreams' commitment to a seamless user experience. Visit the site, select a sport, and watch."
+          },
+          {
+            "q": "What sports are available on Buffstreams?",
+            "a": "While Buffstreams is renowned for NFL, NBA, and Soccer, the hub covers global sports. The schedule includes Cricket matches, Rugby tournaments, F1 racing, Tennis grand slams, and MLB Baseball. This ensures sports enthusiasts find preferred events."
+          },
+          {
+            "q": "How does Buffstreams ensure link quality?",
+            "a": "Buffstreams uses Adaptive Bitrate Streaming (ABR). Adaptive Bitrate Streaming (ABR) detects internet connection speed and adjusts quality. This prevents the stream from stopping, ensuring you don't miss moments like a goal or knockout."
+          },
+          {
+            "q": "Can I use Chromecast or AirPlay with Buffstreams?",
+            "a": "Yes, Buffstreams is compatible with casting. Use Chromecast to project the stream from Chrome to your TV, or AirPlay on iOS. This allows for a flexible viewing experience, turning your living room into a theater."
+          },
+          {
+            "q": "Why does the video sometimes lag on mobile? ",
+            "a": "Lag is due to congestion or weak Wi-Fi. Buffstreams recommends 5GHz Wi-Fi or 5G data. Additionally, utilizing the H.265 (HEVC) Codec via a modern browser reduces data load, smoothing the stream."
+          }
+        ],
         "website": true,
         "faq": true,
         "about": false
