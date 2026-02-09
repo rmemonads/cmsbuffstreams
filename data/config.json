@@ -11,7 +11,7 @@
     "custom_meta_tags": [
       "<meta name=\"google-site-verification\" content=\"\" />"
     ],
-    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://totalsportek.top/sitemap.xml",
+    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://streameastlive.cc/sitemap.xml",
     "domain": "streameastlive.cc",
     "logo_url": "/assets/streameast-logo.webp",
     "favicon_url": "/assets/streameast.png",
@@ -228,7 +228,7 @@
     "text_section_suffix": "Schedule",
     "league_live_title": "Trending Live",
     "league_upcoming_prefix": "Upcoming",
-    "league_upcoming_suffix": "",
+    "league_upcoming_suffix": "Matches",
     "match_row_radius": "5",
     "social_btn_radius": "50%",
     "back_to_top_border_color": "#000000",
