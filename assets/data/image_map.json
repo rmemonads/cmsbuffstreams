@@ -1069,7 +1069,19 @@
         "Galway United": "assets/logos/upstreams/galway-united.webp",
         "Shelbourne": "assets/logos/upstreams/shelbourne.webp",
         "Shamrock Rovers": "assets/logos/upstreams/shamrock-rovers.webp",
-        "Tondela": "assets/logos/upstreams/tondela.webp"
+        "Tondela": "assets/logos/upstreams/tondela.webp",
+        "Univ. Craiova": "assets/logos/upstreams/univ-craiova.webp",
+        "Dinamo Bucuresti": "assets/logos/upstreams/dinamo-bucuresti.webp",
+        "CS U. Craiova": "assets/logos/upstreams/cs-u-craiova.webp",
+        "FC Emmen": "assets/logos/upstreams/fc-emmen.webp",
+        "SC Cambuur": "assets/logos/upstreams/sc-cambuur.webp",
+        "Famalic\u00e3o": "assets/logos/upstreams/famalic\u00e3o.webp",
+        "AVS - Futebol SAD": "assets/logos/upstreams/avs-futebol-sad.webp",
+        "Santander": "assets/logos/upstreams/santander.webp",
+        "Graeme Angus": "assets/logos/upstreams/graeme-angus.webp",
+        "Rafael Botran Neutze": "assets/logos/upstreams/rafael-botran-neutze.webp",
+        "Derry City": "assets/logos/upstreams/derry-city.webp",
+        "Dundalk": "assets/logos/upstreams/dundalk.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -1232,6 +1244,7 @@
         "Scottish Premier": "assets/logos/leagues/scottish-premier.webp",
         "Olympic Games": "assets/logos/leagues/olympic-games.webp",
         "The Ford Trophy": "assets/logos/leagues/the-ford-trophy.webp",
-        "Ireland - Premier Division": "assets/logos/leagues/ireland-premier-division.webp"
+        "Ireland - Premier Division": "assets/logos/leagues/ireland-premier-division.webp",
+        "I liga": "assets/logos/leagues/i-liga.webp"
     }
 }
