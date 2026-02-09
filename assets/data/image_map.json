@@ -1168,7 +1168,19 @@
         "Indiana State": "assets/logos/streamed/indiana-state.webp",
         "Southern Illinois": "assets/logos/streamed/southern-illinois.webp",
         "North Alabama": "assets/logos/streamed/north-alabama.webp",
-        "Central Arkansas": "assets/logos/streamed/central-arkansas.webp"
+        "Central Arkansas": "assets/logos/streamed/central-arkansas.webp",
+        "Drake": "assets/logos/streamed/drake.webp",
+        "Valparaiso": "assets/logos/streamed/valparaiso.webp",
+        "McNeese State": "assets/logos/streamed/mcneese-state.webp",
+        "Houston Baptist": "assets/logos/streamed/houston-baptist.webp",
+        "Bradley": "assets/logos/streamed/bradley.webp",
+        "Belmont": "assets/logos/streamed/belmont.webp",
+        "Evansville": "assets/logos/streamed/evansville.webp",
+        "Illinois State": "assets/logos/streamed/illinois-state.webp",
+        "New Orleans": "assets/logos/streamed/new-orleans.webp",
+        "Texas A and M-Corpus Christi": "assets/logos/streamed/texas-a-and-m-corpus-christi.webp",
+        "Murray State": "assets/logos/streamed/murray-state.webp",
+        "Northern Iowa": "assets/logos/streamed/northern-iowa.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
