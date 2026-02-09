@@ -645,7 +645,7 @@
       "reddit": 54345,
       "twitter": 75544
     },
-    "excluded_pages": "dmca,contact,about,privacy"
+    "excluded_pages": "dmca, contact, founder-story, privacy, terms"
   },
   "theme_league": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
