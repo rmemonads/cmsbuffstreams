@@ -11,10 +11,10 @@
     "custom_meta_tags": [
       "<meta name=\"google-site-verification\" content=\"\" />"
     ],
-    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://streameastlive.cc/sitemap.xml",
-    "domain": "streameastlive.cc",
-    "logo_url": "/assets/streameast-logo.webp",
-    "favicon_url": "/assets/streameast.png",
+    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://buffstreamslive.cc/sitemap.xml",
+    "domain": "buffstreamslive.cc",
+    "logo_url": "/assets/buffstreams-logo.webp",
+    "favicon_url": "/assets/buffstreams-icon.png",
     "footer_copyright": "© 2026 Buffstreams — Online live sports streaming platform for major leagues, teams, and international tournaments worldwide.",
     "footer_disclaimer": "",
     "target_country": "US",
