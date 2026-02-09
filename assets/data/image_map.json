@@ -1161,7 +1161,14 @@
         "Switzerland U17": "assets/logos/streamed/switzerland-u17.webp",
         "Netherlands U17": "assets/logos/streamed/netherlands-u17.webp",
         "OFI": "assets/logos/streamed/ofi.webp",
-        "Cluj-Napoca": "assets/logos/streamed/cluj-napoca.webp"
+        "Cluj-Napoca": "assets/logos/streamed/cluj-napoca.webp",
+        "St Johns": "assets/logos/streamed/st-johns.webp",
+        "Howard": "assets/logos/streamed/howard.webp",
+        "Yale": "assets/logos/streamed/yale.webp",
+        "Indiana State": "assets/logos/streamed/indiana-state.webp",
+        "Southern Illinois": "assets/logos/streamed/southern-illinois.webp",
+        "North Alabama": "assets/logos/streamed/north-alabama.webp",
+        "Central Arkansas": "assets/logos/streamed/central-arkansas.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
