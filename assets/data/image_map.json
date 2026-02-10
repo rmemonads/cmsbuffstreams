@@ -1283,7 +1283,9 @@
         "LSU": "assets/logos/streamed/lsu.webp",
         "Arkansas": "assets/logos/streamed/arkansas.webp",
         "UNLV": "assets/logos/streamed/unlv.webp",
-        "San Jose State": "assets/logos/streamed/san-jose-state.webp"
+        "San Jose State": "assets/logos/streamed/san-jose-state.webp",
+        "Baylor": "assets/logos/streamed/baylor.webp",
+        "BYU": "assets/logos/streamed/byu.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
