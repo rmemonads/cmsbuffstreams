@@ -1285,7 +1285,18 @@
         "UNLV": "assets/logos/streamed/unlv.webp",
         "San Jose State": "assets/logos/streamed/san-jose-state.webp",
         "Baylor": "assets/logos/streamed/baylor.webp",
-        "BYU": "assets/logos/streamed/byu.webp"
+        "BYU": "assets/logos/streamed/byu.webp",
+        "Belgium U17": "assets/logos/streamed/belgium-u17.webp",
+        "Czech Republic U17": "assets/logos/streamed/czech-republic-u17.webp",
+        "Vasco da Gama": "assets/logos/streamed/vasco-da-gama.webp",
+        "CF America": "assets/logos/streamed/cf-america.webp",
+        "Internacional de Bogot\u00e1": "assets/logos/streamed/internacional-de-bogot\u00e1.webp",
+        "Switzerland Ice Hockey": "assets/logos/streamed/switzerland-ice-hockey.webp",
+        "France Ice Hockey": "assets/logos/streamed/france-ice-hockey.webp",
+        "Czech Republic Ice Hockey": "assets/logos/streamed/czech-republic-ice-hockey.webp",
+        "Canada Ice Hockey": "assets/logos/streamed/canada-ice-hockey.webp",
+        "Brentford": "assets/logos/streamed/brentford.webp",
+        "Arsenal": "assets/logos/streamed/arsenal.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
