@@ -1395,7 +1395,9 @@
         "Grand Canyon": "assets/logos/streamed/grand-canyon.webp",
         "New Mexico": "assets/logos/streamed/new-mexico.webp",
         "Pacific": "assets/logos/streamed/pacific.webp",
-        "Loyola Marymount": "assets/logos/streamed/loyola-marymount.webp"
+        "Loyola Marymount": "assets/logos/streamed/loyola-marymount.webp",
+        "Great Britain Curling": "assets/logos/streamed/great-britain-curling.webp",
+        "Sweden Curling": "assets/logos/streamed/sweden-curling.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
