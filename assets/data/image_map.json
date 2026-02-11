@@ -1385,7 +1385,17 @@
         "DePaul": "assets/logos/streamed/depaul.webp",
         "Creighton": "assets/logos/streamed/creighton.webp",
         "Kansas State": "assets/logos/streamed/kansas-state.webp",
-        "Cincinnati": "assets/logos/streamed/cincinnati.webp"
+        "Cincinnati": "assets/logos/streamed/cincinnati.webp",
+        "New Mexico State": "assets/logos/streamed/new-mexico-state.webp",
+        "Liberty": "assets/logos/streamed/liberty.webp",
+        "Georgia Tech": "assets/logos/streamed/georgia-tech.webp",
+        "Wake Forest": "assets/logos/streamed/wake-forest.webp",
+        "Boston College": "assets/logos/streamed/boston-college.webp",
+        "Stanford": "assets/logos/streamed/stanford.webp",
+        "Grand Canyon": "assets/logos/streamed/grand-canyon.webp",
+        "New Mexico": "assets/logos/streamed/new-mexico.webp",
+        "Pacific": "assets/logos/streamed/pacific.webp",
+        "Loyola Marymount": "assets/logos/streamed/loyola-marymount.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
