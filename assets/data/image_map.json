@@ -1300,7 +1300,9 @@
         "Afghanistan Cricket": "assets/logos/streamed/afghanistan-cricket.webp",
         "South Africa Cricket": "assets/logos/streamed/south-africa-cricket.webp",
         "Australia Cricket": "assets/logos/streamed/australia-cricket.webp",
-        "Ireland Cricket": "assets/logos/streamed/ireland-cricket.webp"
+        "Ireland Cricket": "assets/logos/streamed/ireland-cricket.webp",
+        "England Cricket": "assets/logos/streamed/england-cricket.webp",
+        "West Indies Cricket": "assets/logos/streamed/west-indies-cricket.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
