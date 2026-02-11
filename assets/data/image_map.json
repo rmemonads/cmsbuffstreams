@@ -1296,7 +1296,11 @@
         "Czech Republic Ice Hockey": "assets/logos/streamed/czech-republic-ice-hockey.webp",
         "Canada Ice Hockey": "assets/logos/streamed/canada-ice-hockey.webp",
         "Brentford": "assets/logos/streamed/brentford.webp",
-        "Arsenal": "assets/logos/streamed/arsenal.webp"
+        "Arsenal": "assets/logos/streamed/arsenal.webp",
+        "Afghanistan Cricket": "assets/logos/streamed/afghanistan-cricket.webp",
+        "South Africa Cricket": "assets/logos/streamed/south-africa-cricket.webp",
+        "Australia Cricket": "assets/logos/streamed/australia-cricket.webp",
+        "Ireland Cricket": "assets/logos/streamed/ireland-cricket.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
