@@ -1410,7 +1410,10 @@
         "Elche": "assets/logos/streamed/elche.webp",
         "Osasuna": "assets/logos/streamed/osasuna.webp",
         "Nantes": "assets/logos/streamed/nantes.webp",
-        "Sri Lanka Cricket": "assets/logos/streamed/sri-lanka-cricket.webp"
+        "Sri Lanka Cricket": "assets/logos/streamed/sri-lanka-cricket.webp",
+        "Italy Cricket": "assets/logos/streamed/italy-cricket.webp",
+        "Nepal Cricket": "assets/logos/streamed/nepal-cricket.webp",
+        "India Cricket": "assets/logos/streamed/india-cricket.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
