@@ -1397,7 +1397,19 @@
         "Pacific": "assets/logos/streamed/pacific.webp",
         "Loyola Marymount": "assets/logos/streamed/loyola-marymount.webp",
         "Great Britain Curling": "assets/logos/streamed/great-britain-curling.webp",
-        "Sweden Curling": "assets/logos/streamed/sweden-curling.webp"
+        "Sweden Curling": "assets/logos/streamed/sweden-curling.webp",
+        "Rionegro Aguilas": "assets/logos/streamed/rionegro-aguilas.webp",
+        "Argentinos Juniors": "assets/logos/streamed/argentinos-juniors.webp",
+        "Highlanders Super Rugby": "assets/logos/streamed/highlanders-super-rugby.webp",
+        "Crusaders Super Rugby": "assets/logos/streamed/crusaders-super-rugby.webp",
+        "New South Wales Waratahs": "assets/logos/streamed/new-south-wales-waratahs.webp",
+        "Queensland Reds": "assets/logos/streamed/queensland-reds.webp",
+        "Al-Shabab": "assets/logos/streamed/al-shabab.webp",
+        "Pisa": "assets/logos/streamed/pisa.webp",
+        "AC Milan": "assets/logos/streamed/ac-milan.webp",
+        "Elche": "assets/logos/streamed/elche.webp",
+        "Osasuna": "assets/logos/streamed/osasuna.webp",
+        "Nantes": "assets/logos/streamed/nantes.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
