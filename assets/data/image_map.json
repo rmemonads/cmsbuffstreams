@@ -1636,7 +1636,14 @@
         "Defensa Y Justicia": "assets/logos/streamed/defensa-y-justicia.webp",
         "FC Midtjylland": "assets/logos/streamed/fc-midtjylland.webp",
         "Kennesaw State": "assets/logos/streamed/kennesaw-state.webp",
-        "Middle Tennessee": "assets/logos/streamed/middle-tennessee.webp"
+        "Middle Tennessee": "assets/logos/streamed/middle-tennessee.webp",
+        "Missouri State": "assets/logos/streamed/missouri-state.webp",
+        "Louisiana Tech": "assets/logos/streamed/louisiana-tech.webp",
+        "San Francisco": "assets/logos/streamed/san-francisco.webp",
+        "Oregon State": "assets/logos/streamed/oregon-state.webp",
+        "Abilene Christian": "assets/logos/streamed/abilene-christian.webp",
+        "Texas-Arlington": "assets/logos/streamed/texas-arlington.webp",
+        "North Texas": "assets/logos/streamed/north-texas.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
