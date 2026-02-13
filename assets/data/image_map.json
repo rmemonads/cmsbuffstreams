@@ -1704,7 +1704,9 @@
         "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp",
         "Melbourne Storm": "assets/logos/streamed/melbourne-storm.webp",
         "North Queensland Cowboys": "assets/logos/streamed/north-queensland-cowboys.webp",
-        "Penrith Panthers": "assets/logos/streamed/penrith-panthers.webp"
+        "Penrith Panthers": "assets/logos/streamed/penrith-panthers.webp",
+        "Warrington Wolves": "assets/logos/streamed/warrington-wolves.webp",
+        "St Helens": "assets/logos/streamed/st-helens.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
