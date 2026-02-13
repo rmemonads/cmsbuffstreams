@@ -1700,7 +1700,11 @@
         "Brest": "assets/logos/streamed/brest.webp",
         "Paris FC": "assets/logos/streamed/paris-fc.webp",
         "Lens": "assets/logos/streamed/lens.webp",
-        "Canada Cricket": "assets/logos/streamed/canada-cricket.webp"
+        "Canada Cricket": "assets/logos/streamed/canada-cricket.webp",
+        "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp",
+        "Melbourne Storm": "assets/logos/streamed/melbourne-storm.webp",
+        "North Queensland Cowboys": "assets/logos/streamed/north-queensland-cowboys.webp",
+        "Penrith Panthers": "assets/logos/streamed/penrith-panthers.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
