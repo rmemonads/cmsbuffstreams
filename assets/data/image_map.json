@@ -2588,7 +2588,14 @@
         "Carolina Ascent": "assets/logos/upstreams/carolina-ascent.webp",
         "Spokane Zephyr FC": "assets/logos/upstreams/spokane-zephyr-fc.webp",
         "Sporting Cristal": "assets/logos/upstreams/sporting-cristal.webp",
-        "O'Higgins": "assets/logos/upstreams/ohiggins.webp"
+        "O'Higgins": "assets/logos/upstreams/ohiggins.webp",
+        "Switzerland Curling": "assets/logos/streamed/switzerland-curling.webp",
+        "Canada Curling": "assets/logos/streamed/canada-curling.webp",
+        "Fort Lauderdale United": "assets/logos/upstreams/fort-lauderdale-united.webp",
+        "Brooklyn FC": "assets/logos/upstreams/brooklyn-fc.webp",
+        "Kalev/Cramo": "assets/logos/upstreams/kalevcramo.webp",
+        "Vardan Manukyan": "assets/logos/upstreams/vardan-manukyan.webp",
+        "Janos Fekete": "assets/logos/upstreams/janos-fekete.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
