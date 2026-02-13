@@ -2582,7 +2582,9 @@
         "ASM Clermont Auvergne": "assets/logos/streamed/asm-clermont-auvergne.webp",
         "Norway": "assets/logos/streamed/norway.webp",
         "China": "assets/logos/streamed/china.webp",
-        "Great Britain": "assets/logos/streamed/great-britain.webp"
+        "Great Britain": "assets/logos/streamed/great-britain.webp",
+        "Attila Dominik Boros": "assets/logos/upstreams/attila-dominik-boros.webp",
+        "Norbert Marosik": "assets/logos/upstreams/norbert-marosik.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
