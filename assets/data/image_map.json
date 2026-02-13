@@ -2584,7 +2584,11 @@
         "China": "assets/logos/streamed/china.webp",
         "Great Britain": "assets/logos/streamed/great-britain.webp",
         "Attila Dominik Boros": "assets/logos/upstreams/attila-dominik-boros.webp",
-        "Norbert Marosik": "assets/logos/upstreams/norbert-marosik.webp"
+        "Norbert Marosik": "assets/logos/upstreams/norbert-marosik.webp",
+        "Carolina Ascent": "assets/logos/upstreams/carolina-ascent.webp",
+        "Spokane Zephyr FC": "assets/logos/upstreams/spokane-zephyr-fc.webp",
+        "Sporting Cristal": "assets/logos/upstreams/sporting-cristal.webp",
+        "O'Higgins": "assets/logos/upstreams/ohiggins.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -2869,6 +2873,7 @@
         "Doha, Qatar, Qualifying": "assets/logos/leagues/doha-qatar-qualifying.webp",
         "Pakistan Women in South Africa, 3 T20I Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-t20i-series.webp",
         "Cricket": "assets/logos/leagues/cricket.webp",
-        "2nd Bundesliga": "assets/logos/leagues/2nd-bundesliga.webp"
+        "2nd Bundesliga": "assets/logos/leagues/2nd-bundesliga.webp",
+        "USL Super League": "assets/logos/leagues/usl-super-league.webp"
     }
 }
