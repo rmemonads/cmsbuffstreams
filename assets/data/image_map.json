@@ -1699,7 +1699,8 @@
         "Lille": "assets/logos/streamed/lille.webp",
         "Brest": "assets/logos/streamed/brest.webp",
         "Paris FC": "assets/logos/streamed/paris-fc.webp",
-        "Lens": "assets/logos/streamed/lens.webp"
+        "Lens": "assets/logos/streamed/lens.webp",
+        "Canada Cricket": "assets/logos/streamed/canada-cricket.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
