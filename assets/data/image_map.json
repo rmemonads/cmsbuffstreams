@@ -1821,7 +1821,20 @@
         "Lech Poznan": "assets/logos/streamed/lech-poznan.webp",
         "Heart Of Midlothian": "assets/logos/streamed/heart-of-midlothian.webp",
         "VfL Wolfsburg": "assets/logos/streamed/vfl-wolfsburg.webp",
-        "Wigan": "assets/logos/streamed/wigan.webp"
+        "Wigan": "assets/logos/streamed/wigan.webp",
+        "Niagara": "assets/logos/streamed/niagara.webp",
+        "Manhattan": "assets/logos/streamed/manhattan.webp",
+        "Siena": "assets/logos/streamed/siena.webp",
+        "Quinnipiac": "assets/logos/streamed/quinnipiac.webp",
+        "Rider": "assets/logos/streamed/rider.webp",
+        "Mount St Marys": "assets/logos/streamed/mount-st-marys.webp",
+        "Canisius": "assets/logos/streamed/canisius.webp",
+        "Iona": "assets/logos/streamed/iona.webp",
+        "Princeton": "assets/logos/streamed/princeton.webp",
+        "Cornell": "assets/logos/streamed/cornell.webp",
+        "Harvard": "assets/logos/streamed/harvard.webp",
+        "Brown": "assets/logos/streamed/brown.webp",
+        "Dartmouth": "assets/logos/streamed/dartmouth.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
