@@ -2523,7 +2523,25 @@
         "Lusitania": "assets/logos/upstreams/lusitania.webp",
         "Moreirense": "assets/logos/upstreams/moreirense.webp",
         "South Africa W": "assets/logos/upstreams/south-africa-w.webp",
-        "Pakistan W": "assets/logos/upstreams/pakistan-w.webp"
+        "Pakistan W": "assets/logos/upstreams/pakistan-w.webp",
+        "Braunschweig": "assets/logos/upstreams/braunschweig.webp",
+        "Metaloglobus Bucuresti": "assets/logos/upstreams/metaloglobus-bucuresti.webp",
+        "Frankfurt": "assets/logos/upstreams/frankfurt.webp",
+        "Bremen": "assets/logos/upstreams/bremen.webp",
+        "Salford": "assets/logos/upstreams/salford.webp",
+        "LASK": "assets/logos/upstreams/lask.webp",
+        "Trabzon": "assets/logos/upstreams/trabzon.webp",
+        "Univ. Cluj": "assets/logos/upstreams/univ-cluj.webp",
+        "Csikszereda Miercurea": "assets/logos/upstreams/csikszereda-miercurea.webp",
+        "1. FC Cologne": "assets/logos/upstreams/1-fc-cologne.webp",
+        "Dyn. Dresden": "assets/logos/upstreams/dyn-dresden.webp",
+        "Monaco Basket": "assets/logos/upstreams/monaco-basket.webp",
+        "Martin Van Der Meerschen": "assets/logos/upstreams/martin-van-der-meerschen.webp",
+        "Akira Santillan": "assets/logos/upstreams/akira-santillan.webp",
+        "Lloyd Harris": "assets/logos/upstreams/lloyd-harris.webp",
+        "Igor Kolaric": "assets/logos/upstreams/igor-kolaric.webp",
+        "Daniel Merida": "assets/logos/upstreams/daniel-merida.webp",
+        "Alejandro Moro Canas": "assets/logos/upstreams/alejandro-moro-canas.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -2807,6 +2825,7 @@
         "Elite League": "assets/logos/leagues/elite-league.webp",
         "Doha, Qatar, Qualifying": "assets/logos/leagues/doha-qatar-qualifying.webp",
         "Pakistan Women in South Africa, 3 T20I Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-t20i-series.webp",
-        "Cricket": "assets/logos/leagues/cricket.webp"
+        "Cricket": "assets/logos/leagues/cricket.webp",
+        "2nd Bundesliga": "assets/logos/leagues/2nd-bundesliga.webp"
     }
 }
