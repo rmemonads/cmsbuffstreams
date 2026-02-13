@@ -2595,7 +2595,15 @@
         "Brooklyn FC": "assets/logos/upstreams/brooklyn-fc.webp",
         "Kalev/Cramo": "assets/logos/upstreams/kalevcramo.webp",
         "Vardan Manukyan": "assets/logos/upstreams/vardan-manukyan.webp",
-        "Janos Fekete": "assets/logos/upstreams/janos-fekete.webp"
+        "Janos Fekete": "assets/logos/upstreams/janos-fekete.webp",
+        "Recoleta": "assets/logos/upstreams/recoleta.webp",
+        "Lexington SC": "assets/logos/upstreams/lexington-sc.webp",
+        "Dallas Trinity": "assets/logos/upstreams/dallas-trinity.webp",
+        "Newfoundland Rogues": "assets/logos/upstreams/newfoundland-rogues.webp",
+        "Sudbury Five": "assets/logos/upstreams/sudbury-five.webp",
+        "CD Toluca": "assets/logos/upstreams/cd-toluca.webp",
+        "Tampa Bay Sun FC": "assets/logos/upstreams/tampa-bay-sun-fc.webp",
+        "DC Power FC": "assets/logos/upstreams/dc-power-fc.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
