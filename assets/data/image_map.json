@@ -3230,7 +3230,27 @@
         "Tanzania Prisons": "assets/logos/upstreams/tanzania-prisons.webp",
         "Namungo": "assets/logos/upstreams/namungo.webp",
         "Anders Antonsen": "assets/logos/upstreams/anders-antonsen.webp",
-        "Harry Huang": "assets/logos/upstreams/harry-huang.webp"
+        "Harry Huang": "assets/logos/upstreams/harry-huang.webp",
+        "Mjallby": "assets/logos/upstreams/mjallby.webp",
+        "Oster": "assets/logos/upstreams/oster.webp",
+        "MTK Budapest": "assets/logos/upstreams/mtk-budapest.webp",
+        "Puskas Academy": "assets/logos/upstreams/puskas-academy.webp",
+        "Vital'O": "assets/logos/upstreams/vitalo.webp",
+        "Muzinga FC": "assets/logos/upstreams/muzinga-fc.webp",
+        "Rukinzo": "assets/logos/upstreams/rukinzo.webp",
+        "Aigle Noir": "assets/logos/upstreams/aigle-noir.webp",
+        "Chloraka": "assets/logos/upstreams/chloraka.webp",
+        "Djurgarden": "assets/logos/upstreams/djurgarden.webp",
+        "Ceadir-Lunga": "assets/logos/upstreams/ceadir-lunga.webp",
+        "Gloria": "assets/logos/upstreams/gloria.webp",
+        "Iraklis": "assets/logos/upstreams/iraklis.webp",
+        "Proleter 023 (W)": "assets/logos/upstreams/proleter-023-w.webp",
+        "Nicolas Calixto": "assets/logos/upstreams/nicolas-calixto.webp",
+        "Alexander Guajardo": "assets/logos/upstreams/alexander-guajardo.webp",
+        "William Semler": "assets/logos/upstreams/william-semler.webp",
+        "Dev Mangat": "assets/logos/upstreams/dev-mangat.webp",
+        "Amy Lee": "assets/logos/upstreams/amy-lee.webp",
+        "Union Bordeaux B\u00e8gles": "assets/logos/upstreams/union-bordeaux-b\u00e8gles.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3599,6 +3619,9 @@
         "Indonesia Liga 1": "assets/logos/leagues/indonesia-liga-1.webp",
         "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
         "Rugby Europe Championship, Group B": "assets/logos/leagues/rugby-europe-championship-group-b.webp",
-        "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp"
+        "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
+        "Cyprus League": "assets/logos/leagues/cyprus-league.webp",
+        "Greece Basketball League": "assets/logos/leagues/greece-basketball-league.webp",
+        "France - Top 14": "assets/logos/leagues/france-top-14.webp"
     }
 }
