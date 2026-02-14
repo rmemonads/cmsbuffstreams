@@ -3420,7 +3420,23 @@
         "Roasso Kumamoto": "assets/logos/upstreams/roasso-kumamoto.webp",
         "Tegevajaro Miyazaki": "assets/logos/upstreams/tegevajaro-miyazaki.webp",
         "Gainare Tottori": "assets/logos/upstreams/gainare-tottori.webp",
-        "Tereza Vajsejtlova": "assets/logos/upstreams/tereza-vajsejtlova.webp"
+        "Tereza Vajsejtlova": "assets/logos/upstreams/tereza-vajsejtlova.webp",
+        "FC Inter Wanica": "assets/logos/upstreams/fc-inter-wanica.webp",
+        "Uni\u00e3o Recreativa dos Trabalhadores": "assets/logos/upstreams/uni\u00e3o-recreativa-dos-trabalhadores.webp",
+        "Am\u00e9rica Mineiro": "assets/logos/upstreams/am\u00e9rica-mineiro.webp",
+        "North Esporte Clube": "assets/logos/upstreams/north-esporte-clube.webp",
+        "Kaya-Iloilo": "assets/logos/upstreams/kaya-iloilo.webp",
+        "Tuloy FC": "assets/logos/upstreams/tuloy-fc.webp",
+        "Ann Li": "assets/logos/upstreams/ann-li.webp",
+        "Marie Bouzkova": "assets/logos/upstreams/marie-bouzkova.webp",
+        "Elise Mertens": "assets/logos/upstreams/elise-mertens.webp",
+        "Liudmila Samsonova": "assets/logos/upstreams/liudmila-samsonova.webp",
+        "Leylah Annie Fernandez": "assets/logos/upstreams/leylah-annie-fernandez.webp",
+        "Sara Bejlek": "assets/logos/upstreams/sara-bejlek.webp",
+        "Ramkumar Ramanathan": "assets/logos/upstreams/ramkumar-ramanathan.webp",
+        "Tsung-Hao Huang": "assets/logos/upstreams/tsung-hao-huang.webp",
+        "Uisung Park": "assets/logos/upstreams/uisung-park.webp",
+        "Sasikumar Mukund": "assets/logos/upstreams/sasikumar-mukund.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3807,6 +3823,9 @@
         "Italy Serie A": "assets/logos/leagues/italy-serie-a.webp",
         "Saint Kitts & Nevis - Premier League": "assets/logos/leagues/saint-kitts-nevis-premier-league.webp",
         "J2/J3 League, West B": "assets/logos/leagues/j2j3-league-west-b.webp",
-        "Rugby Top 14": "assets/logos/leagues/rugby-top-14.webp"
+        "Rugby Top 14": "assets/logos/leagues/rugby-top-14.webp",
+        "Brazil Mineiro": "assets/logos/leagues/brazil-mineiro.webp",
+        "Dubai, UAE": "assets/logos/leagues/dubai-uae.webp",
+        "WTA Dubai": "assets/logos/leagues/wta-dubai.webp"
     }
 }
