@@ -3167,7 +3167,13 @@
         "Mia Blichfeldt": "assets/logos/upstreams/mia-blichfeldt.webp",
         "Sofiia Lavrova": "assets/logos/upstreams/sofiia-lavrova.webp",
         "FAP Priboj": "assets/logos/streamed/fap-priboj.webp",
-        "U\u0161\u0107e": "assets/logos/streamed/u\u0161\u0107e.webp"
+        "U\u0161\u0107e": "assets/logos/streamed/u\u0161\u0107e.webp",
+        "Benjamin Willwerth": "assets/logos/upstreams/benjamin-willwerth.webp",
+        "Adam Walton": "assets/logos/upstreams/adam-walton.webp",
+        "Nicolas Moreno de Alboran": "assets/logos/upstreams/nicolas-moreno-de-alboran.webp",
+        "Cookie Jarvis-Tredgett": "assets/logos/upstreams/cookie-jarvis-tredgett.webp",
+        "Stefani Stoeva": "assets/logos/upstreams/stefani-stoeva.webp",
+        "Ozge Bayrak": "assets/logos/upstreams/ozge-bayrak.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3526,6 +3532,7 @@
         "FIH Pro League Women": "assets/logos/leagues/fih-pro-league-women.webp",
         "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp",
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
-        "Delray Beach, USA, Qualifying": "assets/logos/leagues/delray-beach-usa-qualifying.webp"
+        "Delray Beach, USA, Qualifying": "assets/logos/leagues/delray-beach-usa-qualifying.webp",
+        "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp"
     }
 }
