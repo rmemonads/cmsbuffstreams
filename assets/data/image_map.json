@@ -3142,7 +3142,30 @@
         "Kaloyana Nalbantova": "assets/logos/upstreams/kaloyana-nalbantova.webp",
         "Neslihan Yigit": "assets/logos/upstreams/neslihan-yigit.webp",
         "Line Kjaersfeldt": "assets/logos/upstreams/line-kjaersfeldt.webp",
-        "Polina Buhrova": "assets/logos/upstreams/polina-buhrova.webp"
+        "Polina Buhrova": "assets/logos/upstreams/polina-buhrova.webp",
+        "BFC Daugavpils": "assets/logos/upstreams/bfc-daugavpils.webp",
+        "PSM Makassar": "assets/logos/upstreams/psm-makassar.webp",
+        "Dewa United FC": "assets/logos/upstreams/dewa-united-fc.webp",
+        "Tristan Schoolkate": "assets/logos/upstreams/tristan-schoolkate.webp",
+        "Liam Draxl": "assets/logos/upstreams/liam-draxl.webp",
+        "Vilius Gaubas": "assets/logos/upstreams/vilius-gaubas.webp",
+        "Chun-Hsin Tseng": "assets/logos/upstreams/chun-hsin-tseng.webp",
+        "Igor Marcondes": "assets/logos/upstreams/igor-marcondes.webp",
+        "Elmer Moller": "assets/logos/upstreams/elmer-moller.webp",
+        "Francesco Passaro": "assets/logos/upstreams/francesco-passaro.webp",
+        "Jaime Faria": "assets/logos/upstreams/jaime-faria.webp",
+        "Nicolas Jarry": "assets/logos/upstreams/nicolas-jarry.webp",
+        "Yibing Wu": "assets/logos/upstreams/yibing-wu.webp",
+        "Yoshihito Nishioka": "assets/logos/upstreams/yoshihito-nishioka.webp",
+        "Coleman Wong": "assets/logos/upstreams/coleman-wong.webp",
+        "Dalibor Svrcina": "assets/logos/upstreams/dalibor-svrcina.webp",
+        "Nicolas Mejia": "assets/logos/upstreams/nicolas-mejia.webp",
+        "Michael Mmoh": "assets/logos/upstreams/michael-mmoh.webp",
+        "Rinky Hijikata": "assets/logos/upstreams/rinky-hijikata.webp",
+        "Shintaro Mochizuki": "assets/logos/upstreams/shintaro-mochizuki.webp",
+        "Ghanim AL Sulaiti": "assets/logos/upstreams/ghanim-al-sulaiti.webp",
+        "Mia Blichfeldt": "assets/logos/upstreams/mia-blichfeldt.webp",
+        "Sofiia Lavrova": "assets/logos/upstreams/sofiia-lavrova.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3499,6 +3522,8 @@
         "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp",
         "Rio de Janeiro, Brazil, Qualifying": "assets/logos/leagues/rio-de-janeiro-brazil-qualifying.webp",
         "FIH Pro League Women": "assets/logos/leagues/fih-pro-league-women.webp",
-        "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp"
+        "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp",
+        "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
+        "Delray Beach, USA, Qualifying": "assets/logos/leagues/delray-beach-usa-qualifying.webp"
     }
 }
