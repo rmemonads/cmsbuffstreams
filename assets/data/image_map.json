@@ -3352,7 +3352,13 @@
         "Alexandr Binda": "assets/logos/upstreams/alexandr-binda.webp",
         "North Dakota State": "assets/logos/streamed/north-dakota-state.webp",
         "UTEP": "assets/logos/streamed/utep.webp",
-        "East Carolina": "assets/logos/streamed/east-carolina.webp"
+        "East Carolina": "assets/logos/streamed/east-carolina.webp",
+        "Radford": "assets/logos/streamed/radford.webp",
+        "Charleston Southern": "assets/logos/streamed/charleston-southern.webp",
+        "Jackson State": "assets/logos/streamed/jackson-state.webp",
+        "Florida A and M": "assets/logos/streamed/florida-a-and-m.webp",
+        "Oklahoma": "assets/logos/streamed/oklahoma.webp",
+        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
