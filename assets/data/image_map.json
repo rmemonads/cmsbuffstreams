@@ -3317,7 +3317,25 @@
         "Singapore U20": "assets/logos/streamed/singapore-u20.webp",
         "Jordan U20": "assets/logos/streamed/jordan-u20.webp",
         "Atromitos": "assets/logos/streamed/atromitos.webp",
-        "Panserraikos": "assets/logos/streamed/panserraikos.webp"
+        "Panserraikos": "assets/logos/streamed/panserraikos.webp",
+        "Esperance Tunis": "assets/logos/upstreams/esperance-tunis.webp",
+        "Petro Atletico": "assets/logos/upstreams/petro-atletico.webp",
+        "Keciorengucu": "assets/logos/upstreams/keciorengucu.webp",
+        "Wusum Stars": "assets/logos/upstreams/wusum-stars.webp",
+        "Bai Bureh Warriors": "assets/logos/upstreams/bai-bureh-warriors.webp",
+        "Luawa": "assets/logos/upstreams/luawa.webp",
+        "Old Edwardians FC": "assets/logos/upstreams/old-edwardians-fc.webp",
+        "Bayern U19": "assets/logos/upstreams/bayern-u19.webp",
+        "Hannover U19": "assets/logos/upstreams/hannover-u19.webp",
+        "GAK": "assets/logos/upstreams/gak.webp",
+        "Caldas SC": "assets/logos/upstreams/caldas-sc.webp",
+        "1\u00ba Dezembro": "assets/logos/upstreams/1\u00ba-dezembro.webp",
+        "Sporting": "assets/logos/upstreams/sporting.webp",
+        "Zeta 2011 Podgorica": "assets/logos/upstreams/zeta-2011-podgorica.webp",
+        "KK Decic": "assets/logos/upstreams/kk-decic.webp",
+        "Mornar Bar": "assets/logos/upstreams/mornar-bar.webp",
+        "Gustav Bjorkler": "assets/logos/upstreams/gustav-bjorkler.webp",
+        "Christo Popov": "assets/logos/upstreams/christo-popov.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3695,6 +3713,8 @@
         "English League Two": "assets/logos/leagues/english-league-two.webp",
         "English Championship": "assets/logos/leagues/english-championship.webp",
         "Scottish Championship": "assets/logos/leagues/scottish-championship.webp",
-        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp"
+        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp",
+        "CAF Champions League": "assets/logos/leagues/caf-champions-league.webp",
+        "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp"
     }
 }
