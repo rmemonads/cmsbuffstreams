@@ -3364,7 +3364,14 @@
         "Alexander Donski": "assets/logos/upstreams/alexander-donski.webp",
         "Denis Yevseyev": "assets/logos/upstreams/denis-yevseyev.webp",
         "Luca Castelnuovo": "assets/logos/upstreams/luca-castelnuovo.webp",
-        "Parth Aggarwal": "assets/logos/upstreams/parth-aggarwal.webp"
+        "Parth Aggarwal": "assets/logos/upstreams/parth-aggarwal.webp",
+        "AD Fafe": "assets/logos/upstreams/ad-fafe.webp",
+        "SC Braga B": "assets/logos/upstreams/sc-braga-b.webp",
+        "Grigoriy Lomakin": "assets/logos/upstreams/grigoriy-lomakin.webp",
+        "Egor Agafonov": "assets/logos/upstreams/egor-agafonov.webp",
+        "Hyeon Chung": "assets/logos/upstreams/hyeon-chung.webp",
+        "Lorenzo Carboni": "assets/logos/upstreams/lorenzo-carboni.webp",
+        "Manish Sureshkumar": "assets/logos/upstreams/manish-sureshkumar.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3746,6 +3753,7 @@
         "CAF Champions League": "assets/logos/leagues/caf-champions-league.webp",
         "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp",
         "1st Division": "assets/logos/leagues/1st-division.webp",
-        "Saudi Premier League": "assets/logos/leagues/saudi-premier-league.webp"
+        "Saudi Premier League": "assets/logos/leagues/saudi-premier-league.webp",
+        "NCAA Basketball": "assets/logos/leagues/ncaa-basketball.webp"
     }
 }
