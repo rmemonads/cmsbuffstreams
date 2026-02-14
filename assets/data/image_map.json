@@ -3120,7 +3120,12 @@
         "Pedro Boscardin Dias": "assets/logos/upstreams/pedro-boscardin-dias.webp",
         "USA Curling": "assets/logos/streamed/usa-curling.webp",
         "Germany Curling": "assets/logos/streamed/germany-curling.webp",
-        "China Curling": "assets/logos/streamed/china-curling.webp"
+        "China Curling": "assets/logos/streamed/china-curling.webp",
+        "Af Luftetari": "assets/logos/upstreams/af-luftetari.webp",
+        "Kastrioti Kruje": "assets/logos/upstreams/kastrioti-kruje.webp",
+        "Daniel Balascak": "assets/logos/upstreams/daniel-balascak.webp",
+        "Sebastian Paulovcak": "assets/logos/upstreams/sebastian-paulovcak.webp",
+        "Marcel Musil": "assets/logos/upstreams/marcel-musil.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
