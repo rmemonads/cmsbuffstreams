@@ -3250,7 +3250,19 @@
         "William Semler": "assets/logos/upstreams/william-semler.webp",
         "Dev Mangat": "assets/logos/upstreams/dev-mangat.webp",
         "Amy Lee": "assets/logos/upstreams/amy-lee.webp",
-        "Union Bordeaux B\u00e8gles": "assets/logos/upstreams/union-bordeaux-b\u00e8gles.webp"
+        "Union Bordeaux B\u00e8gles": "assets/logos/upstreams/union-bordeaux-b\u00e8gles.webp",
+        "Swindon": "assets/logos/upstreams/swindon.webp",
+        "Exeter": "assets/logos/upstreams/exeter.webp",
+        "Crawley": "assets/logos/upstreams/crawley.webp",
+        "Fleetwood": "assets/logos/upstreams/fleetwood.webp",
+        "MK Dons": "assets/logos/upstreams/mk-dons.webp",
+        "Newport": "assets/logos/upstreams/newport.webp",
+        "Morton": "assets/logos/upstreams/morton.webp",
+        "Raith": "assets/logos/upstreams/raith.webp",
+        "Omonia": "assets/logos/upstreams/omonia.webp",
+        "Paralimni": "assets/logos/upstreams/paralimni.webp",
+        "Bagdala": "assets/logos/upstreams/bagdala.webp",
+        "Mondo Basket": "assets/logos/upstreams/mondo-basket.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3622,6 +3634,11 @@
         "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
         "Cyprus League": "assets/logos/leagues/cyprus-league.webp",
         "Greece Basketball League": "assets/logos/leagues/greece-basketball-league.webp",
-        "France - Top 14": "assets/logos/leagues/france-top-14.webp"
+        "France - Top 14": "assets/logos/leagues/france-top-14.webp",
+        "Greece Super League": "assets/logos/leagues/greece-super-league.webp",
+        "Belgium Pro League": "assets/logos/leagues/belgium-pro-league.webp",
+        "English League Two": "assets/logos/leagues/english-league-two.webp",
+        "English Championship": "assets/logos/leagues/english-championship.webp",
+        "Scottish Championship": "assets/logos/leagues/scottish-championship.webp"
     }
 }
