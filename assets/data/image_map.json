@@ -3211,7 +3211,20 @@
         "Nikola Kuraica": "assets/logos/upstreams/nikola-kuraica.webp",
         "Isabella Foshee": "assets/logos/upstreams/isabella-foshee.webp",
         "Vrgorac": "assets/logos/upstreams/vrgorac.webp",
-        "MNK Torcida": "assets/logos/upstreams/mnk-torcida.webp"
+        "MNK Torcida": "assets/logos/upstreams/mnk-torcida.webp",
+        "Young Lions": "assets/logos/upstreams/young-lions.webp",
+        "Helsingborg": "assets/logos/upstreams/helsingborg.webp",
+        "Falkenberg": "assets/logos/upstreams/falkenberg.webp",
+        "OFK Petrovac": "assets/logos/upstreams/ofk-petrovac.webp",
+        "FK Bokelj Kotor": "assets/logos/upstreams/fk-bokelj-kotor.webp",
+        "Cote d'Or FC": "assets/logos/upstreams/cote-dor-fc.webp",
+        "IFK Goteborg": "assets/logos/upstreams/ifk-goteborg.webp",
+        "Barsy": "assets/logos/upstreams/barsy.webp",
+        "HK Kromeriz": "assets/logos/upstreams/hk-kromeriz.webp",
+        "Valasske Mezirici": "assets/logos/upstreams/valasske-mezirici.webp",
+        "HC Milevsko 2010": "assets/logos/upstreams/hc-milevsko-2010.webp",
+        "IHC Pisek": "assets/logos/upstreams/ihc-pisek.webp",
+        "Portugal": "assets/logos/upstreams/portugal.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3578,6 +3591,7 @@
         "Turkey Super Lig": "assets/logos/leagues/turkey-super-lig.webp",
         "Seychelles - Premier League": "assets/logos/leagues/seychelles-premier-league.webp",
         "Indonesia Liga 1": "assets/logos/leagues/indonesia-liga-1.webp",
-        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp"
+        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
+        "Rugby Europe Championship, Group B": "assets/logos/leagues/rugby-europe-championship-group-b.webp"
     }
 }
