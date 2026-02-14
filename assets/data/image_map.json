@@ -3125,7 +3125,12 @@
         "Kastrioti Kruje": "assets/logos/upstreams/kastrioti-kruje.webp",
         "Daniel Balascak": "assets/logos/upstreams/daniel-balascak.webp",
         "Sebastian Paulovcak": "assets/logos/upstreams/sebastian-paulovcak.webp",
-        "Marcel Musil": "assets/logos/upstreams/marcel-musil.webp"
+        "Marcel Musil": "assets/logos/upstreams/marcel-musil.webp",
+        "Australia W": "assets/logos/upstreams/australia-w.webp",
+        "Argentina W": "assets/logos/upstreams/argentina-w.webp",
+        "Natalie Oliver": "assets/logos/upstreams/natalie-oliver.webp",
+        "Union de Santa Fe": "assets/logos/upstreams/union-de-santa-fe.webp",
+        "America De Cali": "assets/logos/upstreams/america-de-cali.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3480,6 +3485,8 @@
         "NRL Pre-Season: Wests Tigers V Roosters": "assets/logos/leagues/nrl-pre-season-wests-tigers-v-roosters.webp",
         "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
         "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp",
-        "Rio de Janeiro, Brazil, Qualifying": "assets/logos/leagues/rio-de-janeiro-brazil-qualifying.webp"
+        "Rio de Janeiro, Brazil, Qualifying": "assets/logos/leagues/rio-de-janeiro-brazil-qualifying.webp",
+        "FIH Pro League Women": "assets/logos/leagues/fih-pro-league-women.webp",
+        "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp"
     }
 }
