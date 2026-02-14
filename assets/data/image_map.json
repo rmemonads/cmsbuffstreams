@@ -3111,7 +3111,13 @@
         "Team Pajulahti": "assets/logos/upstreams/team-pajulahti.webp",
         "Fenerbahce Koleji": "assets/logos/upstreams/fenerbahce-koleji.webp",
         "EC Die Adler Kitzb\u00fchel": "assets/logos/upstreams/ec-die-adler-kitzb\u00fchel.webp",
-        "Hockey Unterland Cavaliers": "assets/logos/upstreams/hockey-unterland-cavaliers.webp"
+        "Hockey Unterland Cavaliers": "assets/logos/upstreams/hockey-unterland-cavaliers.webp",
+        "Adolfo Daniel Vallejo": "assets/logos/upstreams/adolfo-daniel-vallejo.webp",
+        "Daniel Elahi Galan": "assets/logos/upstreams/daniel-elahi-galan.webp",
+        "Dino Pri\u017emi\u0107": "assets/logos/upstreams/dino-pri\u017emi\u0107.webp",
+        "Dusan Lajovic": "assets/logos/upstreams/dusan-lajovic.webp",
+        "Tom\u00e1s Barrios Vera": "assets/logos/upstreams/tom\u00e1s-barrios-vera.webp",
+        "Pedro Boscardin Dias": "assets/logos/upstreams/pedro-boscardin-dias.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3465,6 +3471,7 @@
         "Czech - Maxa League": "assets/logos/leagues/czech-maxa-league.webp",
         "NRL Pre-Season: Wests Tigers V Roosters": "assets/logos/leagues/nrl-pre-season-wests-tigers-v-roosters.webp",
         "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
-        "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp"
+        "Alps Hockey League, Qualification Round, Group A": "assets/logos/leagues/alps-hockey-league-qualification-round-group-a.webp",
+        "Rio de Janeiro, Brazil, Qualifying": "assets/logos/leagues/rio-de-janeiro-brazil-qualifying.webp"
     }
 }
