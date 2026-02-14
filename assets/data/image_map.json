@@ -3188,7 +3188,15 @@
         "CF Monterrey": "assets/logos/upstreams/cf-monterrey.webp",
         "Club Le\u00f3n": "assets/logos/upstreams/club-le\u00f3n.webp",
         "Elias Ymer": "assets/logos/upstreams/elias-ymer.webp",
-        "Lucas Miedler": "assets/logos/upstreams/lucas-miedler.webp"
+        "Lucas Miedler": "assets/logos/upstreams/lucas-miedler.webp",
+        "Serik Spor": "assets/logos/upstreams/serik-spor.webp",
+        "AS Douanes": "assets/logos/upstreams/as-douanes.webp",
+        "Nouakchott Kings": "assets/logos/upstreams/nouakchott-kings.webp",
+        "HS Riga": "assets/logos/upstreams/hs-riga.webp",
+        "Mogo Riga": "assets/logos/upstreams/mogo-riga.webp",
+        "Geylang International": "assets/logos/upstreams/geylang-international.webp",
+        "Alina Shcherbinina": "assets/logos/upstreams/alina-shcherbinina.webp",
+        "Matilde Magrini": "assets/logos/upstreams/matilde-magrini.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3550,6 +3558,7 @@
         "Delray Beach, USA, Qualifying": "assets/logos/leagues/delray-beach-usa-qualifying.webp",
         "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
         "Spanish Liga F Women": "assets/logos/leagues/spanish-liga-f-women.webp",
-        "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp"
+        "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp",
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
     }
 }
