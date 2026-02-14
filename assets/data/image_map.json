@@ -2603,7 +2603,21 @@
         "Sudbury Five": "assets/logos/upstreams/sudbury-five.webp",
         "CD Toluca": "assets/logos/upstreams/cd-toluca.webp",
         "Tampa Bay Sun FC": "assets/logos/upstreams/tampa-bay-sun-fc.webp",
-        "DC Power FC": "assets/logos/upstreams/dc-power-fc.webp"
+        "DC Power FC": "assets/logos/upstreams/dc-power-fc.webp",
+        "Wisconsin": "assets/logos/streamed/wisconsin.webp",
+        "Michigan State": "assets/logos/streamed/michigan-state.webp",
+        "CD Guadalajara": "assets/logos/streamed/cd-guadalajara.webp",
+        "Lechia Gda\u0144sk": "assets/logos/streamed/lechia-gda\u0144sk.webp",
+        "Schalke 04": "assets/logos/streamed/schalke-04.webp",
+        "SC Telstar": "assets/logos/streamed/sc-telstar.webp",
+        "Pogo\u0144 Szczecin": "assets/logos/streamed/pogo\u0144-szczecin.webp",
+        "Hellas Verona": "assets/logos/streamed/hellas-verona.webp",
+        "FC Heidenheim": "assets/logos/streamed/fc-heidenheim.webp",
+        "Wales Rugby": "assets/logos/streamed/wales-rugby.webp",
+        "France Rugby": "assets/logos/streamed/france-rugby.webp",
+        "Ceuta": "assets/logos/streamed/ceuta.webp",
+        "Nacional de Madeira": "assets/logos/streamed/nacional-de-madeira.webp",
+        "Lech Pozna\u0144": "assets/logos/streamed/lech-pozna\u0144.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
