@@ -3266,7 +3266,17 @@
         "Fordham": "assets/logos/streamed/fordham.webp",
         "Colorado": "assets/logos/streamed/colorado.webp",
         "San Diego State": "assets/logos/streamed/san-diego-state.webp",
-        "Nevada": "assets/logos/streamed/nevada.webp"
+        "Nevada": "assets/logos/streamed/nevada.webp",
+        "GFS Panetolikos": "assets/logos/upstreams/gfs-panetolikos.webp",
+        "Asteras Aktor": "assets/logos/upstreams/asteras-aktor.webp",
+        "Burgos CF": "assets/logos/upstreams/burgos-cf.webp",
+        "OKK \u0160abac": "assets/logos/upstreams/okk-\u0161abac.webp",
+        "Zkk Proleter Novi Sad": "assets/logos/upstreams/zkk-proleter-novi-sad.webp",
+        "HK Liepaja": "assets/logos/upstreams/hk-liepaja.webp",
+        "Airwell Energija": "assets/logos/upstreams/airwell-energija.webp",
+        "Atletico CP": "assets/logos/upstreams/atletico-cp.webp",
+        "Lusitano Gin\u00e1sio Clube": "assets/logos/upstreams/lusitano-gin\u00e1sio-clube.webp",
+        "Amora": "assets/logos/upstreams/amora.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3643,6 +3653,7 @@
         "Belgium Pro League": "assets/logos/leagues/belgium-pro-league.webp",
         "English League Two": "assets/logos/leagues/english-league-two.webp",
         "English Championship": "assets/logos/leagues/english-championship.webp",
-        "Scottish Championship": "assets/logos/leagues/scottish-championship.webp"
+        "Scottish Championship": "assets/logos/leagues/scottish-championship.webp",
+        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp"
     }
 }
