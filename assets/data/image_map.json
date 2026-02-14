@@ -3436,7 +3436,11 @@
         "Ramkumar Ramanathan": "assets/logos/upstreams/ramkumar-ramanathan.webp",
         "Tsung-Hao Huang": "assets/logos/upstreams/tsung-hao-huang.webp",
         "Uisung Park": "assets/logos/upstreams/uisung-park.webp",
-        "Sasikumar Mukund": "assets/logos/upstreams/sasikumar-mukund.webp"
+        "Sasikumar Mukund": "assets/logos/upstreams/sasikumar-mukund.webp",
+        "Max Houkes": "assets/logos/upstreams/max-houkes.webp",
+        "Pierre Antoine Faut": "assets/logos/upstreams/pierre-antoine-faut.webp",
+        "Michael Vrbensky": "assets/logos/upstreams/michael-vrbensky.webp",
+        "Lulu Sun": "assets/logos/upstreams/lulu-sun.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3826,6 +3830,7 @@
         "Rugby Top 14": "assets/logos/leagues/rugby-top-14.webp",
         "Brazil Mineiro": "assets/logos/leagues/brazil-mineiro.webp",
         "Dubai, UAE": "assets/logos/leagues/dubai-uae.webp",
-        "WTA Dubai": "assets/logos/leagues/wta-dubai.webp"
+        "WTA Dubai": "assets/logos/leagues/wta-dubai.webp",
+        "Lille, France, Qualifying": "assets/logos/leagues/lille-france-qualifying.webp"
     }
 }
