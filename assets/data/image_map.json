@@ -3224,7 +3224,13 @@
         "Valasske Mezirici": "assets/logos/upstreams/valasske-mezirici.webp",
         "HC Milevsko 2010": "assets/logos/upstreams/hc-milevsko-2010.webp",
         "IHC Pisek": "assets/logos/upstreams/ihc-pisek.webp",
-        "Portugal": "assets/logos/upstreams/portugal.webp"
+        "Portugal": "assets/logos/upstreams/portugal.webp",
+        "Ogre United": "assets/logos/upstreams/ogre-united.webp",
+        "FK Zalgiris": "assets/logos/upstreams/fk-zalgiris.webp",
+        "Tanzania Prisons": "assets/logos/upstreams/tanzania-prisons.webp",
+        "Namungo": "assets/logos/upstreams/namungo.webp",
+        "Anders Antonsen": "assets/logos/upstreams/anders-antonsen.webp",
+        "Harry Huang": "assets/logos/upstreams/harry-huang.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3592,6 +3598,7 @@
         "Seychelles - Premier League": "assets/logos/leagues/seychelles-premier-league.webp",
         "Indonesia Liga 1": "assets/logos/leagues/indonesia-liga-1.webp",
         "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
-        "Rugby Europe Championship, Group B": "assets/logos/leagues/rugby-europe-championship-group-b.webp"
+        "Rugby Europe Championship, Group B": "assets/logos/leagues/rugby-europe-championship-group-b.webp",
+        "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp"
     }
 }
