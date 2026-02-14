@@ -3358,7 +3358,13 @@
         "Jackson State": "assets/logos/streamed/jackson-state.webp",
         "Florida A and M": "assets/logos/streamed/florida-a-and-m.webp",
         "Oklahoma": "assets/logos/streamed/oklahoma.webp",
-        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp"
+        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp",
+        "Paks": "assets/logos/upstreams/paks.webp",
+        "DVTK": "assets/logos/upstreams/dvtk.webp",
+        "Alexander Donski": "assets/logos/upstreams/alexander-donski.webp",
+        "Denis Yevseyev": "assets/logos/upstreams/denis-yevseyev.webp",
+        "Luca Castelnuovo": "assets/logos/upstreams/luca-castelnuovo.webp",
+        "Parth Aggarwal": "assets/logos/upstreams/parth-aggarwal.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
