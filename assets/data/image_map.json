@@ -3263,7 +3263,10 @@
         "Paralimni": "assets/logos/upstreams/paralimni.webp",
         "Bagdala": "assets/logos/upstreams/bagdala.webp",
         "Mondo Basket": "assets/logos/upstreams/mondo-basket.webp",
-        "Fordham": "assets/logos/streamed/fordham.webp"
+        "Fordham": "assets/logos/streamed/fordham.webp",
+        "Colorado": "assets/logos/streamed/colorado.webp",
+        "San Diego State": "assets/logos/streamed/san-diego-state.webp",
+        "Nevada": "assets/logos/streamed/nevada.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
