@@ -3335,7 +3335,21 @@
         "KK Decic": "assets/logos/upstreams/kk-decic.webp",
         "Mornar Bar": "assets/logos/upstreams/mornar-bar.webp",
         "Gustav Bjorkler": "assets/logos/upstreams/gustav-bjorkler.webp",
-        "Christo Popov": "assets/logos/upstreams/christo-popov.webp"
+        "Christo Popov": "assets/logos/upstreams/christo-popov.webp",
+        "AEK Larnaca": "assets/logos/upstreams/aek-larnaca.webp",
+        "Apollon Limassol": "assets/logos/upstreams/apollon-limassol.webp",
+        "Pully Lausanne Foxes": "assets/logos/upstreams/pully-lausanne-foxes.webp",
+        "Fribourg Olympic Basket": "assets/logos/upstreams/fribourg-olympic-basket.webp",
+        "Srbobran (W)": "assets/logos/upstreams/srbobran-w.webp",
+        "BS Tukums/Tss": "assets/logos/upstreams/bs-tukumstss.webp",
+        "BK Bauska": "assets/logos/upstreams/bk-bauska.webp",
+        "Danilovgrad": "assets/logos/upstreams/danilovgrad.webp",
+        "Andrea Paola Andrade Fierro": "assets/logos/upstreams/andrea-paola-andrade-fierro.webp",
+        "Ioannis Xilas": "assets/logos/upstreams/ioannis-xilas.webp",
+        "Sidharth Rawat": "assets/logos/upstreams/sidharth-rawat.webp",
+        "Eric Vanshelboim": "assets/logos/upstreams/eric-vanshelboim.webp",
+        "Udit Kamboj": "assets/logos/upstreams/udit-kamboj.webp",
+        "Alexandr Binda": "assets/logos/upstreams/alexandr-binda.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3715,6 +3729,8 @@
         "Scottish Championship": "assets/logos/leagues/scottish-championship.webp",
         "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp",
         "CAF Champions League": "assets/logos/leagues/caf-champions-league.webp",
-        "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp"
+        "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp",
+        "1st Division": "assets/logos/leagues/1st-division.webp",
+        "Saudi Premier League": "assets/logos/leagues/saudi-premier-league.webp"
     }
 }
