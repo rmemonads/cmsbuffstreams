@@ -3915,7 +3915,18 @@
         "Carolann Delaunay": "assets/logos/upstreams/carolann-delaunay.webp",
         "Maelys Bougrat": "assets/logos/upstreams/maelys-bougrat.webp",
         "Eri Shimizu": "assets/logos/upstreams/eri-shimizu.webp",
-        "Janani Ramesh": "assets/logos/upstreams/janani-ramesh.webp"
+        "Janani Ramesh": "assets/logos/upstreams/janani-ramesh.webp",
+        "Olympiakos Nicosia": "assets/logos/upstreams/olympiakos-nicosia.webp",
+        "Omonia Aradippou": "assets/logos/upstreams/omonia-aradippou.webp",
+        "PAEEK": "assets/logos/upstreams/paeek.webp",
+        "Araz": "assets/logos/upstreams/araz.webp",
+        "Sumqayit": "assets/logos/upstreams/sumqayit.webp",
+        "Pyrinto Akatemia": "assets/logos/upstreams/pyrinto-akatemia.webp",
+        "RSU/VEF Riga": "assets/logos/upstreams/rsuvef-riga.webp",
+        "BK Salaspils": "assets/logos/upstreams/bk-salaspils.webp",
+        "PIrania (W)": "assets/logos/upstreams/pirania-w.webp",
+        "Asem Chisinau (W)": "assets/logos/upstreams/asem-chisinau-w.webp",
+        "Diana Shnaider": "assets/logos/upstreams/diana-shnaider.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4347,6 +4358,7 @@
         "PrvaLiga": "assets/logos/leagues/prvaliga.webp",
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
         "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
-        "German 3 liga": "assets/logos/leagues/german-3-liga.webp"
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
+        "NBL, East": "assets/logos/leagues/nbl-east.webp"
     }
 }
