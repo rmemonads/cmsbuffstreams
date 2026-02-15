@@ -3446,7 +3446,19 @@
         "Matej Dodig": "assets/logos/upstreams/matej-dodig.webp",
         "Barcelona SC": "assets/logos/upstreams/barcelona-sc.webp",
         "Nacional Potosi": "assets/logos/upstreams/nacional-potosi.webp",
-        "Botafogo RJ": "assets/logos/upstreams/botafogo-rj.webp"
+        "Botafogo RJ": "assets/logos/upstreams/botafogo-rj.webp",
+        "Ind Medellin": "assets/logos/upstreams/ind-medellin.webp",
+        "Pereira": "assets/logos/upstreams/pereira.webp",
+        "Robinhood": "assets/logos/upstreams/robinhood.webp",
+        "Inter Moengotapoe": "assets/logos/upstreams/inter-moengotapoe.webp",
+        "Chris Rodesch": "assets/logos/upstreams/chris-rodesch.webp",
+        "Sean Cuenin": "assets/logos/upstreams/sean-cuenin.webp",
+        "Florian Broska": "assets/logos/upstreams/florian-broska.webp",
+        "Al Ahli": "assets/logos/upstreams/al-ahli.webp",
+        "Shabab Al Ahli": "assets/logos/upstreams/shabab-al-ahli.webp",
+        "Al Sharjah": "assets/logos/upstreams/al-sharjah.webp",
+        "Al Hilal": "assets/logos/upstreams/al-hilal.webp",
+        "Al Shorta": "assets/logos/upstreams/al-shorta.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3837,6 +3849,7 @@
         "Brazil Mineiro": "assets/logos/leagues/brazil-mineiro.webp",
         "Dubai, UAE": "assets/logos/leagues/dubai-uae.webp",
         "WTA Dubai": "assets/logos/leagues/wta-dubai.webp",
-        "Lille, France, Qualifying": "assets/logos/leagues/lille-france-qualifying.webp"
+        "Lille, France, Qualifying": "assets/logos/leagues/lille-france-qualifying.webp",
+        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp"
     }
 }
