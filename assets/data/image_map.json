@@ -3892,7 +3892,16 @@
         "Juan Estevez": "assets/logos/upstreams/juan-estevez.webp",
         "Benjamin Chelia": "assets/logos/upstreams/benjamin-chelia.webp",
         "Thiago Cigarran": "assets/logos/upstreams/thiago-cigarran.webp",
-        "James Watt": "assets/logos/upstreams/james-watt.webp"
+        "James Watt": "assets/logos/upstreams/james-watt.webp",
+        "Alhama Club de F\u00fatbol": "assets/logos/upstreams/alhama-club-de-f\u00fatbol.webp",
+        "Geylang": "assets/logos/upstreams/geylang.webp",
+        "Hougang": "assets/logos/upstreams/hougang.webp",
+        "Kristiansund BK": "assets/logos/upstreams/kristiansund-bk.webp",
+        "Egersund": "assets/logos/upstreams/egersund.webp",
+        "Spartans Chisinau (W)": "assets/logos/upstreams/spartans-chisinau-w.webp",
+        "Basarabeasca (W)": "assets/logos/upstreams/basarabeasca-w.webp",
+        "Meline Lataste": "assets/logos/upstreams/meline-lataste.webp",
+        "Karine Marion Job": "assets/logos/upstreams/karine-marion-job.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4321,6 +4330,8 @@
         "Tigre, Argentina, Qualifying": "assets/logos/leagues/tigre-argentina-qualifying.webp",
         "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp",
         "Eredivisie, Women": "assets/logos/leagues/eredivisie-women.webp",
-        "PrvaLiga": "assets/logos/leagues/prvaliga.webp"
+        "PrvaLiga": "assets/logos/leagues/prvaliga.webp",
+        "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
+        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp"
     }
 }
