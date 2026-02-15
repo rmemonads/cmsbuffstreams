@@ -3961,7 +3961,27 @@
         "Yamato Yukawa": "assets/logos/upstreams/yamato-yukawa.webp",
         "Ewan Ogura": "assets/logos/upstreams/ewan-ogura.webp",
         "Ryotaro Matsumura": "assets/logos/upstreams/ryotaro-matsumura.webp",
-        "Taketo Takamisawa": "assets/logos/upstreams/taketo-takamisawa.webp"
+        "Taketo Takamisawa": "assets/logos/upstreams/taketo-takamisawa.webp",
+        "Al Ahly FC": "assets/logos/upstreams/al-ahly-fc.webp",
+        "AS FAR Rabat": "assets/logos/upstreams/as-far-rabat.webp",
+        "Young Africans SC": "assets/logos/upstreams/young-africans-sc.webp",
+        "Sporting Cascades": "assets/logos/upstreams/sporting-cascades.webp",
+        "ASF Bobo Dioulasso": "assets/logos/upstreams/asf-bobo-dioulasso.webp",
+        "Vitesse FC": "assets/logos/upstreams/vitesse-fc.webp",
+        "Gyor": "assets/logos/upstreams/gyor.webp",
+        "Kisvarda": "assets/logos/upstreams/kisvarda.webp",
+        "Espoo Basket Team II": "assets/logos/upstreams/espoo-basket-team-ii.webp",
+        "Team Lem Kem": "assets/logos/upstreams/team-lem-kem.webp",
+        "Salon Vilpas": "assets/logos/upstreams/salon-vilpas.webp",
+        "Feeniks Basket": "assets/logos/upstreams/feeniks-basket.webp",
+        "Tapiolan Honka II": "assets/logos/upstreams/tapiolan-honka-ii.webp",
+        "Catz Lappeenranta": "assets/logos/upstreams/catz-lappeenranta.webp",
+        "Seiya Nakanishi": "assets/logos/upstreams/seiya-nakanishi.webp",
+        "Kosuke Morita": "assets/logos/upstreams/kosuke-morita.webp",
+        "Kairi Inoue": "assets/logos/upstreams/kairi-inoue.webp",
+        "Ryusuke Horiuchi": "assets/logos/upstreams/ryusuke-horiuchi.webp",
+        "Sera Nishimoto": "assets/logos/upstreams/sera-nishimoto.webp",
+        "Kanna Soeda": "assets/logos/upstreams/kanna-soeda.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4394,6 +4414,7 @@
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
         "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
-        "NBL, East": "assets/logos/leagues/nbl-east.webp"
+        "NBL, East": "assets/logos/leagues/nbl-east.webp",
+        "CAF Champions League, Group B": "assets/logos/leagues/caf-champions-league-group-b.webp"
     }
 }
