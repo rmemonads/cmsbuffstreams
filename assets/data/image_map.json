@@ -3847,7 +3847,32 @@
         "Juan Pablo Barriga Martinez": "assets/logos/upstreams/juan-pablo-barriga-martinez.webp",
         "Stefan Palosi": "assets/logos/upstreams/stefan-palosi.webp",
         "Bautista Vilicich": "assets/logos/upstreams/bautista-vilicich.webp",
-        "India W": "assets/logos/upstreams/india-w.webp"
+        "India W": "assets/logos/upstreams/india-w.webp",
+        "Hegelmann": "assets/logos/upstreams/hegelmann.webp",
+        "Arema FC": "assets/logos/upstreams/arema-fc.webp",
+        "Semen Padang FC": "assets/logos/upstreams/semen-padang-fc.webp",
+        "Victoria Milovanova": "assets/logos/upstreams/victoria-milovanova.webp",
+        "Australia Women": "assets/logos/upstreams/australia-women.webp",
+        "India Women": "assets/logos/upstreams/india-women.webp",
+        "Leylah Fernandez": "assets/logos/upstreams/leylah-fernandez.webp",
+        "Marco Migliorati": "assets/logos/upstreams/marco-migliorati.webp",
+        "Luca Parenti": "assets/logos/upstreams/luca-parenti.webp",
+        "Lorenzo Joaquin Rodriguez": "assets/logos/upstreams/lorenzo-joaquin-rodriguez.webp",
+        "Tomas Martinez": "assets/logos/upstreams/tomas-martinez.webp",
+        "Renzo Olivo": "assets/logos/upstreams/renzo-olivo.webp",
+        "Nicolas Zanellato": "assets/logos/upstreams/nicolas-zanellato.webp",
+        "Romeo Arcuschin": "assets/logos/upstreams/romeo-arcuschin.webp",
+        "Joaquin Aguilar Cardozo": "assets/logos/upstreams/joaquin-aguilar-cardozo.webp",
+        "Alberto Morolli": "assets/logos/upstreams/alberto-morolli.webp",
+        "Nicolo Toffanin": "assets/logos/upstreams/nicolo-toffanin.webp",
+        "Francesco Forti": "assets/logos/upstreams/francesco-forti.webp",
+        "Patric Prinoth": "assets/logos/upstreams/patric-prinoth.webp",
+        "Mateo Del Pino": "assets/logos/upstreams/mateo-del-pino.webp",
+        "Jose Pereira": "assets/logos/upstreams/jose-pereira.webp",
+        "Valentin Garay": "assets/logos/upstreams/valentin-garay.webp",
+        "Connor Huertas Del Pino": "assets/logos/upstreams/connor-huertas-del-pino.webp",
+        "Gregor Hausberger": "assets/logos/upstreams/gregor-hausberger.webp",
+        "Tilen Kovac": "assets/logos/upstreams/tilen-kovac.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4273,6 +4298,7 @@
         "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
         "Midland, USA, Qualifying": "assets/logos/leagues/midland-usa-qualifying.webp",
         "South Africa Diski Challenge": "assets/logos/leagues/south-africa-diski-challenge.webp",
-        "Tigre, Argentina, Qualifying": "assets/logos/leagues/tigre-argentina-qualifying.webp"
+        "Tigre, Argentina, Qualifying": "assets/logos/leagues/tigre-argentina-qualifying.webp",
+        "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp"
     }
 }
