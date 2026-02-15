@@ -4028,7 +4028,21 @@
         "Stade Fran\u00e7ais Paris": "assets/logos/upstreams/stade-fran\u00e7ais-paris.webp",
         "Stade Toulousain": "assets/logos/upstreams/stade-toulousain.webp",
         "College of Charleston": "assets/logos/streamed/college-of-charleston.webp",
-        "Seattle": "assets/logos/streamed/seattle.webp"
+        "Seattle": "assets/logos/streamed/seattle.webp",
+        "Cincinnati Cyclones": "assets/logos/upstreams/cincinnati-cyclones.webp",
+        "Indy Fuel": "assets/logos/upstreams/indy-fuel.webp",
+        "Mubarak Shannan Zayid": "assets/logos/upstreams/mubarak-shannan-zayid.webp",
+        "Alexei Popyrin": "assets/logos/upstreams/alexei-popyrin.webp",
+        "Amar Huseinovic": "assets/logos/upstreams/amar-huseinovic.webp",
+        "Valentin Vanta": "assets/logos/upstreams/valentin-vanta.webp",
+        "Jakub Men\u0161ik": "assets/logos/upstreams/jakub-men\u0161ik.webp",
+        "Arthur Fils": "assets/logos/upstreams/arthur-fils.webp",
+        "Kamil Majchrzak": "assets/logos/upstreams/kamil-majchrzak.webp",
+        "Toma\u0161 Macha\u010d": "assets/logos/upstreams/toma\u0161-macha\u010d.webp",
+        "Jannik Sinner": "assets/logos/upstreams/jannik-sinner.webp",
+        "Juncheng Shang": "assets/logos/upstreams/juncheng-shang.webp",
+        "Valentin Vacherot": "assets/logos/upstreams/valentin-vacherot.webp",
+        "Alex Michelsen": "assets/logos/upstreams/alex-michelsen.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4462,6 +4476,7 @@
         "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
         "NBL, East": "assets/logos/leagues/nbl-east.webp",
-        "CAF Champions League, Group B": "assets/logos/leagues/caf-champions-league-group-b.webp"
+        "CAF Champions League, Group B": "assets/logos/leagues/caf-champions-league-group-b.webp",
+        "Delray Beach, USA": "assets/logos/leagues/delray-beach-usa.webp"
     }
 }
