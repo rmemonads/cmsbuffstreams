@@ -3901,7 +3901,19 @@
         "Spartans Chisinau (W)": "assets/logos/upstreams/spartans-chisinau-w.webp",
         "Basarabeasca (W)": "assets/logos/upstreams/basarabeasca-w.webp",
         "Meline Lataste": "assets/logos/upstreams/meline-lataste.webp",
-        "Karine Marion Job": "assets/logos/upstreams/karine-marion-job.webp"
+        "Karine Marion Job": "assets/logos/upstreams/karine-marion-job.webp",
+        "Vit\u00f3ria SC B": "assets/logos/upstreams/vit\u00f3ria-sc-b.webp",
+        "C.F. Os Belenenses": "assets/logos/upstreams/cf-os-belenenses.webp",
+        "Cottbus": "assets/logos/upstreams/cottbus.webp",
+        "Mannheim": "assets/logos/upstreams/mannheim.webp",
+        "Tottenham FC": "assets/logos/upstreams/tottenham-fc.webp",
+        "Bali United FC": "assets/logos/upstreams/bali-united-fc.webp",
+        "Persija Jakarta": "assets/logos/upstreams/persija-jakarta.webp",
+        "Nieciecza": "assets/logos/upstreams/nieciecza.webp",
+        "Hena Cehajic": "assets/logos/upstreams/hena-cehajic.webp",
+        "Daphnee M.Perricard": "assets/logos/upstreams/daphnee-mperricard.webp",
+        "Carolann Delaunay": "assets/logos/upstreams/carolann-delaunay.webp",
+        "Maelys Bougrat": "assets/logos/upstreams/maelys-bougrat.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4332,6 +4344,7 @@
         "Eredivisie, Women": "assets/logos/leagues/eredivisie-women.webp",
         "PrvaLiga": "assets/logos/leagues/prvaliga.webp",
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
-        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp"
+        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp"
     }
 }
