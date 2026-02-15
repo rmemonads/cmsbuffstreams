@@ -3556,7 +3556,22 @@
         "FK TSC Ba\u010dka Topola": "assets/logos/upstreams/fk-tsc-ba\u010dka-topola.webp",
         "Tartu Tammeka": "assets/logos/upstreams/tartu-tammeka.webp",
         "Viimsi": "assets/logos/upstreams/viimsi.webp",
-        "Loann Massard": "assets/logos/upstreams/loann-massard.webp"
+        "Loann Massard": "assets/logos/upstreams/loann-massard.webp",
+        "Karsiyaka": "assets/logos/upstreams/karsiyaka.webp",
+        "Joker Sombor": "assets/logos/upstreams/joker-sombor.webp",
+        "Mersin SC": "assets/logos/upstreams/mersin-sc.webp",
+        "Petkim Spor": "assets/logos/upstreams/petkim-spor.webp",
+        "Bamberg Baskets": "assets/logos/upstreams/bamberg-baskets.webp",
+        "Syntainics MBC": "assets/logos/upstreams/syntainics-mbc.webp",
+        "KK Borac Zemun": "assets/logos/upstreams/kk-borac-zemun.webp",
+        "KK Dynamic Belgrade": "assets/logos/upstreams/kk-dynamic-belgrade.webp",
+        "Jena": "assets/logos/upstreams/jena.webp",
+        "OKK Beograd": "assets/logos/upstreams/okk-beograd.webp",
+        "KK Mladost Zemun": "assets/logos/upstreams/kk-mladost-zemun.webp",
+        "Jasmijn Gimbrere": "assets/logos/upstreams/jasmijn-gimbrere.webp",
+        "Bela Tamhankar": "assets/logos/upstreams/bela-tamhankar.webp",
+        "Sravya Shivani Chilakalapudi": "assets/logos/upstreams/sravya-shivani-chilakalapudi.webp",
+        "Evgeniya Burdina": "assets/logos/upstreams/evgeniya-burdina.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -3961,6 +3976,8 @@
         "Vtora liga": "assets/logos/leagues/vtora-liga.webp",
         "Copa Libertadores - Qualifiers": "assets/logos/leagues/copa-libertadores-qualifiers.webp",
         "Alps Hockey League": "assets/logos/leagues/alps-hockey-league.webp",
-        "European League": "assets/logos/leagues/european-league.webp"
+        "European League": "assets/logos/leagues/european-league.webp",
+        "Germany BBL": "assets/logos/leagues/germany-bbl.webp",
+        "Meridianbet KLS": "assets/logos/leagues/meridianbet-kls.webp"
     }
 }
