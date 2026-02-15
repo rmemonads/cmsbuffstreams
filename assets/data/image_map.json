@@ -4064,7 +4064,27 @@
         "Polina Leykina": "assets/logos/upstreams/polina-leykina.webp",
         "Katarzyna Wysoczanska": "assets/logos/upstreams/katarzyna-wysoczanska.webp",
         "Laura Svatikova": "assets/logos/upstreams/laura-svatikova.webp",
-        "Natalia Pietras-Surmacz": "assets/logos/upstreams/natalia-pietras-surmacz.webp"
+        "Natalia Pietras-Surmacz": "assets/logos/upstreams/natalia-pietras-surmacz.webp",
+        "August Holmgren": "assets/logos/upstreams/august-holmgren.webp",
+        "Sascha Gueymard Wayenburg": "assets/logos/upstreams/sascha-gueymard-wayenburg.webp",
+        "Luca Van Assche": "assets/logos/upstreams/luca-van-assche.webp",
+        "Leandro Riedi": "assets/logos/upstreams/leandro-riedi.webp",
+        "Sebastian Ofner": "assets/logos/upstreams/sebastian-ofner.webp",
+        "Hugo Gaston": "assets/logos/upstreams/hugo-gaston.webp",
+        "Vitaliy Sachko": "assets/logos/upstreams/vitaliy-sachko.webp",
+        "Titouan Droguet": "assets/logos/upstreams/titouan-droguet.webp",
+        "Mohammedan": "assets/logos/upstreams/mohammedan.webp",
+        "Austria Lustenau": "assets/logos/upstreams/austria-lustenau.webp",
+        "Kapfenberger": "assets/logos/upstreams/kapfenberger.webp",
+        "SW Bregenz": "assets/logos/upstreams/sw-bregenz.webp",
+        "Admira Wacker": "assets/logos/upstreams/admira-wacker.webp",
+        "Rapid Viena II": "assets/logos/upstreams/rapid-viena-ii.webp",
+        "Austria Salzburg": "assets/logos/upstreams/austria-salzburg.webp",
+        "Greuther Furth": "assets/logos/upstreams/greuther-furth.webp",
+        "Hamburger": "assets/logos/upstreams/hamburger.webp",
+        "First Vienna": "assets/logos/upstreams/first-vienna.webp",
+        "St. Polten": "assets/logos/upstreams/st-polten.webp",
+        "Bohemians Dublin": "assets/logos/upstreams/bohemians-dublin.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4501,6 +4521,9 @@
         "CAF Champions League, Group B": "assets/logos/leagues/caf-champions-league-group-b.webp",
         "Delray Beach, USA": "assets/logos/leagues/delray-beach-usa.webp",
         "Paraguay Primera Division": "assets/logos/leagues/paraguay-primera-division.webp",
-        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp"
+        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp",
+        "Finland - KorisLeague - Winners' Tour": "assets/logos/leagues/finland-korisleague-winners-tour.webp",
+        "Lille, France": "assets/logos/leagues/lille-france.webp",
+        "India - Super League": "assets/logos/leagues/india-super-league.webp"
     }
 }
