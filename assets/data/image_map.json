@@ -3999,7 +3999,9 @@
         "Bullom Stars FC": "assets/logos/upstreams/bullom-stars-fc.webp",
         "BK Rapid Wien": "assets/logos/upstreams/bk-rapid-wien.webp",
         "KK Rudar Pljevlja": "assets/logos/upstreams/kk-rudar-pljevlja.webp",
-        "Dalibor Svr\u010dina": "assets/logos/upstreams/dalibor-svr\u010dina.webp"
+        "Dalibor Svr\u010dina": "assets/logos/upstreams/dalibor-svr\u010dina.webp",
+        "Detroit": "assets/logos/streamed/detroit.webp",
+        "Youngstown State": "assets/logos/streamed/youngstown-state.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
