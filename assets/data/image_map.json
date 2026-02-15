@@ -4015,7 +4015,11 @@
         "Oakland": "assets/logos/streamed/oakland.webp",
         "Marist": "assets/logos/streamed/marist.webp",
         "Temple": "assets/logos/streamed/temple.webp",
-        "Tulane": "assets/logos/streamed/tulane.webp"
+        "Tulane": "assets/logos/streamed/tulane.webp",
+        "Yuga Tashiro": "assets/logos/upstreams/yuga-tashiro.webp",
+        "Ren Machida": "assets/logos/upstreams/ren-machida.webp",
+        "Jenna Sloan": "assets/logos/upstreams/jenna-sloan.webp",
+        "Ayumi Miyamoto": "assets/logos/upstreams/ayumi-miyamoto.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
