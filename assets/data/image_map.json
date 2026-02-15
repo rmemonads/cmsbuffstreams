@@ -4046,7 +4046,18 @@
         "Bath United": "assets/logos/upstreams/bath-united.webp",
         "Sara Gvozdenovic": "assets/logos/upstreams/sara-gvozdenovic.webp",
         "Oliwia Szymczuch": "assets/logos/upstreams/oliwia-szymczuch.webp",
-        "Jakub Mensik": "assets/logos/upstreams/jakub-mensik.webp"
+        "Jakub Mensik": "assets/logos/upstreams/jakub-mensik.webp",
+        "Libertad Asuncion": "assets/logos/upstreams/libertad-asuncion.webp",
+        "\u00d1ublense": "assets/logos/upstreams/\u00f1ublense.webp",
+        "Audax Italiano": "assets/logos/upstreams/audax-italiano.webp",
+        "Brittons Hill United": "assets/logos/upstreams/brittons-hill-united.webp",
+        "St Andrew Lions": "assets/logos/upstreams/st-andrew-lions.webp",
+        "SV Broki": "assets/logos/upstreams/sv-broki.webp",
+        "SV Leo Victor": "assets/logos/upstreams/sv-leo-victor.webp",
+        "Windsor Express": "assets/logos/upstreams/windsor-express.webp",
+        "Toledo Glass City": "assets/logos/upstreams/toledo-glass-city.webp",
+        "Jeremy Gschwendtner": "assets/logos/upstreams/jeremy-gschwendtner.webp",
+        "Astro Pilipovic": "assets/logos/upstreams/astro-pilipovic.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4481,6 +4492,8 @@
         "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
         "NBL, East": "assets/logos/leagues/nbl-east.webp",
         "CAF Champions League, Group B": "assets/logos/leagues/caf-champions-league-group-b.webp",
-        "Delray Beach, USA": "assets/logos/leagues/delray-beach-usa.webp"
+        "Delray Beach, USA": "assets/logos/leagues/delray-beach-usa.webp",
+        "Paraguay Primera Division": "assets/logos/leagues/paraguay-primera-division.webp",
+        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp"
     }
 }
