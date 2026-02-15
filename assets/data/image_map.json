@@ -3814,7 +3814,17 @@
         "Juan Jose Bianchi": "assets/logos/upstreams/juan-jose-bianchi.webp",
         "Axel Nefve": "assets/logos/upstreams/axel-nefve.webp",
         "Vasco": "assets/logos/upstreams/vasco.webp",
-        "Rohan Sachdev": "assets/logos/upstreams/rohan-sachdev.webp"
+        "Rohan Sachdev": "assets/logos/upstreams/rohan-sachdev.webp",
+        "Cronulla Sharks": "assets/logos/upstreams/cronulla-sharks.webp",
+        "Parramatta Eels": "assets/logos/upstreams/parramatta-eels.webp",
+        "Ellie Schoppe": "assets/logos/upstreams/ellie-schoppe.webp",
+        "Alana Smith": "assets/logos/upstreams/alana-smith.webp",
+        "Sakura Hosogi": "assets/logos/upstreams/sakura-hosogi.webp",
+        "Carson Tanguilig": "assets/logos/upstreams/carson-tanguilig.webp",
+        "Alafia Ayeni": "assets/logos/upstreams/alafia-ayeni.webp",
+        "Patricio Betancourt Gonzalez": "assets/logos/upstreams/patricio-betancourt-gonzalez.webp",
+        "Bautista de la Pena": "assets/logos/upstreams/bautista-de-la-pena.webp",
+        "Amit Vales": "assets/logos/upstreams/amit-vales.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4236,6 +4246,8 @@
         "Finland - Korisliiga (W)": "assets/logos/leagues/finland-korisliiga-w.webp",
         "Primera FEB": "assets/logos/leagues/primera-feb.webp",
         "Slovakia - ExtraLeague": "assets/logos/leagues/slovakia-extraleague.webp",
-        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp"
+        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
+        "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
+        "Midland, USA, Qualifying": "assets/logos/leagues/midland-usa-qualifying.webp"
     }
 }
