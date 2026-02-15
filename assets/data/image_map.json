@@ -3872,7 +3872,27 @@
         "Valentin Garay": "assets/logos/upstreams/valentin-garay.webp",
         "Connor Huertas Del Pino": "assets/logos/upstreams/connor-huertas-del-pino.webp",
         "Gregor Hausberger": "assets/logos/upstreams/gregor-hausberger.webp",
-        "Tilen Kovac": "assets/logos/upstreams/tilen-kovac.webp"
+        "Tilen Kovac": "assets/logos/upstreams/tilen-kovac.webp",
+        "Neftci Baku": "assets/logos/upstreams/neftci-baku.webp",
+        "Den Haag (W)": "assets/logos/upstreams/den-haag-w.webp",
+        "Feyenoord Rotterdam": "assets/logos/upstreams/feyenoord-rotterdam.webp",
+        "Nouadhibou": "assets/logos/upstreams/nouadhibou.webp",
+        "Chemal FC": "assets/logos/upstreams/chemal-fc.webp",
+        "Sparta Prague": "assets/logos/upstreams/sparta-prague.webp",
+        "AmaZulu FC U23": "assets/logos/upstreams/amazulu-fc-u23.webp",
+        "Bruno Fernandez": "assets/logos/upstreams/bruno-fernandez.webp",
+        "Santiago De la Fuente": "assets/logos/upstreams/santiago-de-la-fuente.webp",
+        "Maximo Zeitune": "assets/logos/upstreams/maximo-zeitune.webp",
+        "Tomas Farjat": "assets/logos/upstreams/tomas-farjat.webp",
+        "Valerio Aboian": "assets/logos/upstreams/valerio-aboian.webp",
+        "Tymur Bieldiugin": "assets/logos/upstreams/tymur-bieldiugin.webp",
+        "Leix\u00f5es SC U23": "assets/logos/upstreams/leix\u00f5es-sc-u23.webp",
+        "Joao Eduardo Schiessl": "assets/logos/upstreams/joao-eduardo-schiessl.webp",
+        "Ezequiel Monferrer": "assets/logos/upstreams/ezequiel-monferrer.webp",
+        "Juan Estevez": "assets/logos/upstreams/juan-estevez.webp",
+        "Benjamin Chelia": "assets/logos/upstreams/benjamin-chelia.webp",
+        "Thiago Cigarran": "assets/logos/upstreams/thiago-cigarran.webp",
+        "James Watt": "assets/logos/upstreams/james-watt.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4299,6 +4319,8 @@
         "Midland, USA, Qualifying": "assets/logos/leagues/midland-usa-qualifying.webp",
         "South Africa Diski Challenge": "assets/logos/leagues/south-africa-diski-challenge.webp",
         "Tigre, Argentina, Qualifying": "assets/logos/leagues/tigre-argentina-qualifying.webp",
-        "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp"
+        "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp",
+        "Eredivisie, Women": "assets/logos/leagues/eredivisie-women.webp",
+        "PrvaLiga": "assets/logos/leagues/prvaliga.webp"
     }
 }
