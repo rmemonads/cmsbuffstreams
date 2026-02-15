@@ -3824,7 +3824,19 @@
         "Alafia Ayeni": "assets/logos/upstreams/alafia-ayeni.webp",
         "Patricio Betancourt Gonzalez": "assets/logos/upstreams/patricio-betancourt-gonzalez.webp",
         "Bautista de la Pena": "assets/logos/upstreams/bautista-de-la-pena.webp",
-        "Amit Vales": "assets/logos/upstreams/amit-vales.webp"
+        "Amit Vales": "assets/logos/upstreams/amit-vales.webp",
+        "Martina Capurro Taborda": "assets/logos/upstreams/martina-capurro-taborda.webp",
+        "Sofia Cabezas Dominguez": "assets/logos/upstreams/sofia-cabezas-dominguez.webp",
+        "Dalayna Hewitt": "assets/logos/upstreams/dalayna-hewitt.webp",
+        "Valeriya Strakhova": "assets/logos/upstreams/valeriya-strakhova.webp",
+        "Lea Ma": "assets/logos/upstreams/lea-ma.webp",
+        "Jamie Loeb": "assets/logos/upstreams/jamie-loeb.webp",
+        "Savannah Matuszewski": "assets/logos/upstreams/savannah-matuszewski.webp",
+        "Sara Daavettila": "assets/logos/upstreams/sara-daavettila.webp",
+        "Shilin Xu": "assets/logos/upstreams/shilin-xu.webp",
+        "Mariia Tkacheva": "assets/logos/upstreams/mariia-tkacheva.webp",
+        "Victoria Hu": "assets/logos/upstreams/victoria-hu.webp",
+        "Mary Lewis": "assets/logos/upstreams/mary-lewis.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4248,6 +4260,7 @@
         "Slovakia - ExtraLeague": "assets/logos/leagues/slovakia-extraleague.webp",
         "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
         "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
-        "Midland, USA, Qualifying": "assets/logos/leagues/midland-usa-qualifying.webp"
+        "Midland, USA, Qualifying": "assets/logos/leagues/midland-usa-qualifying.webp",
+        "South Africa Diski Challenge": "assets/logos/leagues/south-africa-diski-challenge.webp"
     }
 }
