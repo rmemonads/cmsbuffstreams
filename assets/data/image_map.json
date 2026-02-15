@@ -3838,7 +3838,16 @@
         "Victoria Hu": "assets/logos/upstreams/victoria-hu.webp",
         "Mary Lewis": "assets/logos/upstreams/mary-lewis.webp",
         "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
-        "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp"
+        "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp",
+        "Bengaluru FC": "assets/logos/upstreams/bengaluru-fc.webp",
+        "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp",
+        "Joshua Sheehy": "assets/logos/upstreams/joshua-sheehy.webp",
+        "Andres Guerra": "assets/logos/upstreams/andres-guerra.webp",
+        "Maria Kalyakina": "assets/logos/upstreams/maria-kalyakina.webp",
+        "Juan Pablo Barriga Martinez": "assets/logos/upstreams/juan-pablo-barriga-martinez.webp",
+        "Stefan Palosi": "assets/logos/upstreams/stefan-palosi.webp",
+        "Bautista Vilicich": "assets/logos/upstreams/bautista-vilicich.webp",
+        "India W": "assets/logos/upstreams/india-w.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4263,6 +4272,7 @@
         "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
         "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
         "Midland, USA, Qualifying": "assets/logos/leagues/midland-usa-qualifying.webp",
-        "South Africa Diski Challenge": "assets/logos/leagues/south-africa-diski-challenge.webp"
+        "South Africa Diski Challenge": "assets/logos/leagues/south-africa-diski-challenge.webp",
+        "Tigre, Argentina, Qualifying": "assets/logos/leagues/tigre-argentina-qualifying.webp"
     }
 }
