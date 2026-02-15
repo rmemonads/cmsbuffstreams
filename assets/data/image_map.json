@@ -4010,7 +4010,12 @@
         "RSC Anderlecht": "assets/logos/upstreams/rsc-anderlecht.webp",
         "RAAL La Louvi\u00e8re": "assets/logos/upstreams/raal-la-louvi\u00e8re.webp",
         "Swiss C.B.": "assets/logos/upstreams/swiss-cb.webp",
-        "Lina Glushko": "assets/logos/upstreams/lina-glushko.webp"
+        "Lina Glushko": "assets/logos/upstreams/lina-glushko.webp",
+        "Robert Morris": "assets/logos/streamed/robert-morris.webp",
+        "Oakland": "assets/logos/streamed/oakland.webp",
+        "Marist": "assets/logos/streamed/marist.webp",
+        "Temple": "assets/logos/streamed/temple.webp",
+        "Tulane": "assets/logos/streamed/tulane.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
