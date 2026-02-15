@@ -3801,7 +3801,18 @@
         "Sklar Phillips": "assets/logos/upstreams/sklar-phillips.webp",
         "Brandon Perez": "assets/logos/upstreams/brandon-perez.webp",
         "Matteo Covato": "assets/logos/upstreams/matteo-covato.webp",
-        "Natan Rodrigues": "assets/logos/upstreams/natan-rodrigues.webp"
+        "Natan Rodrigues": "assets/logos/upstreams/natan-rodrigues.webp",
+        "KS Lechia Gda\u0144sk": "assets/logos/upstreams/ks-lechia-gda\u0144sk.webp",
+        "HNK Orijent 1919": "assets/logos/upstreams/hnk-orijent-1919.webp",
+        "AFC Uta Arad": "assets/logos/upstreams/afc-uta-arad.webp",
+        "Rapid Bucuresti": "assets/logos/upstreams/rapid-bucuresti.webp",
+        "La Coruna": "assets/logos/upstreams/la-coruna.webp",
+        "Nicolas Esteban Rico Arias": "assets/logos/upstreams/nicolas-esteban-rico-arias.webp",
+        "Juan Sebastian Osorio": "assets/logos/upstreams/juan-sebastian-osorio.webp",
+        "Alex Kobelt": "assets/logos/upstreams/alex-kobelt.webp",
+        "Kosuke Ogura": "assets/logos/upstreams/kosuke-ogura.webp",
+        "Juan Jose Bianchi": "assets/logos/upstreams/juan-jose-bianchi.webp",
+        "Axel Nefve": "assets/logos/upstreams/axel-nefve.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4222,6 +4233,7 @@
         "SHL": "assets/logos/leagues/shl.webp",
         "Finland - Korisliiga (W)": "assets/logos/leagues/finland-korisliiga-w.webp",
         "Primera FEB": "assets/logos/leagues/primera-feb.webp",
-        "Slovakia - ExtraLeague": "assets/logos/leagues/slovakia-extraleague.webp"
+        "Slovakia - ExtraLeague": "assets/logos/leagues/slovakia-extraleague.webp",
+        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp"
     }
 }
