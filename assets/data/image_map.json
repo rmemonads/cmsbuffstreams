@@ -3722,7 +3722,19 @@
         "Tivoli Gardens": "assets/logos/upstreams/tivoli-gardens.webp",
         "Central Cordoba": "assets/logos/upstreams/central-cordoba.webp",
         "Fortaleza CEIF": "assets/logos/upstreams/fortaleza-ceif.webp",
-        "Boyaca Chico": "assets/logos/upstreams/boyaca-chico.webp"
+        "Boyaca Chico": "assets/logos/upstreams/boyaca-chico.webp",
+        "FMP Beograd": "assets/logos/upstreams/fmp-beograd.webp",
+        "KK Mega Basket": "assets/logos/upstreams/kk-mega-basket.webp",
+        "HC 19 Humenne": "assets/logos/upstreams/hc-19-humenne.webp",
+        "HC Topo\u013e\u010dany": "assets/logos/upstreams/hc-topo\u013e\u010dany.webp",
+        "Sonja Zhenikhova": "assets/logos/upstreams/sonja-zhenikhova.webp",
+        "Demi Tran": "assets/logos/upstreams/demi-tran.webp",
+        "Laura Boehner": "assets/logos/upstreams/laura-boehner.webp",
+        "Ksenia Zaytseva": "assets/logos/upstreams/ksenia-zaytseva.webp",
+        "Eden Silva": "assets/logos/upstreams/eden-silva.webp",
+        "Lucija Ciric-Bagaric": "assets/logos/upstreams/lucija-ciric-bagaric.webp",
+        "Sina Herrmann": "assets/logos/upstreams/sina-herrmann.webp",
+        "Julia Stusek": "assets/logos/upstreams/julia-stusek.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4138,6 +4150,8 @@
         "EHF - European League (W) - Gr.D": "assets/logos/leagues/ehf-european-league-w-grd.webp",
         "Peru - League 1 - Apertura": "assets/logos/leagues/peru-league-1-apertura.webp",
         "Brazil - Paulista - Serie A1": "assets/logos/leagues/brazil-paulista-serie-a1.webp",
-        "Costa Rica - Primera Division - Clausura": "assets/logos/leagues/costa-rica-primera-division-clausura.webp"
+        "Costa Rica - Primera Division - Clausura": "assets/logos/leagues/costa-rica-primera-division-clausura.webp",
+        "ABA Liga, Relegation Round": "assets/logos/leagues/aba-liga-relegation-round.webp",
+        "SHL": "assets/logos/leagues/shl.webp"
     }
 }
