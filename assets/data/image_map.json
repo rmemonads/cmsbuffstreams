@@ -4026,7 +4026,9 @@
         "Rudar 1903": "assets/logos/upstreams/rudar-1903.webp",
         "KK Kotor": "assets/logos/upstreams/kk-kotor.webp",
         "Stade Fran\u00e7ais Paris": "assets/logos/upstreams/stade-fran\u00e7ais-paris.webp",
-        "Stade Toulousain": "assets/logos/upstreams/stade-toulousain.webp"
+        "Stade Toulousain": "assets/logos/upstreams/stade-toulousain.webp",
+        "College of Charleston": "assets/logos/streamed/college-of-charleston.webp",
+        "Seattle": "assets/logos/streamed/seattle.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
