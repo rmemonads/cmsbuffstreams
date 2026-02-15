@@ -3551,7 +3551,12 @@
         "HC Sierre": "assets/logos/upstreams/hc-sierre.webp",
         "EHC Olten": "assets/logos/upstreams/ehc-olten.webp",
         "Emerson Jones": "assets/logos/upstreams/emerson-jones.webp",
-        "Lin Zhu": "assets/logos/upstreams/lin-zhu.webp"
+        "Lin Zhu": "assets/logos/upstreams/lin-zhu.webp",
+        "FK Mladost Lu\u010dani": "assets/logos/upstreams/fk-mladost-lu\u010dani.webp",
+        "FK TSC Ba\u010dka Topola": "assets/logos/upstreams/fk-tsc-ba\u010dka-topola.webp",
+        "Tartu Tammeka": "assets/logos/upstreams/tartu-tammeka.webp",
+        "Viimsi": "assets/logos/upstreams/viimsi.webp",
+        "Loann Massard": "assets/logos/upstreams/loann-massard.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
