@@ -3783,7 +3783,25 @@
         "Turun Nmky": "assets/logos/upstreams/turun-nmky.webp",
         "Peu-Basket": "assets/logos/upstreams/peu-basket.webp",
         "Lahti": "assets/logos/upstreams/lahti.webp",
-        "Korikobrat": "assets/logos/upstreams/korikobrat.webp"
+        "Korikobrat": "assets/logos/upstreams/korikobrat.webp",
+        "Obradoiro": "assets/logos/upstreams/obradoiro.webp",
+        "DH Cebu FC": "assets/logos/upstreams/dh-cebu-fc.webp",
+        "Valenzuela PB-Mendiola FC": "assets/logos/upstreams/valenzuela-pb-mendiola-fc.webp",
+        "Spisska Nova Ves": "assets/logos/upstreams/spisska-nova-ves.webp",
+        "Kosice": "assets/logos/upstreams/kosice.webp",
+        "Poprad": "assets/logos/upstreams/poprad.webp",
+        "Vlci Zilina": "assets/logos/upstreams/vlci-zilina.webp",
+        "Zvolen": "assets/logos/upstreams/zvolen.webp",
+        "Liptovsky Mikulas": "assets/logos/upstreams/liptovsky-mikulas.webp",
+        "Cannon Kingsley": "assets/logos/upstreams/cannon-kingsley.webp",
+        "Drew van Orderlain": "assets/logos/upstreams/drew-van-orderlain.webp",
+        "Guillaume Dalmasso": "assets/logos/upstreams/guillaume-dalmasso.webp",
+        "Dillon Beckles": "assets/logos/upstreams/dillon-beckles.webp",
+        "Pranav Kumar": "assets/logos/upstreams/pranav-kumar.webp",
+        "Sklar Phillips": "assets/logos/upstreams/sklar-phillips.webp",
+        "Brandon Perez": "assets/logos/upstreams/brandon-perez.webp",
+        "Matteo Covato": "assets/logos/upstreams/matteo-covato.webp",
+        "Natan Rodrigues": "assets/logos/upstreams/natan-rodrigues.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4203,6 +4221,7 @@
         "ABA Liga, Relegation Round": "assets/logos/leagues/aba-liga-relegation-round.webp",
         "SHL": "assets/logos/leagues/shl.webp",
         "Finland - Korisliiga (W)": "assets/logos/leagues/finland-korisliiga-w.webp",
-        "Primera FEB": "assets/logos/leagues/primera-feb.webp"
+        "Primera FEB": "assets/logos/leagues/primera-feb.webp",
+        "Slovakia - ExtraLeague": "assets/logos/leagues/slovakia-extraleague.webp"
     }
 }
