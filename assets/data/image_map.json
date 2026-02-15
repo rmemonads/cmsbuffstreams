@@ -4085,7 +4085,12 @@
         "First Vienna": "assets/logos/upstreams/first-vienna.webp",
         "St. Polten": "assets/logos/upstreams/st-polten.webp",
         "Bohemians Dublin": "assets/logos/upstreams/bohemians-dublin.webp",
-        "Norway Curling": "assets/logos/streamed/norway-curling.webp"
+        "Norway Curling": "assets/logos/streamed/norway-curling.webp",
+        "Old Road Jets": "assets/logos/upstreams/old-road-jets.webp",
+        "St. Peters FC": "assets/logos/upstreams/st-peters-fc.webp",
+        "Xenia Bandurowska": "assets/logos/upstreams/xenia-bandurowska.webp",
+        "Anastasiya Kolyada": "assets/logos/upstreams/anastasiya-kolyada.webp",
+        "Melissa Boyden": "assets/logos/upstreams/melissa-boyden.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
