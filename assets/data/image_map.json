@@ -4240,7 +4240,8 @@
         "Francisco Tomas Geschwind": "assets/logos/upstreams/francisco-tomas-geschwind.webp",
         "Juan Bautista Otegui": "assets/logos/upstreams/juan-bautista-otegui.webp",
         "Arina Kostina": "assets/logos/upstreams/arina-kostina.webp",
-        "Eliana Blake": "assets/logos/upstreams/eliana-blake.webp"
+        "Eliana Blake": "assets/logos/upstreams/eliana-blake.webp",
+        "Northern Knights": "assets/logos/upstreams/northern-knights.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4699,6 +4700,7 @@
         "Italy - Serie C - Gr.A": "assets/logos/leagues/italy-serie-c-gra.webp",
         "Sweden - Allsvenskan": "assets/logos/leagues/sweden-allsvenskan.webp",
         "Poland - SuperLeague": "assets/logos/leagues/poland-superleague.webp",
-        "Rio de Janeiro, Brazil": "assets/logos/leagues/rio-de-janeiro-brazil.webp"
+        "Rio de Janeiro, Brazil": "assets/logos/leagues/rio-de-janeiro-brazil.webp",
+        "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp"
     }
 }
