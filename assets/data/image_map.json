@@ -4241,7 +4241,20 @@
         "Juan Bautista Otegui": "assets/logos/upstreams/juan-bautista-otegui.webp",
         "Arina Kostina": "assets/logos/upstreams/arina-kostina.webp",
         "Eliana Blake": "assets/logos/upstreams/eliana-blake.webp",
-        "Northern Knights": "assets/logos/upstreams/northern-knights.webp"
+        "Northern Knights": "assets/logos/upstreams/northern-knights.webp",
+        "Zeljeznicar": "assets/logos/upstreams/zeljeznicar.webp",
+        "Prijedor": "assets/logos/upstreams/prijedor.webp",
+        "Benedetto XIV Cento": "assets/logos/upstreams/benedetto-xiv-cento.webp",
+        "Riders Univerzita Pardubice": "assets/logos/upstreams/riders-univerzita-pardubice.webp",
+        "BO Ostrava Vitkovice Steel": "assets/logos/upstreams/bo-ostrava-vitkovice-steel.webp",
+        "Paula Badosa": "assets/logos/upstreams/paula-badosa.webp",
+        "Parma Permsky Kray": "assets/logos/upstreams/parma-permsky-kray.webp",
+        "PBC Lokomotiv-Kuban": "assets/logos/upstreams/pbc-lokomotiv-kuban.webp",
+        "BC Levski Lukoil": "assets/logos/upstreams/bc-levski-lukoil.webp",
+        "Dar\u00fc\u015f\u015fafaka Lassa": "assets/logos/upstreams/dar\u00fc\u015f\u015fafaka-lassa.webp",
+        "Turgutlu Belediyespor (W)": "assets/logos/upstreams/turgutlu-belediyespor-w.webp",
+        "Leonardo Malgaroli": "assets/logos/upstreams/leonardo-malgaroli.webp",
+        "Francesco Ferrari": "assets/logos/upstreams/francesco-ferrari.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4701,6 +4714,7 @@
         "Sweden - Allsvenskan": "assets/logos/leagues/sweden-allsvenskan.webp",
         "Poland - SuperLeague": "assets/logos/leagues/poland-superleague.webp",
         "Rio de Janeiro, Brazil": "assets/logos/leagues/rio-de-janeiro-brazil.webp",
-        "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp"
+        "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp",
+        "United League": "assets/logos/leagues/united-league.webp"
     }
 }
