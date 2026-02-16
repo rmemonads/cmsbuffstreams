@@ -4406,7 +4406,12 @@
         "Colorado Rockies": "assets/logos/upstreams/colorado-rockies.webp",
         "Arizona Diamondbacks": "assets/logos/upstreams/arizona-diamondbacks.webp",
         "Seattle Mariners": "assets/logos/upstreams/seattle-mariners.webp",
-        "San Diego Padres": "assets/logos/upstreams/san-diego-padres.webp"
+        "San Diego Padres": "assets/logos/upstreams/san-diego-padres.webp",
+        "Kasimpasa": "assets/logos/upstreams/kasimpasa.webp",
+        "Karag\u00fcmr\u00fck": "assets/logos/upstreams/karag\u00fcmr\u00fck.webp",
+        "Masaki Ishikawa": "assets/logos/upstreams/masaki-ishikawa.webp",
+        "Michiru Furuya": "assets/logos/upstreams/michiru-furuya.webp",
+        "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4880,6 +4885,7 @@
         "Darts": "assets/logos/leagues/darts.webp",
         "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
         "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
-        "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp"
+        "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp",
+        "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp"
     }
 }
