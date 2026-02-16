@@ -4513,7 +4513,24 @@
         "Desportiva ES": "assets/logos/streamed/desportiva-es.webp",
         "Sam Bakker": "assets/logos/upstreams/sam-bakker.webp",
         "Jessica Pegula": "assets/logos/upstreams/jessica-pegula.webp",
-        "Valeryia Darashuk": "assets/logos/upstreams/valeryia-darashuk.webp"
+        "Valeryia Darashuk": "assets/logos/upstreams/valeryia-darashuk.webp",
+        "Lebanon Leprechauns": "assets/logos/upstreams/lebanon-leprechauns.webp",
+        "Calin Apostol": "assets/logos/upstreams/calin-apostol.webp",
+        "Daniel Dutra Da Silva": "assets/logos/upstreams/daniel-dutra-da-silva.webp",
+        "Gonzalo Bueno": "assets/logos/upstreams/gonzalo-bueno.webp",
+        "Gianluca Cadenasso": "assets/logos/upstreams/gianluca-cadenasso.webp",
+        "Nicolas Kicker": "assets/logos/upstreams/nicolas-kicker.webp",
+        "Juan Bautista Torres": "assets/logos/upstreams/juan-bautista-torres.webp",
+        "Mariano Kestelboim": "assets/logos/upstreams/mariano-kestelboim.webp",
+        "Carlos Maria Zarate": "assets/logos/upstreams/carlos-maria-zarate.webp",
+        "Dante Pagani": "assets/logos/upstreams/dante-pagani.webp",
+        "Franco Agamenone": "assets/logos/upstreams/franco-agamenone.webp",
+        "Guido Ivan Justo": "assets/logos/upstreams/guido-ivan-justo.webp",
+        "Juan Pablo Varillas": "assets/logos/upstreams/juan-pablo-varillas.webp",
+        "Luciano Emanuel Ambrogi": "assets/logos/upstreams/luciano-emanuel-ambrogi.webp",
+        "Genaro Alberto Olivieri": "assets/logos/upstreams/genaro-alberto-olivieri.webp",
+        "Pedro Sakamoto": "assets/logos/upstreams/pedro-sakamoto.webp",
+        "Carlos Sanchez Jover": "assets/logos/upstreams/carlos-sanchez-jover.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4993,6 +5010,7 @@
         "Denmark SuperLiga": "assets/logos/leagues/denmark-superliga.webp",
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
         "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
-        "MLB": "assets/logos/leagues/mlb.webp"
+        "MLB": "assets/logos/leagues/mlb.webp",
+        "Tigre, Argentina": "assets/logos/leagues/tigre-argentina.webp"
     }
 }
