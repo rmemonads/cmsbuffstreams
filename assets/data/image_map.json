@@ -4313,7 +4313,11 @@
         "Albion FC (URU)": "assets/logos/upstreams/albion-fc-uru.webp",
         "Rafael Kis Bal\u00e1zs": "assets/logos/upstreams/rafael-kis-bal\u00e1zs.webp",
         "Federico Valle": "assets/logos/upstreams/federico-valle.webp",
-        "Antonia Ru\u017ei\u0107": "assets/logos/upstreams/antonia-ru\u017ei\u0107.webp"
+        "Antonia Ru\u017ei\u0107": "assets/logos/upstreams/antonia-ru\u017ei\u0107.webp",
+        "Adam Farag Cao": "assets/logos/upstreams/adam-farag-cao.webp",
+        "Jeffrey Fradkin": "assets/logos/upstreams/jeffrey-fradkin.webp",
+        "Anders Matta": "assets/logos/upstreams/anders-matta.webp",
+        "Volodymyr Gurenko": "assets/logos/upstreams/volodymyr-gurenko.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4782,6 +4786,7 @@
         "KHL": "assets/logos/leagues/khl.webp",
         "Netherlands - Eredivisie": "assets/logos/leagues/netherlands-eredivisie.webp",
         "VTB United League": "assets/logos/leagues/vtb-united-league.webp",
-        "Uruguay - Primera Division - Apertura": "assets/logos/leagues/uruguay-primera-division-apertura.webp"
+        "Uruguay - Primera Division - Apertura": "assets/logos/leagues/uruguay-primera-division-apertura.webp",
+        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp"
     }
 }
