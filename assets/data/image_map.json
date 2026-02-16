@@ -4102,7 +4102,9 @@
         "Western Fury W": "assets/logos/upstreams/western-fury-w.webp",
         "Joao Vitor Scramin Do Lago": "assets/logos/upstreams/joao-vitor-scramin-do-lago.webp",
         "Nuno Borges": "assets/logos/upstreams/nuno-borges.webp",
-        "Marcos Giron": "assets/logos/upstreams/marcos-giron.webp"
+        "Marcos Giron": "assets/logos/upstreams/marcos-giron.webp",
+        "Guarani Campinas": "assets/logos/streamed/guarani-campinas.webp",
+        "Botafogo SP": "assets/logos/streamed/botafogo-sp.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
