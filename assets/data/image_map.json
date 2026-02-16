@@ -4543,7 +4543,14 @@
         "Fribourg Olympic": "assets/logos/upstreams/fribourg-olympic.webp",
         "BBC Nyon": "assets/logos/upstreams/bbc-nyon.webp",
         "Ventspils": "assets/logos/upstreams/ventspils.webp",
-        "Alec Beckley": "assets/logos/upstreams/alec-beckley.webp"
+        "Alec Beckley": "assets/logos/upstreams/alec-beckley.webp",
+        "SCU Torreense": "assets/logos/upstreams/scu-torreense.webp",
+        "Sturm Graz II": "assets/logos/upstreams/sturm-graz-ii.webp",
+        "Liefering": "assets/logos/upstreams/liefering.webp",
+        "Istra 1961": "assets/logos/upstreams/istra-1961.webp",
+        "Petrolul PloiEasti": "assets/logos/upstreams/petrolul-ploieasti.webp",
+        "Lokomotiva Zagreb": "assets/logos/upstreams/lokomotiva-zagreb.webp",
+        "Ademar Leon": "assets/logos/upstreams/ademar-leon.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
