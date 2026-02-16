@@ -4297,7 +4297,19 @@
         "Cong An": "assets/logos/upstreams/cong-an.webp",
         "Haasrode Leuven": "assets/logos/upstreams/haasrode-leuven.webp",
         "Elizabeth Mandlik": "assets/logos/upstreams/elizabeth-mandlik.webp",
-        "Anna Frey": "assets/logos/upstreams/anna-frey.webp"
+        "Anna Frey": "assets/logos/upstreams/anna-frey.webp",
+        "SKA St. Petersburg": "assets/logos/upstreams/ska-st-petersburg.webp",
+        "Salavat Yulaev Ufa": "assets/logos/upstreams/salavat-yulaev-ufa.webp",
+        "Anna Ozerova": "assets/logos/upstreams/anna-ozerova.webp",
+        "Martina Husarova": "assets/logos/upstreams/martina-husarova.webp",
+        "Alina Nesmianovych": "assets/logos/upstreams/alina-nesmianovych.webp",
+        "Kamila Neradova": "assets/logos/upstreams/kamila-neradova.webp",
+        "MBA Moscow": "assets/logos/upstreams/mba-moscow.webp",
+        "CSKA Moscow": "assets/logos/upstreams/cska-moscow.webp",
+        "Ludwigshafen-Friesenheim": "assets/logos/upstreams/ludwigshafen-friesenheim.webp",
+        "Krefeld": "assets/logos/upstreams/krefeld.webp",
+        "Allegra Korpanec Davies": "assets/logos/upstreams/allegra-korpanec-davies.webp",
+        "Safien Boulonois": "assets/logos/upstreams/safien-boulonois.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4762,6 +4774,9 @@
         "Tennis": "assets/logos/leagues/tennis.webp",
         "Olympic Games, Knockout Stage": "assets/logos/leagues/olympic-games-knockout-stage.webp",
         "First Professional League": "assets/logos/leagues/first-professional-league.webp",
-        "Liga OTP banka": "assets/logos/leagues/liga-otp-banka.webp"
+        "Liga OTP banka": "assets/logos/leagues/liga-otp-banka.webp",
+        "KHL": "assets/logos/leagues/khl.webp",
+        "Netherlands - Eredivisie": "assets/logos/leagues/netherlands-eredivisie.webp",
+        "VTB United League": "assets/logos/leagues/vtb-united-league.webp"
     }
 }
