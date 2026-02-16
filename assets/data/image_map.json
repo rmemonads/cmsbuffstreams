@@ -4473,7 +4473,23 @@
         "Martin Landaluce": "assets/logos/upstreams/martin-landaluce.webp",
         "Alexander Blockx": "assets/logos/upstreams/alexander-blockx.webp",
         "Roman Safiullin": "assets/logos/upstreams/roman-safiullin.webp",
-        "Joel Schwaerzler": "assets/logos/upstreams/joel-schwaerzler.webp"
+        "Joel Schwaerzler": "assets/logos/upstreams/joel-schwaerzler.webp",
+        "APOEL": "assets/logos/upstreams/apoel.webp",
+        "AEL": "assets/logos/upstreams/ael.webp",
+        "Tychy": "assets/logos/upstreams/tychy.webp",
+        "Opole": "assets/logos/upstreams/opole.webp",
+        "ENPPI": "assets/logos/upstreams/enppi.webp",
+        "National Bank of Egypt": "assets/logos/upstreams/national-bank-of-egypt.webp",
+        "Fredrikstad FK": "assets/logos/upstreams/fredrikstad-fk.webp",
+        "KFUM Oslo": "assets/logos/upstreams/kfum-oslo.webp",
+        "Nybro IF": "assets/logos/upstreams/nybro-if.webp",
+        "BIK Karlskoga": "assets/logos/upstreams/bik-karlskoga.webp",
+        "Ostersund": "assets/logos/upstreams/ostersund.webp",
+        "Vasteras": "assets/logos/upstreams/vasteras.webp",
+        "Troja Ljungby": "assets/logos/upstreams/troja-ljungby.webp",
+        "Ugo Blanchet": "assets/logos/upstreams/ugo-blanchet.webp",
+        "Timofey Skatov": "assets/logos/upstreams/timofey-skatov.webp",
+        "Justin Engel": "assets/logos/upstreams/justin-engel.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4949,6 +4965,9 @@
         "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
         "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp",
         "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
-        "Midland, USA": "assets/logos/leagues/midland-usa.webp"
+        "Midland, USA": "assets/logos/leagues/midland-usa.webp",
+        "Denmark SuperLiga": "assets/logos/leagues/denmark-superliga.webp",
+        "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
+        "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp"
     }
 }
