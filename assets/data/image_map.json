@@ -4256,7 +4256,13 @@
         "Leonardo Malgaroli": "assets/logos/upstreams/leonardo-malgaroli.webp",
         "Francesco Ferrari": "assets/logos/upstreams/francesco-ferrari.webp",
         "Kauno Zalgiris": "assets/logos/upstreams/kauno-zalgiris.webp",
-        "Panevezys": "assets/logos/upstreams/panevezys.webp"
+        "Panevezys": "assets/logos/upstreams/panevezys.webp",
+        "E.G.Ruse": "assets/logos/upstreams/egruse.webp",
+        "E.Navarro": "assets/logos/upstreams/enavarro.webp",
+        "S.Kenin": "assets/logos/upstreams/skenin.webp",
+        "C.Tauson": "assets/logos/upstreams/ctauson.webp",
+        "B.Bencic": "assets/logos/upstreams/bbencic.webp",
+        "J.Maneiro": "assets/logos/upstreams/jmaneiro.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4717,6 +4723,7 @@
         "Poland - SuperLeague": "assets/logos/leagues/poland-superleague.webp",
         "Rio de Janeiro, Brazil": "assets/logos/leagues/rio-de-janeiro-brazil.webp",
         "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp",
-        "United League": "assets/logos/leagues/united-league.webp"
+        "United League": "assets/logos/leagues/united-league.webp",
+        "Tennis": "assets/logos/leagues/tennis.webp"
     }
 }
