@@ -4383,7 +4383,13 @@
         "Boxiong Zhang": "assets/logos/upstreams/boxiong-zhang.webp",
         "Lautaro Agustin Falabella": "assets/logos/upstreams/lautaro-agustin-falabella.webp",
         "Juan Ignacio Gallego": "assets/logos/upstreams/juan-ignacio-gallego.webp",
-        "Kazuma Kawachi": "assets/logos/upstreams/kazuma-kawachi.webp"
+        "Kazuma Kawachi": "assets/logos/upstreams/kazuma-kawachi.webp",
+        "Nika Radisic": "assets/logos/upstreams/nika-radisic.webp",
+        "Ramiro Amarilla": "assets/logos/upstreams/ramiro-amarilla.webp",
+        "Rocco Valente": "assets/logos/upstreams/rocco-valente.webp",
+        "Hernando Jose Escurra Isnardi": "assets/logos/upstreams/hernando-jose-escurra-isnardi.webp",
+        "Luciano Doria": "assets/logos/upstreams/luciano-doria.webp",
+        "Katsutoshi Suzuki": "assets/logos/upstreams/katsutoshi-suzuki.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4853,6 +4859,7 @@
         "Netherlands - Eredivisie": "assets/logos/leagues/netherlands-eredivisie.webp",
         "VTB United League": "assets/logos/leagues/vtb-united-league.webp",
         "Uruguay - Primera Division - Apertura": "assets/logos/leagues/uruguay-primera-division-apertura.webp",
-        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp"
+        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp",
+        "Darts": "assets/logos/leagues/darts.webp"
     }
 }
