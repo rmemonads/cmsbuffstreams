@@ -4500,7 +4500,17 @@
         "Stony Brook": "assets/logos/streamed/stony-brook.webp",
         "Drexel": "assets/logos/streamed/drexel.webp",
         "Stephen F Austin": "assets/logos/streamed/stephen-f-austin.webp",
-        "Maidstone": "assets/logos/upstreams/maidstone.webp"
+        "Maidstone": "assets/logos/upstreams/maidstone.webp",
+        "Coventry": "assets/logos/streamed/coventry.webp",
+        "Estac Troyes": "assets/logos/streamed/estac-troyes.webp",
+        "Newells Old Boys": "assets/logos/streamed/newells-old-boys.webp",
+        "Accrington ST": "assets/logos/streamed/accrington-st.webp",
+        "Doncaster": "assets/logos/streamed/doncaster.webp",
+        "Rotherham": "assets/logos/streamed/rotherham.webp",
+        "Charlton": "assets/logos/streamed/charlton.webp",
+        "Carabobo FC": "assets/logos/streamed/carabobo-fc.webp",
+        "Sampaio Corr\u00eaa RJ": "assets/logos/streamed/sampaio-corr\u00eaa-rj.webp",
+        "Desportiva ES": "assets/logos/streamed/desportiva-es.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
