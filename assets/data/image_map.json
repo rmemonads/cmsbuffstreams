@@ -4511,7 +4511,9 @@
         "Carabobo FC": "assets/logos/streamed/carabobo-fc.webp",
         "Sampaio Corr\u00eaa RJ": "assets/logos/streamed/sampaio-corr\u00eaa-rj.webp",
         "Desportiva ES": "assets/logos/streamed/desportiva-es.webp",
-        "Sam Bakker": "assets/logos/upstreams/sam-bakker.webp"
+        "Sam Bakker": "assets/logos/upstreams/sam-bakker.webp",
+        "Jessica Pegula": "assets/logos/upstreams/jessica-pegula.webp",
+        "Valeryia Darashuk": "assets/logos/upstreams/valeryia-darashuk.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
