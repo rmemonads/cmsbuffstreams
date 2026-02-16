@@ -4262,7 +4262,12 @@
         "S.Kenin": "assets/logos/upstreams/skenin.webp",
         "C.Tauson": "assets/logos/upstreams/ctauson.webp",
         "B.Bencic": "assets/logos/upstreams/bbencic.webp",
-        "J.Maneiro": "assets/logos/upstreams/jmaneiro.webp"
+        "J.Maneiro": "assets/logos/upstreams/jmaneiro.webp",
+        "Fiona Crawley": "assets/logos/upstreams/fiona-crawley.webp",
+        "Madalena Matias": "assets/logos/upstreams/madalena-matias.webp",
+        "Emily Appleton": "assets/logos/upstreams/emily-appleton.webp",
+        "Kaitlin Quevedo": "assets/logos/upstreams/kaitlin-quevedo.webp",
+        "Mississippi Valley State Delta Devils": "assets/logos/upstreams/mississippi-valley-state-delta-devils.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4724,6 +4729,7 @@
         "Rio de Janeiro, Brazil": "assets/logos/leagues/rio-de-janeiro-brazil.webp",
         "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp",
         "United League": "assets/logos/leagues/united-league.webp",
-        "Tennis": "assets/logos/leagues/tennis.webp"
+        "Tennis": "assets/logos/leagues/tennis.webp",
+        "Olympic Games, Knockout Stage": "assets/logos/leagues/olympic-games-knockout-stage.webp"
     }
 }
