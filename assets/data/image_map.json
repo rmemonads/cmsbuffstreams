@@ -4309,7 +4309,11 @@
         "Ludwigshafen-Friesenheim": "assets/logos/upstreams/ludwigshafen-friesenheim.webp",
         "Krefeld": "assets/logos/upstreams/krefeld.webp",
         "Allegra Korpanec Davies": "assets/logos/upstreams/allegra-korpanec-davies.webp",
-        "Safien Boulonois": "assets/logos/upstreams/safien-boulonois.webp"
+        "Safien Boulonois": "assets/logos/upstreams/safien-boulonois.webp",
+        "Albion FC (URU)": "assets/logos/upstreams/albion-fc-uru.webp",
+        "Rafael Kis Bal\u00e1zs": "assets/logos/upstreams/rafael-kis-bal\u00e1zs.webp",
+        "Federico Valle": "assets/logos/upstreams/federico-valle.webp",
+        "Antonia Ru\u017ei\u0107": "assets/logos/upstreams/antonia-ru\u017ei\u0107.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4777,6 +4781,7 @@
         "Liga OTP banka": "assets/logos/leagues/liga-otp-banka.webp",
         "KHL": "assets/logos/leagues/khl.webp",
         "Netherlands - Eredivisie": "assets/logos/leagues/netherlands-eredivisie.webp",
-        "VTB United League": "assets/logos/leagues/vtb-united-league.webp"
+        "VTB United League": "assets/logos/leagues/vtb-united-league.webp",
+        "Uruguay - Primera Division - Apertura": "assets/logos/leagues/uruguay-primera-division-apertura.webp"
     }
 }
