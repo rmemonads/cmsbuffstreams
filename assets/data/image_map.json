@@ -4389,7 +4389,24 @@
         "Rocco Valente": "assets/logos/upstreams/rocco-valente.webp",
         "Hernando Jose Escurra Isnardi": "assets/logos/upstreams/hernando-jose-escurra-isnardi.webp",
         "Luciano Doria": "assets/logos/upstreams/luciano-doria.webp",
-        "Katsutoshi Suzuki": "assets/logos/upstreams/katsutoshi-suzuki.webp"
+        "Katsutoshi Suzuki": "assets/logos/upstreams/katsutoshi-suzuki.webp",
+        "Al-Ittihad Alexandria": "assets/logos/upstreams/al-ittihad-alexandria.webp",
+        "Smouha": "assets/logos/upstreams/smouha.webp",
+        "Modern Sport FC": "assets/logos/upstreams/modern-sport-fc.webp",
+        "Ismailia Electricity Club": "assets/logos/upstreams/ismailia-electricity-club.webp",
+        "BC Prievidza": "assets/logos/upstreams/bc-prievidza.webp",
+        "Zachery Foster": "assets/logos/upstreams/zachery-foster.webp",
+        "Alejandro Hayen": "assets/logos/upstreams/alejandro-hayen.webp",
+        "Miles Clark": "assets/logos/upstreams/miles-clark.webp",
+        "Daniil Kakhniuk": "assets/logos/upstreams/daniil-kakhniuk.webp",
+        "Baltimore Orioles": "assets/logos/upstreams/baltimore-orioles.webp",
+        "New York Yankees": "assets/logos/upstreams/new-york-yankees.webp",
+        "Chicago Cubs": "assets/logos/upstreams/chicago-cubs.webp",
+        "Chicago White Sox": "assets/logos/upstreams/chicago-white-sox.webp",
+        "Colorado Rockies": "assets/logos/upstreams/colorado-rockies.webp",
+        "Arizona Diamondbacks": "assets/logos/upstreams/arizona-diamondbacks.webp",
+        "Seattle Mariners": "assets/logos/upstreams/seattle-mariners.webp",
+        "San Diego Padres": "assets/logos/upstreams/san-diego-padres.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -4860,6 +4877,9 @@
         "VTB United League": "assets/logos/leagues/vtb-united-league.webp",
         "Uruguay - Primera Division - Apertura": "assets/logos/leagues/uruguay-primera-division-apertura.webp",
         "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp",
-        "Darts": "assets/logos/leagues/darts.webp"
+        "Darts": "assets/logos/leagues/darts.webp",
+        "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
+        "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
+        "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp"
     }
 }
