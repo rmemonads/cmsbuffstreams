@@ -4550,7 +4550,32 @@
         "Istra 1961": "assets/logos/upstreams/istra-1961.webp",
         "Petrolul PloiEasti": "assets/logos/upstreams/petrolul-ploieasti.webp",
         "Lokomotiva Zagreb": "assets/logos/upstreams/lokomotiva-zagreb.webp",
-        "Ademar Leon": "assets/logos/upstreams/ademar-leon.webp"
+        "Ademar Leon": "assets/logos/upstreams/ademar-leon.webp",
+        "Etar Veliko Tarnovo": "assets/logos/upstreams/etar-veliko-tarnovo.webp",
+        "FC Fratria Varna": "assets/logos/upstreams/fc-fratria-varna.webp",
+        "Maccabi Rishon": "assets/logos/upstreams/maccabi-rishon.webp",
+        "Utenos Juventus": "assets/logos/upstreams/utenos-juventus.webp",
+        "Valur Reykjavik": "assets/logos/upstreams/valur-reykjavik.webp",
+        "Stjarnan FC": "assets/logos/upstreams/stjarnan-fc.webp",
+        "Njardvik (W)": "assets/logos/upstreams/njardvik-w.webp",
+        "Brasilia": "assets/logos/upstreams/brasilia.webp",
+        "UK Hockey Prague": "assets/logos/upstreams/uk-hockey-prague.webp",
+        "Czu Farmers Prague": "assets/logos/upstreams/czu-farmers-prague.webp",
+        "Vse Falcons Prague": "assets/logos/upstreams/vse-falcons-prague.webp",
+        "United Hradec Kralove": "assets/logos/upstreams/united-hradec-kralove.webp",
+        "EHC Basel": "assets/logos/upstreams/ehc-basel.webp",
+        "KHL Sisak": "assets/logos/upstreams/khl-sisak.webp",
+        "EK Zell am See": "assets/logos/upstreams/ek-zell-am-see.webp",
+        "HC Thurgau": "assets/logos/upstreams/hc-thurgau.webp",
+        "HC La Chaux-de-Fonds": "assets/logos/upstreams/hc-la-chaux-de-fonds.webp",
+        "Neil Robertson": "assets/logos/upstreams/neil-robertson.webp",
+        "John Higgins": "assets/logos/upstreams/john-higgins.webp",
+        "Wu Yize": "assets/logos/upstreams/wu-yize.webp",
+        "Mark Allen": "assets/logos/upstreams/mark-allen.webp",
+        "Mark Selby": "assets/logos/upstreams/mark-selby.webp",
+        "Jack Lisowski": "assets/logos/upstreams/jack-lisowski.webp",
+        "Chris Wakelin": "assets/logos/upstreams/chris-wakelin.webp",
+        "Xiao Guodong": "assets/logos/upstreams/xiao-guodong.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5031,6 +5056,9 @@
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
         "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
         "MLB": "assets/logos/leagues/mlb.webp",
-        "Tigre, Argentina": "assets/logos/leagues/tigre-argentina.webp"
+        "Tigre, Argentina": "assets/logos/leagues/tigre-argentina.webp",
+        "Iceland Women's Basketball Premier League": "assets/logos/leagues/iceland-womens-basketball-premier-league.webp",
+        "Alps Hockey League, Championship Round": "assets/logos/leagues/alps-hockey-league-championship-round.webp",
+        "Players Championship": "assets/logos/leagues/players-championship.webp"
     }
 }
