@@ -4426,7 +4426,16 @@
         "TMT": "assets/logos/upstreams/tmt.webp",
         "Gambian Dutch Lions": "assets/logos/upstreams/gambian-dutch-lions.webp",
         "Benfica U23": "assets/logos/upstreams/benfica-u23.webp",
-        "Sporting U23": "assets/logos/upstreams/sporting-u23.webp"
+        "Sporting U23": "assets/logos/upstreams/sporting-u23.webp",
+        "Spartans": "assets/logos/streamed/spartans.webp",
+        "Rotherham United": "assets/logos/streamed/rotherham-united.webp",
+        "Claypole": "assets/logos/streamed/claypole.webp",
+        "Sampaio Corr\u00eaa FE": "assets/logos/streamed/sampaio-corr\u00eaa-fe.webp",
+        "Desportiva Ferrovi\u00e1ria": "assets/logos/streamed/desportiva-ferrovi\u00e1ria.webp",
+        "Ciudad de Bol\u00edvar": "assets/logos/streamed/ciudad-de-bol\u00edvar.webp",
+        "Real Espana": "assets/logos/streamed/real-espana.webp",
+        "Poland U17": "assets/logos/streamed/poland-u17.webp",
+        "Estonia U17": "assets/logos/streamed/estonia-u17.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
