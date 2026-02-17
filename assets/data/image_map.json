@@ -4993,7 +4993,10 @@
         "CS Cartagines": "assets/logos/streamed/cs-cartagines.webp",
         "IAPE": "assets/logos/streamed/iape.webp",
         "TalTech Basketball": "assets/logos/upstreams/taltech-basketball.webp",
-        "KK Viimsi": "assets/logos/upstreams/kk-viimsi.webp"
+        "KK Viimsi": "assets/logos/upstreams/kk-viimsi.webp",
+        "Tartu \u00dclikool Maks & Moorits": "assets/logos/upstreams/tartu-\u00fclikool-maks-moorits.webp",
+        "Keila Korvpallikool": "assets/logos/upstreams/keila-korvpallikool.webp",
+        "Anagennisi Germasogeias (W)": "assets/logos/upstreams/anagennisi-germasogeias-w.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5512,6 +5515,7 @@
         "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp",
         "Club Friendly": "assets/logos/leagues/club-friendly.webp",
         "CAF Confederation Cup": "assets/logos/leagues/caf-confederation-cup.webp",
-        "Snooker": "assets/logos/leagues/snooker.webp"
+        "Snooker": "assets/logos/leagues/snooker.webp",
+        "Greece Basketball": "assets/logos/leagues/greece-basketball.webp"
     }
 }
