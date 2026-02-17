@@ -5019,7 +5019,20 @@
         "Facundo Diaz Acosta": "assets/logos/upstreams/facundo-diaz-acosta.webp",
         "Murkel Dellien": "assets/logos/upstreams/murkel-dellien.webp",
         "Juan Manuel La Serna": "assets/logos/upstreams/juan-manuel-la-serna.webp",
-        "Lorenzo Bocchi": "assets/logos/upstreams/lorenzo-bocchi.webp"
+        "Lorenzo Bocchi": "assets/logos/upstreams/lorenzo-bocchi.webp",
+        "Jiangxue Han": "assets/logos/upstreams/jiangxue-han.webp",
+        "Remi Rice": "assets/logos/upstreams/remi-rice.webp",
+        "Gavin Young": "assets/logos/upstreams/gavin-young.webp",
+        "Flavio Cobolli": "assets/logos/upstreams/flavio-cobolli.webp",
+        "Casper Ruud": "assets/logos/upstreams/casper-ruud.webp",
+        "Judd Trump": "assets/logos/upstreams/judd-trump.webp",
+        "Yuelong Z.": "assets/logos/upstreams/yuelong-z.webp",
+        "Shaun Murphy": "assets/logos/upstreams/shaun-murphy.webp",
+        "Zhang Anda": "assets/logos/upstreams/zhang-anda.webp",
+        "Zhao Xintong": "assets/logos/upstreams/zhao-xintong.webp",
+        "Elliot Slessor": "assets/logos/upstreams/elliot-slessor.webp",
+        "Mark Williams": "assets/logos/upstreams/mark-williams.webp",
+        "Barry Hawkins": "assets/logos/upstreams/barry-hawkins.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5542,6 +5555,7 @@
         "Greece Basketball": "assets/logos/leagues/greece-basketball.webp",
         "Challenge Cup": "assets/logos/leagues/challenge-cup.webp",
         "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp",
-        "English League One": "assets/logos/leagues/english-league-one.webp"
+        "English League One": "assets/logos/leagues/english-league-one.webp",
+        "Players Championship 2026": "assets/logos/leagues/players-championship-2026.webp"
     }
 }
