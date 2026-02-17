@@ -4990,7 +4990,10 @@
         "Galvez": "assets/logos/streamed/galvez.webp",
         "Guapor\u00e9": "assets/logos/streamed/guapor\u00e9.webp",
         "Nacional Potos\u00ed": "assets/logos/streamed/nacional-potos\u00ed.webp",
-        "CS Cartagines": "assets/logos/streamed/cs-cartagines.webp"
+        "CS Cartagines": "assets/logos/streamed/cs-cartagines.webp",
+        "IAPE": "assets/logos/streamed/iape.webp",
+        "TalTech Basketball": "assets/logos/upstreams/taltech-basketball.webp",
+        "KK Viimsi": "assets/logos/upstreams/kk-viimsi.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
