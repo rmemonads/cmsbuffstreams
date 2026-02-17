@@ -5004,7 +5004,12 @@
         "Cadence Brace": "assets/logos/upstreams/cadence-brace.webp",
         "Nadia Lagaev": "assets/logos/upstreams/nadia-lagaev.webp",
         "Yilin Chen": "assets/logos/upstreams/yilin-chen.webp",
-        "Anya Arora": "assets/logos/upstreams/anya-arora.webp"
+        "Anya Arora": "assets/logos/upstreams/anya-arora.webp",
+        "Burton": "assets/logos/upstreams/burton.webp",
+        "Accrington": "assets/logos/upstreams/accrington.webp",
+        "Harrogate": "assets/logos/upstreams/harrogate.webp",
+        "The Spartans FC": "assets/logos/upstreams/the-spartans-fc.webp",
+        "Dunfermline": "assets/logos/upstreams/dunfermline.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5526,6 +5531,7 @@
         "Snooker": "assets/logos/leagues/snooker.webp",
         "Greece Basketball": "assets/logos/leagues/greece-basketball.webp",
         "Challenge Cup": "assets/logos/leagues/challenge-cup.webp",
-        "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp"
+        "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp",
+        "English League One": "assets/logos/leagues/english-league-one.webp"
     }
 }
