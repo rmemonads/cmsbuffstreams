@@ -4892,7 +4892,12 @@
         "Niccolo Catini": "assets/logos/upstreams/niccolo-catini.webp",
         "Nathan Ponwith": "assets/logos/upstreams/nathan-ponwith.webp",
         "Pepijn Bastiaansen": "assets/logos/upstreams/pepijn-bastiaansen.webp",
-        "Joshua Peck": "assets/logos/upstreams/joshua-peck.webp"
+        "Joshua Peck": "assets/logos/upstreams/joshua-peck.webp",
+        "VK Lvi Prague": "assets/logos/upstreams/vk-lvi-prague.webp",
+        "Guaguas": "assets/logos/upstreams/guaguas.webp",
+        "SV Werder Bremen II": "assets/logos/upstreams/sv-werder-bremen-ii.webp",
+        "BSV Rehden": "assets/logos/upstreams/bsv-rehden.webp",
+        "Universidad O&M": "assets/logos/upstreams/universidad-om.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5408,6 +5413,7 @@
         "WTA - Dubai (EAU)": "assets/logos/leagues/wta-dubai-eau.webp",
         "Handball": "assets/logos/leagues/handball.webp",
         "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp",
-        "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp"
+        "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp",
+        "Club Friendly": "assets/logos/leagues/club-friendly.webp"
     }
 }
