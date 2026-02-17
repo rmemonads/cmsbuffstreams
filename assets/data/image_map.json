@@ -4945,7 +4945,13 @@
         "Central Michigan": "assets/logos/streamed/central-michigan.webp",
         "Nicolas Jara-Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp",
         "Daniil Glinka": "assets/logos/upstreams/daniil-glinka.webp",
-        "Ryota Tanuma": "assets/logos/upstreams/ryota-tanuma.webp"
+        "Ryota Tanuma": "assets/logos/upstreams/ryota-tanuma.webp",
+        "Buducnost Podgorica": "assets/logos/upstreams/buducnost-podgorica.webp",
+        "Lovcen Cetinje": "assets/logos/upstreams/lovcen-cetinje.webp",
+        "NK Opatija": "assets/logos/upstreams/nk-opatija.webp",
+        "Karlovac": "assets/logos/upstreams/karlovac.webp",
+        "Sesvete": "assets/logos/upstreams/sesvete.webp",
+        "Dubrava": "assets/logos/upstreams/dubrava.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
