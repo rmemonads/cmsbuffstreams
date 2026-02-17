@@ -5038,7 +5038,26 @@
         "FC Arges": "assets/logos/upstreams/fc-arges.webp",
         "Sturm Graz": "assets/logos/upstreams/sturm-graz.webp",
         "Borussia Monchengladbach": "assets/logos/upstreams/borussia-monchengladbach.webp",
-        "UNAM Pumas": "assets/logos/upstreams/unam-pumas.webp"
+        "UNAM Pumas": "assets/logos/upstreams/unam-pumas.webp",
+        "Bagatelle": "assets/logos/upstreams/bagatelle.webp",
+        "Kickstart Rush": "assets/logos/upstreams/kickstart-rush.webp",
+        "Fenerbahce (W)": "assets/logos/upstreams/fenerbahce-w.webp",
+        "Lietkabelis": "assets/logos/upstreams/lietkabelis.webp",
+        "Venezia (W)": "assets/logos/upstreams/venezia-w.webp",
+        "Schio (W)": "assets/logos/upstreams/schio-w.webp",
+        "Maccabi Urban Ramat Gan": "assets/logos/upstreams/maccabi-urban-ramat-gan.webp",
+        "Newcastle Eagles": "assets/logos/upstreams/newcastle-eagles.webp",
+        "Hamar Thor (W)": "assets/logos/upstreams/hamar-thor-w.webp",
+        "Aalborg H\u00e5ndbold": "assets/logos/upstreams/aalborg-h\u00e5ndbold.webp",
+        "Kolstad": "assets/logos/upstreams/kolstad.webp",
+        "Pick Szeged": "assets/logos/upstreams/pick-szeged.webp",
+        "RK Zagreb": "assets/logos/upstreams/rk-zagreb.webp",
+        "Paris Saint-Germain Handball": "assets/logos/upstreams/paris-saint-germain-handball.webp",
+        "Junior Barranquilla": "assets/logos/upstreams/junior-barranquilla.webp",
+        "HK Prizma": "assets/logos/upstreams/hk-prizma.webp",
+        "Fiona Ferro": "assets/logos/upstreams/fiona-ferro.webp",
+        "Lola Radivojevic": "assets/logos/upstreams/lola-radivojevic.webp",
+        "Binga FC": "assets/logos/upstreams/binga-fc.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5562,6 +5581,11 @@
         "Challenge Cup": "assets/logos/leagues/challenge-cup.webp",
         "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp",
         "English League One": "assets/logos/leagues/english-league-one.webp",
-        "Players Championship 2026": "assets/logos/leagues/players-championship-2026.webp"
+        "Players Championship 2026": "assets/logos/leagues/players-championship-2026.webp",
+        "EuroLeague (W) - Play-in": "assets/logos/leagues/euroleague-w-play-in.webp",
+        "Greece - Cup": "assets/logos/leagues/greece-cup.webp",
+        "Italy - Cup": "assets/logos/leagues/italy-cup.webp",
+        "EHF Champions League, Group A": "assets/logos/leagues/ehf-champions-league-group-a.webp",
+        "Champions League - Gr.B": "assets/logos/leagues/champions-league-grb.webp"
     }
 }
