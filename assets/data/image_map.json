@@ -4822,7 +4822,17 @@
         "Giorgio Tabacco": "assets/logos/upstreams/giorgio-tabacco.webp",
         "Daniel Batista": "assets/logos/upstreams/daniel-batista.webp",
         "Drita": "assets/logos/upstreams/drita.webp",
-        "NK Celje": "assets/logos/upstreams/nk-celje.webp"
+        "NK Celje": "assets/logos/upstreams/nk-celje.webp",
+        "Ibc": "assets/logos/upstreams/ibc.webp",
+        "KK Nis 1996": "assets/logos/upstreams/kk-nis-1996.webp",
+        "Daugavpils Sporta Skola": "assets/logos/upstreams/daugavpils-sporta-skola.webp",
+        "BK Livani": "assets/logos/upstreams/bk-livani.webp",
+        "Nove Zamky": "assets/logos/upstreams/nove-zamky.webp",
+        "Spartak Dubnica": "assets/logos/upstreams/spartak-dubnica.webp",
+        "Fabian Marozsan": "assets/logos/upstreams/fabian-marozsan.webp",
+        "Elena Rybakina": "assets/logos/upstreams/elena-rybakina.webp",
+        "Jasmine Paolini": "assets/logos/upstreams/jasmine-paolini.webp",
+        "Caroline Werner": "assets/logos/upstreams/caroline-werner.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5334,6 +5344,7 @@
         "football": "assets/logos/leagues/football.webp",
         "Qatar ExxonMobil Open": "assets/logos/leagues/qatar-exxonmobil-open.webp",
         "Volleyball": "assets/logos/leagues/volleyball.webp",
-        "Football": "assets/logos/leagues/football.webp"
+        "Football": "assets/logos/leagues/football.webp",
+        "WTA - Dubai (EAU)": "assets/logos/leagues/wta-dubai-eau.webp"
     }
 }
