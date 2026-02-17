@@ -4951,7 +4951,13 @@
         "NK Opatija": "assets/logos/upstreams/nk-opatija.webp",
         "Karlovac": "assets/logos/upstreams/karlovac.webp",
         "Sesvete": "assets/logos/upstreams/sesvete.webp",
-        "Dubrava": "assets/logos/upstreams/dubrava.webp"
+        "Dubrava": "assets/logos/upstreams/dubrava.webp",
+        "Molde": "assets/logos/upstreams/molde.webp",
+        "Viking": "assets/logos/upstreams/viking.webp",
+        "RC de Kadiogo": "assets/logos/upstreams/rc-de-kadiogo.webp",
+        "Real Du Faso": "assets/logos/upstreams/real-du-faso.webp",
+        "Salitas FC": "assets/logos/upstreams/salitas-fc.webp",
+        "Taki Adachi": "assets/logos/upstreams/taki-adachi.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
