@@ -4943,7 +4943,9 @@
         "KK SC Derby": "assets/logos/upstreams/kk-sc-derby.webp",
         "Eastern Michigan": "assets/logos/streamed/eastern-michigan.webp",
         "Central Michigan": "assets/logos/streamed/central-michigan.webp",
-        "Nicolas Jara-Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp"
+        "Nicolas Jara-Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp",
+        "Daniil Glinka": "assets/logos/upstreams/daniil-glinka.webp",
+        "Ryota Tanuma": "assets/logos/upstreams/ryota-tanuma.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
