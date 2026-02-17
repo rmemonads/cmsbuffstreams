@@ -4997,7 +4997,11 @@
         "Tartu \u00dclikool Maks & Moorits": "assets/logos/upstreams/tartu-\u00fclikool-maks-moorits.webp",
         "Keila Korvpallikool": "assets/logos/upstreams/keila-korvpallikool.webp",
         "Anagennisi Germasogeias (W)": "assets/logos/upstreams/anagennisi-germasogeias-w.webp",
-        "Yara Bartashevich": "assets/logos/upstreams/yara-bartashevich.webp"
+        "Yara Bartashevich": "assets/logos/upstreams/yara-bartashevich.webp",
+        "AEK": "assets/logos/upstreams/aek.webp",
+        "PAOK Thessaloniki VC": "assets/logos/upstreams/paok-thessaloniki-vc.webp",
+        "Lindemans Aalst": "assets/logos/upstreams/lindemans-aalst.webp",
+        "Cadence Brace": "assets/logos/upstreams/cadence-brace.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5517,6 +5521,7 @@
         "Club Friendly": "assets/logos/leagues/club-friendly.webp",
         "CAF Confederation Cup": "assets/logos/leagues/caf-confederation-cup.webp",
         "Snooker": "assets/logos/leagues/snooker.webp",
-        "Greece Basketball": "assets/logos/leagues/greece-basketball.webp"
+        "Greece Basketball": "assets/logos/leagues/greece-basketball.webp",
+        "Challenge Cup": "assets/logos/leagues/challenge-cup.webp"
     }
 }
