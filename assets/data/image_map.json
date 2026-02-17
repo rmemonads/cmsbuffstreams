@@ -4925,7 +4925,18 @@
         "Mansfield": "assets/logos/upstreams/mansfield.webp",
         "Marko Maric": "assets/logos/upstreams/marko-maric.webp",
         "Hugo Maia": "assets/logos/upstreams/hugo-maia.webp",
-        "Irene Burillo": "assets/logos/upstreams/irene-burillo.webp"
+        "Irene Burillo": "assets/logos/upstreams/irene-burillo.webp",
+        "Federico Arnaboldi": "assets/logos/upstreams/federico-arnaboldi.webp",
+        "Tori Kinard": "assets/logos/upstreams/tori-kinard.webp",
+        "Isabella Marton": "assets/logos/upstreams/isabella-marton.webp",
+        "Nikol Mircheva": "assets/logos/upstreams/nikol-mircheva.webp",
+        "Veronica Miroshnichenko": "assets/logos/upstreams/veronica-miroshnichenko.webp",
+        "Zdena Safarova": "assets/logos/upstreams/zdena-safarova.webp",
+        "Edda Mamedova": "assets/logos/upstreams/edda-mamedova.webp",
+        "Ava Markham": "assets/logos/upstreams/ava-markham.webp",
+        "Martina Okalova": "assets/logos/upstreams/martina-okalova.webp",
+        "Olivia Lincer": "assets/logos/upstreams/olivia-lincer.webp",
+        "Ella McDonald": "assets/logos/upstreams/ella-mcdonald.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5442,6 +5453,8 @@
         "Handball": "assets/logos/leagues/handball.webp",
         "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp",
         "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp",
-        "Club Friendly": "assets/logos/leagues/club-friendly.webp"
+        "Club Friendly": "assets/logos/leagues/club-friendly.webp",
+        "CAF Confederation Cup": "assets/logos/leagues/caf-confederation-cup.webp",
+        "Snooker": "assets/logos/leagues/snooker.webp"
     }
 }
