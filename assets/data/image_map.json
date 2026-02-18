@@ -5277,7 +5277,12 @@
         "Norfolk Admirals": "assets/logos/upstreams/norfolk-admirals.webp",
         "Fort Wayne Komets": "assets/logos/upstreams/fort-wayne-komets.webp",
         "Manchester Utd U18": "assets/logos/upstreams/manchester-utd-u18.webp",
-        "Siaz": "assets/logos/upstreams/siaz.webp"
+        "Siaz": "assets/logos/upstreams/siaz.webp",
+        "CSM Oradea": "assets/logos/upstreams/csm-oradea.webp",
+        "U-Banca Transilvania Cluj-Napoca": "assets/logos/upstreams/u-banca-transilvania-cluj-napoca.webp",
+        "Cholet": "assets/logos/upstreams/cholet.webp",
+        "Bauska": "assets/logos/upstreams/bauska.webp",
+        "Liepaja/LSSS": "assets/logos/upstreams/liepajalsss.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5824,6 +5829,9 @@
         "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp",
         "WASL West Asia": "assets/logos/leagues/wasl-west-asia.webp",
         "AFC Champions League II": "assets/logos/leagues/afc-champions-league-ii.webp",
-        "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp"
+        "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp",
+        "Greece Basketball Cup": "assets/logos/leagues/greece-basketball-cup.webp",
+        "Romanian Basketball Cup": "assets/logos/leagues/romanian-basketball-cup.webp",
+        "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp"
     }
 }
