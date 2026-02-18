@@ -5247,7 +5247,14 @@
         "Chukwumelije Clarke": "assets/logos/upstreams/chukwumelije-clarke.webp",
         "Julieta Pareja": "assets/logos/upstreams/julieta-pareja.webp",
         "Vivian Wolff": "assets/logos/upstreams/vivian-wolff.webp",
-        "KK Zemun": "assets/logos/upstreams/kk-zemun.webp"
+        "KK Zemun": "assets/logos/upstreams/kk-zemun.webp",
+        "Corum": "assets/logos/upstreams/corum.webp",
+        "Erzurumspor": "assets/logos/upstreams/erzurumspor.webp",
+        "Zimbru Chisinau 2": "assets/logos/upstreams/zimbru-chisinau-2.webp",
+        "FC Stauceni": "assets/logos/upstreams/fc-stauceni.webp",
+        "Cong An Ha Noi": "assets/logos/upstreams/cong-an-ha-noi.webp",
+        "Rajat Shirur": "assets/logos/upstreams/rajat-shirur.webp",
+        "Mathilde Ngijol Carre": "assets/logos/upstreams/mathilde-ngijol-carre.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5792,6 +5799,7 @@
         "HockeyEttan Norra": "assets/logos/leagues/hockeyettan-norra.webp",
         "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
         "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp",
-        "WASL West Asia": "assets/logos/leagues/wasl-west-asia.webp"
+        "WASL West Asia": "assets/logos/leagues/wasl-west-asia.webp",
+        "AFC Champions League II": "assets/logos/leagues/afc-champions-league-ii.webp"
     }
 }
