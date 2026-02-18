@@ -5209,7 +5209,22 @@
         "Kanon Sawashiro": "assets/logos/upstreams/kanon-sawashiro.webp",
         "HK 95 Pova\u017esk\u00e1 Bystrica": "assets/logos/upstreams/hk-95-pova\u017esk\u00e1-bystrica.webp",
         "HK Gladiators Trnava": "assets/logos/upstreams/hk-gladiators-trnava.webp",
-        "HK \u017diar nad Hronom": "assets/logos/upstreams/hk-\u017eiar-nad-hronom.webp"
+        "HK \u017diar nad Hronom": "assets/logos/upstreams/hk-\u017eiar-nad-hronom.webp",
+        "Aanekosken Huima": "assets/logos/upstreams/aanekosken-huima.webp",
+        "Oulun Nmky": "assets/logos/upstreams/oulun-nmky.webp",
+        "Al Riyadi Beirut": "assets/logos/upstreams/al-riyadi-beirut.webp",
+        "Shahrdari Gorgan": "assets/logos/upstreams/shahrdari-gorgan.webp",
+        "UMF Grindavik": "assets/logos/upstreams/umf-grindavik.webp",
+        "Knights Legnano": "assets/logos/upstreams/knights-legnano.webp",
+        "Orasi Ravenna": "assets/logos/upstreams/orasi-ravenna.webp",
+        "Montecatini": "assets/logos/upstreams/montecatini.webp",
+        "Janus Basket Fabriano": "assets/logos/upstreams/janus-basket-fabriano.webp",
+        "Asd Loreto Basket": "assets/logos/upstreams/asd-loreto-basket.webp",
+        "Fiorenzuola": "assets/logos/upstreams/fiorenzuola.webp",
+        "Shrivalli Rashmikaa Bhamidipaty": "assets/logos/upstreams/shrivalli-rashmikaa-bhamidipaty.webp",
+        "Ya-Hsuan Lee": "assets/logos/upstreams/ya-hsuan-lee.webp",
+        "Lea Bo\u0161kovi\u0107": "assets/logos/upstreams/lea-bo\u0161kovi\u0107.webp",
+        "Ciudad Bolivar": "assets/logos/upstreams/ciudad-bolivar.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5753,6 +5768,7 @@
         "T\u00fcrkiye Kupasi, Final Round": "assets/logos/leagues/t\u00fcrkiye-kupasi-final-round.webp",
         "HockeyEttan Norra": "assets/logos/leagues/hockeyettan-norra.webp",
         "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
-        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp"
+        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp",
+        "WASL West Asia": "assets/logos/leagues/wasl-west-asia.webp"
     }
 }
