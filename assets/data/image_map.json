@@ -5262,7 +5262,11 @@
         "Mostecti LVI": "assets/logos/upstreams/mostecti-lvi.webp",
         "HC Muni": "assets/logos/upstreams/hc-muni.webp",
         "VUT Brno": "assets/logos/upstreams/vut-brno.webp",
-        "Engineers Prague": "assets/logos/upstreams/engineers-prague.webp"
+        "Engineers Prague": "assets/logos/upstreams/engineers-prague.webp",
+        "Kaarinan Ura Basket": "assets/logos/upstreams/kaarinan-ura-basket.webp",
+        "Saldus": "assets/logos/upstreams/saldus.webp",
+        "CEastistica San Severo": "assets/logos/upstreams/ceastistica-san-severo.webp",
+        "BC Beroe SZ": "assets/logos/upstreams/bc-beroe-sz.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
