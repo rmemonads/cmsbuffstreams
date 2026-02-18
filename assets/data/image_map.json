@@ -5291,7 +5291,10 @@
         "Margaux Rouvroy": "assets/logos/upstreams/margaux-rouvroy.webp",
         "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp",
         "Farnborough": "assets/logos/upstreams/farnborough.webp",
-        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp"
+        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp",
+        "Bayer Leverkusen --- GRE": "assets/logos/upstreams/bayer-leverkusen-gre.webp",
+        "Learner Tien": "assets/logos/upstreams/learner-tien.webp",
+        "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5841,6 +5844,7 @@
         "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp",
         "Greece Basketball Cup": "assets/logos/leagues/greece-basketball-cup.webp",
         "Romanian Basketball Cup": "assets/logos/leagues/romanian-basketball-cup.webp",
-        "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp"
+        "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp",
+        "ATP - Doha (QAT)": "assets/logos/leagues/atp-doha-qat.webp"
     }
 }
