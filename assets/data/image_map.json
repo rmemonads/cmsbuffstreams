@@ -5187,7 +5187,18 @@
         "Vaidehi Chaudhari": "assets/logos/upstreams/vaidehi-chaudhari.webp",
         "Mei Yamaguchi": "assets/logos/upstreams/mei-yamaguchi.webp",
         "Sohyun Park": "assets/logos/upstreams/sohyun-park.webp",
-        "Lanlana Tararudee": "assets/logos/upstreams/lanlana-tararudee.webp"
+        "Lanlana Tararudee": "assets/logos/upstreams/lanlana-tararudee.webp",
+        "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp",
+        "Portimonense U23": "assets/logos/upstreams/portimonense-u23.webp",
+        "Pride of Gall Hill": "assets/logos/upstreams/pride-of-gall-hill.webp",
+        "Uwi Blackbirds": "assets/logos/upstreams/uwi-blackbirds.webp",
+        "Osasco Sporting": "assets/logos/upstreams/osasco-sporting.webp",
+        "Eastrela Amadora U23": "assets/logos/upstreams/eastrela-amadora-u23.webp",
+        "Maritimo U23": "assets/logos/upstreams/maritimo-u23.webp",
+        "Acad\u00e9mico Viseu U23": "assets/logos/upstreams/acad\u00e9mico-viseu-u23.webp",
+        "Gil Vicente U23": "assets/logos/upstreams/gil-vicente-u23.webp",
+        "Estoril Praia U23": "assets/logos/upstreams/estoril-praia-u23.webp",
+        "Stefan Adrian Andreescu": "assets/logos/upstreams/stefan-adrian-andreescu.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5730,6 +5741,7 @@
         "Slovensky Pohar": "assets/logos/leagues/slovensky-pohar.webp",
         "T\u00fcrkiye Kupasi, Final Round": "assets/logos/leagues/t\u00fcrkiye-kupasi-final-round.webp",
         "HockeyEttan Norra": "assets/logos/leagues/hockeyettan-norra.webp",
-        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
+        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp"
     }
 }
