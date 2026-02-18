@@ -5300,7 +5300,8 @@
         "Lehigh": "assets/logos/streamed/lehigh.webp",
         "Bellarmine": "assets/logos/streamed/bellarmine.webp",
         "Lipscomb": "assets/logos/streamed/lipscomb.webp",
-        "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp"
+        "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp",
+        "Colorado State": "assets/logos/streamed/colorado-state.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
