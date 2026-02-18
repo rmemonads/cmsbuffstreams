@@ -5303,7 +5303,32 @@
         "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp",
         "Colorado State": "assets/logos/streamed/colorado-state.webp",
         "\u015e\u0259fa": "assets/logos/streamed/\u015f\u0259fa.webp",
-        "Ming\u0259\u00e7evir": "assets/logos/streamed/ming\u0259\u00e7evir.webp"
+        "Ming\u0259\u00e7evir": "assets/logos/streamed/ming\u0259\u00e7evir.webp",
+        "Derthona Tortona": "assets/logos/upstreams/derthona-tortona.webp",
+        "GeVi Napoli Basket": "assets/logos/upstreams/gevi-napoli-basket.webp",
+        "IA Akranes": "assets/logos/upstreams/ia-akranes.webp",
+        "BC Astana": "assets/logos/upstreams/bc-astana.webp",
+        "Thor Thorl": "assets/logos/upstreams/thor-thorl.webp",
+        "Tindastoll": "assets/logos/upstreams/tindastoll.webp",
+        "Njardvik": "assets/logos/upstreams/njardvik.webp",
+        "KR Basket": "assets/logos/upstreams/kr-basket.webp",
+        "Grindavik": "assets/logos/upstreams/grindavik.webp",
+        "Pinheiros": "assets/logos/upstreams/pinheiros.webp",
+        "Paulistano": "assets/logos/upstreams/paulistano.webp",
+        "Kahibah FC": "assets/logos/upstreams/kahibah-fc.webp",
+        "Lambton Jaffas": "assets/logos/upstreams/lambton-jaffas.webp",
+        "A'ali": "assets/logos/upstreams/aali.webp",
+        "Al Riffa": "assets/logos/upstreams/al-riffa.webp",
+        "Kielce": "assets/logos/upstreams/kielce.webp",
+        "Wipptal Broncos": "assets/logos/upstreams/wipptal-broncos.webp",
+        "RK Eurofarm Pelister": "assets/logos/upstreams/rk-eurofarm-pelister.webp",
+        "Hockey Punks Vilnius": "assets/logos/upstreams/hockey-punks-vilnius.webp",
+        "Frisk Asker": "assets/logos/upstreams/frisk-asker.webp",
+        "Nidaros Hockey": "assets/logos/upstreams/nidaros-hockey.webp",
+        "Stjernen Hockey": "assets/logos/upstreams/stjernen-hockey.webp",
+        "SG Cortina": "assets/logos/upstreams/sg-cortina.webp",
+        "Hume City": "assets/logos/upstreams/hume-city.webp",
+        "USFAS Bamako": "assets/logos/upstreams/usfas-bamako.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -5854,6 +5879,10 @@
         "Greece Basketball Cup": "assets/logos/leagues/greece-basketball-cup.webp",
         "Romanian Basketball Cup": "assets/logos/leagues/romanian-basketball-cup.webp",
         "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp",
-        "ATP - Doha (QAT)": "assets/logos/leagues/atp-doha-qat.webp"
+        "ATP - Doha (QAT)": "assets/logos/leagues/atp-doha-qat.webp",
+        "CONCACAF - Champions Cup": "assets/logos/leagues/concacaf-champions-cup.webp",
+        "Final Eight": "assets/logos/leagues/final-eight.webp",
+        "Champions League - Gr.A": "assets/logos/leagues/champions-league-gra.webp",
+        "EliteHockey Ligaen": "assets/logos/leagues/elitehockey-ligaen.webp"
     }
 }
