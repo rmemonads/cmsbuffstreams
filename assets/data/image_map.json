@@ -5294,7 +5294,13 @@
         "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp",
         "Bayer Leverkusen --- GRE": "assets/logos/upstreams/bayer-leverkusen-gre.webp",
         "Learner Tien": "assets/logos/upstreams/learner-tien.webp",
-        "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp"
+        "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp",
+        "Lafayette": "assets/logos/streamed/lafayette.webp",
+        "Cleveland State": "assets/logos/streamed/cleveland-state.webp",
+        "Lehigh": "assets/logos/streamed/lehigh.webp",
+        "Bellarmine": "assets/logos/streamed/bellarmine.webp",
+        "Lipscomb": "assets/logos/streamed/lipscomb.webp",
+        "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
