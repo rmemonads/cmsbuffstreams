@@ -5301,7 +5301,9 @@
         "Bellarmine": "assets/logos/streamed/bellarmine.webp",
         "Lipscomb": "assets/logos/streamed/lipscomb.webp",
         "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp",
-        "Colorado State": "assets/logos/streamed/colorado-state.webp"
+        "Colorado State": "assets/logos/streamed/colorado-state.webp",
+        "\u015e\u0259fa": "assets/logos/streamed/\u015f\u0259fa.webp",
+        "Ming\u0259\u00e7evir": "assets/logos/streamed/ming\u0259\u00e7evir.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
