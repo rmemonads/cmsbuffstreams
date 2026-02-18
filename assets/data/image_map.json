@@ -5267,7 +5267,9 @@
         "Saldus": "assets/logos/upstreams/saldus.webp",
         "CEastistica San Severo": "assets/logos/upstreams/ceastistica-san-severo.webp",
         "BC Beroe SZ": "assets/logos/upstreams/bc-beroe-sz.webp",
-        "Ema Burgi\u0107": "assets/logos/upstreams/ema-burgi\u0107.webp"
+        "Ema Burgi\u0107": "assets/logos/upstreams/ema-burgi\u0107.webp",
+        "HC North Wings": "assets/logos/upstreams/hc-north-wings.webp",
+        "Black Dogs Budweis": "assets/logos/upstreams/black-dogs-budweis.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
