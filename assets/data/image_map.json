@@ -5282,7 +5282,14 @@
         "U-Banca Transilvania Cluj-Napoca": "assets/logos/upstreams/u-banca-transilvania-cluj-napoca.webp",
         "Cholet": "assets/logos/upstreams/cholet.webp",
         "Bauska": "assets/logos/upstreams/bauska.webp",
-        "Liepaja/LSSS": "assets/logos/upstreams/liepajalsss.webp"
+        "Liepaja/LSSS": "assets/logos/upstreams/liepajalsss.webp",
+        "Shkendija": "assets/logos/streamed/shkendija.webp",
+        "Ferencvarosi TC": "assets/logos/streamed/ferencvarosi-tc.webp",
+        "Juventud Las Piedras": "assets/logos/streamed/juventud-las-piedras.webp",
+        "Hurricanes": "assets/logos/streamed/hurricanes.webp",
+        "Rbs Rigas Juniori": "assets/logos/upstreams/rbs-rigas-juniori.webp",
+        "Margaux Rouvroy": "assets/logos/upstreams/margaux-rouvroy.webp",
+        "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
