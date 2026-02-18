@@ -5275,7 +5275,9 @@
         "Manisa FK": "assets/logos/upstreams/manisa-fk.webp",
         "Band\u0131rmaspor": "assets/logos/upstreams/band\u0131rmaspor.webp",
         "Norfolk Admirals": "assets/logos/upstreams/norfolk-admirals.webp",
-        "Fort Wayne Komets": "assets/logos/upstreams/fort-wayne-komets.webp"
+        "Fort Wayne Komets": "assets/logos/upstreams/fort-wayne-komets.webp",
+        "Manchester Utd U18": "assets/logos/upstreams/manchester-utd-u18.webp",
+        "Siaz": "assets/logos/upstreams/siaz.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
