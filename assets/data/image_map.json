@@ -5289,7 +5289,9 @@
         "Hurricanes": "assets/logos/streamed/hurricanes.webp",
         "Rbs Rigas Juniori": "assets/logos/upstreams/rbs-rigas-juniori.webp",
         "Margaux Rouvroy": "assets/logos/upstreams/margaux-rouvroy.webp",
-        "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp"
+        "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp",
+        "Farnborough": "assets/logos/upstreams/farnborough.webp",
+        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
