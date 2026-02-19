@@ -5458,7 +5458,10 @@
         "Potsdam": "assets/logos/upstreams/potsdam.webp",
         "Elbflorenz Dresden": "assets/logos/upstreams/elbflorenz-dresden.webp",
         "Dessau-Rosslauer": "assets/logos/upstreams/dessau-rosslauer.webp",
-        "Polina Iatcenko": "assets/logos/upstreams/polina-iatcenko.webp"
+        "Polina Iatcenko": "assets/logos/upstreams/polina-iatcenko.webp",
+        "Al Ahli Jeddah": "assets/logos/upstreams/al-ahli-jeddah.webp",
+        "AL Najma SC": "assets/logos/upstreams/al-najma-sc.webp",
+        "Minas T\u00eanis Clube": "assets/logos/upstreams/minas-t\u00eanis-clube.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6038,6 +6041,7 @@
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "Pokal": "assets/logos/leagues/pokal.webp",
         "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp",
-        "Ligue A": "assets/logos/leagues/ligue-a.webp"
+        "Ligue A": "assets/logos/leagues/ligue-a.webp",
+        "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp"
     }
 }
