@@ -5328,7 +5328,10 @@
         "Stjernen Hockey": "assets/logos/upstreams/stjernen-hockey.webp",
         "SG Cortina": "assets/logos/upstreams/sg-cortina.webp",
         "Hume City": "assets/logos/upstreams/hume-city.webp",
-        "USFAS Bamako": "assets/logos/upstreams/usfas-bamako.webp"
+        "USFAS Bamako": "assets/logos/upstreams/usfas-bamako.webp",
+        "Hurricanes Super Rugby": "assets/logos/streamed/hurricanes-super-rugby.webp",
+        "Texas Rangers": "assets/logos/streamed/texas-rangers.webp",
+        "Kansas City Royals": "assets/logos/streamed/kansas-city-royals.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
