@@ -5483,7 +5483,9 @@
         "FC Schweinfurt 05": "assets/logos/streamed/fc-schweinfurt-05.webp",
         "Ba\u015fak\u015fehir": "assets/logos/streamed/ba\u015fak\u015fehir.webp",
         "Ode' Osbourne": "assets/logos/streamed/ode-osbourne.webp",
-        "Caracas FC": "assets/logos/upstreams/caracas-fc.webp"
+        "Caracas FC": "assets/logos/upstreams/caracas-fc.webp",
+        "FK Crvena Zvezda": "assets/logos/streamed/fk-crvena-zvezda.webp",
+        "Club Guarani": "assets/logos/streamed/club-guarani.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
