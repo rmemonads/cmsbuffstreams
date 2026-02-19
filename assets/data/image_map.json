@@ -5435,7 +5435,19 @@
         "Arantxa Rus": "assets/logos/upstreams/arantxa-rus.webp",
         "Katarina Jokic": "assets/logos/upstreams/katarina-jokic.webp",
         "Tessa Johanna Brockmann": "assets/logos/upstreams/tessa-johanna-brockmann.webp",
-        "Williams M.": "assets/logos/upstreams/williams-m.webp"
+        "Williams M.": "assets/logos/upstreams/williams-m.webp",
+        "Roki": "assets/logos/upstreams/roki.webp",
+        "Tuto": "assets/logos/upstreams/tuto.webp",
+        "Imatran Kettera": "assets/logos/upstreams/imatran-kettera.webp",
+        "ATP 500 Doha: Lehecka - Fils": "assets/logos/upstreams/atp-500-doha-lehecka-fils.webp",
+        "Tourcoing": "assets/logos/upstreams/tourcoing.webp",
+        "Hull KR": "assets/logos/upstreams/hull-kr.webp",
+        "Brisbane Broncos": "assets/logos/upstreams/brisbane-broncos.webp",
+        "Regensburg": "assets/logos/upstreams/regensburg.webp",
+        "Wehen": "assets/logos/upstreams/wehen.webp",
+        "Nogomet: Gr\u0161ka liga: Asteras": "assets/logos/upstreams/nogomet-gr\u0161ka-liga-asteras.webp",
+        "Nicolas Ezequiel Jara": "assets/logos/upstreams/nicolas-ezequiel-jara.webp",
+        "Lorenzo GerezSuper welterweight": "assets/logos/upstreams/lorenzo-gerezsuper-welterweight.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6013,6 +6025,7 @@
         "NCAA, Regular Season": "assets/logos/leagues/ncaa-regular-season.webp",
         "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
-        "Pokal": "assets/logos/leagues/pokal.webp"
+        "Pokal": "assets/logos/leagues/pokal.webp",
+        "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp"
     }
 }
