@@ -5513,7 +5513,9 @@
         "Eastern Washington": "assets/logos/streamed/eastern-washington.webp",
         "Athletico-PR": "assets/logos/upstreams/athletico-pr.webp",
         "Stephen Bunting": "assets/logos/upstreams/stephen-bunting.webp",
-        "Gian Van Veen": "assets/logos/upstreams/gian-van-veen.webp"
+        "Gian Van Veen": "assets/logos/upstreams/gian-van-veen.webp",
+        "Michael van Gerwen": "assets/logos/upstreams/michael-van-gerwen.webp",
+        "Luke Littler": "assets/logos/upstreams/luke-littler.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
