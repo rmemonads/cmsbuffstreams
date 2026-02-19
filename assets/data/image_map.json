@@ -5485,7 +5485,16 @@
         "Ode' Osbourne": "assets/logos/streamed/ode-osbourne.webp",
         "Caracas FC": "assets/logos/upstreams/caracas-fc.webp",
         "FK Crvena Zvezda": "assets/logos/streamed/fk-crvena-zvezda.webp",
-        "Club Guarani": "assets/logos/streamed/club-guarani.webp"
+        "Club Guarani": "assets/logos/streamed/club-guarani.webp",
+        "Achilleas Kaimakliou": "assets/logos/upstreams/achilleas-kaimakliou.webp",
+        "AEL Limassol B.C.": "assets/logos/upstreams/ael-limassol-bc.webp",
+        "Anorthosis Famagusta": "assets/logos/upstreams/anorthosis-famagusta.webp",
+        "AEK Larnaca B.C.": "assets/logos/upstreams/aek-larnaca-bc.webp",
+        "Rigas Zelli B": "assets/logos/upstreams/rigas-zelli-b.webp",
+        "Vaxjo": "assets/logos/upstreams/vaxjo.webp",
+        "Malmo": "assets/logos/upstreams/malmo.webp",
+        "Leksand": "assets/logos/upstreams/leksand.webp",
+        "HV 71": "assets/logos/upstreams/hv-71.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6067,6 +6076,7 @@
         "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp",
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
         "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp",
-        "Cricket T20": "assets/logos/leagues/cricket-t20.webp"
+        "Cricket T20": "assets/logos/leagues/cricket-t20.webp",
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
     }
 }
