@@ -5499,7 +5499,8 @@
         "Arab Contractors FC": "assets/logos/upstreams/arab-contractors-fc.webp",
         "Al-Masry": "assets/logos/upstreams/al-masry.webp",
         "Pharco FC": "assets/logos/upstreams/pharco-fc.webp",
-        "Petrojet": "assets/logos/upstreams/petrojet.webp"
+        "Petrojet": "assets/logos/upstreams/petrojet.webp",
+        "Gustavo Almeida": "assets/logos/upstreams/gustavo-almeida.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6082,6 +6083,7 @@
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
         "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp",
         "Cricket T20": "assets/logos/leagues/cricket-t20.webp",
-        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
+        "UEFA Europa League": "assets/logos/leagues/uefa-europa-league.webp"
     }
 }
