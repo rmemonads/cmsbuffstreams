@@ -5510,7 +5510,10 @@
         "Long Beach State": "assets/logos/streamed/long-beach-state.webp",
         "UC Irvine": "assets/logos/streamed/uc-irvine.webp",
         "Sacramento State": "assets/logos/streamed/sacramento-state.webp",
-        "Eastern Washington": "assets/logos/streamed/eastern-washington.webp"
+        "Eastern Washington": "assets/logos/streamed/eastern-washington.webp",
+        "Athletico-PR": "assets/logos/upstreams/athletico-pr.webp",
+        "Stephen Bunting": "assets/logos/upstreams/stephen-bunting.webp",
+        "Gian Van Veen": "assets/logos/upstreams/gian-van-veen.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6094,6 +6097,8 @@
         "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp",
         "Cricket T20": "assets/logos/leagues/cricket-t20.webp",
         "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
-        "UEFA Europa League": "assets/logos/leagues/uefa-europa-league.webp"
+        "UEFA Europa League": "assets/logos/leagues/uefa-europa-league.webp",
+        "Brazil Serie A": "assets/logos/leagues/brazil-serie-a.webp",
+        "Premier League, Night 3": "assets/logos/leagues/premier-league-night-3.webp"
     }
 }
