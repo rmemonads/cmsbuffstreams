@@ -5500,7 +5500,11 @@
         "Al-Masry": "assets/logos/upstreams/al-masry.webp",
         "Pharco FC": "assets/logos/upstreams/pharco-fc.webp",
         "Petrojet": "assets/logos/upstreams/petrojet.webp",
-        "Gustavo Almeida": "assets/logos/upstreams/gustavo-almeida.webp"
+        "Gustavo Almeida": "assets/logos/upstreams/gustavo-almeida.webp",
+        "Florida International": "assets/logos/streamed/florida-international.webp",
+        "North Florida": "assets/logos/streamed/north-florida.webp",
+        "Austin Peay": "assets/logos/streamed/austin-peay.webp",
+        "Hampton": "assets/logos/streamed/hampton.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
