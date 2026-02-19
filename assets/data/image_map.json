@@ -5469,7 +5469,11 @@
         "Balkan Botevgrad": "assets/logos/upstreams/balkan-botevgrad.webp",
         "CSA Steaua": "assets/logos/upstreams/csa-steaua.webp",
         "FC Viktoria Plze\u0148": "assets/logos/upstreams/fc-viktoria-plze\u0148.webp",
-        "Mumbai City": "assets/logos/upstreams/mumbai-city.webp"
+        "Mumbai City": "assets/logos/upstreams/mumbai-city.webp",
+        "Sarpsborg 08": "assets/logos/upstreams/sarpsborg-08.webp",
+        "Zbrojovka Brno": "assets/logos/upstreams/zbrojovka-brno.webp",
+        "Rapid City Rush": "assets/logos/upstreams/rapid-city-rush.webp",
+        "Worcester Railers": "assets/logos/upstreams/worcester-railers.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
