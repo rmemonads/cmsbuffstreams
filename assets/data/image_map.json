@@ -5473,7 +5473,16 @@
         "Sarpsborg 08": "assets/logos/upstreams/sarpsborg-08.webp",
         "Zbrojovka Brno": "assets/logos/upstreams/zbrojovka-brno.webp",
         "Rapid City Rush": "assets/logos/upstreams/rapid-city-rush.webp",
-        "Worcester Railers": "assets/logos/upstreams/worcester-railers.webp"
+        "Worcester Railers": "assets/logos/upstreams/worcester-railers.webp",
+        "Newcastle Red Bulls": "assets/logos/streamed/newcastle-red-bulls.webp",
+        "Estrela Amadora": "assets/logos/streamed/estrela-amadora.webp",
+        "Sarmiento": "assets/logos/streamed/sarmiento.webp",
+        "Gimnasia L.P.": "assets/logos/streamed/gimnasia-lp.webp",
+        "Scotland U17": "assets/logos/streamed/scotland-u17.webp",
+        "FC Ingolstadt 04": "assets/logos/streamed/fc-ingolstadt-04.webp",
+        "FC Schweinfurt 05": "assets/logos/streamed/fc-schweinfurt-05.webp",
+        "Ba\u015fak\u015fehir": "assets/logos/streamed/ba\u015fak\u015fehir.webp",
+        "Ode' Osbourne": "assets/logos/streamed/ode-osbourne.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
