@@ -5504,7 +5504,13 @@
         "Florida International": "assets/logos/streamed/florida-international.webp",
         "North Florida": "assets/logos/streamed/north-florida.webp",
         "Austin Peay": "assets/logos/streamed/austin-peay.webp",
-        "Hampton": "assets/logos/streamed/hampton.webp"
+        "Hampton": "assets/logos/streamed/hampton.webp",
+        "Portland State": "assets/logos/streamed/portland-state.webp",
+        "Idaho": "assets/logos/streamed/idaho.webp",
+        "Long Beach State": "assets/logos/streamed/long-beach-state.webp",
+        "UC Irvine": "assets/logos/streamed/uc-irvine.webp",
+        "Sacramento State": "assets/logos/streamed/sacramento-state.webp",
+        "Eastern Washington": "assets/logos/streamed/eastern-washington.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
