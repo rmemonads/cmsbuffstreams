@@ -5447,7 +5447,17 @@
         "Wehen": "assets/logos/upstreams/wehen.webp",
         "Nogomet: Gr\u0161ka liga: Asteras": "assets/logos/upstreams/nogomet-gr\u0161ka-liga-asteras.webp",
         "Nicolas Ezequiel Jara": "assets/logos/upstreams/nicolas-ezequiel-jara.webp",
-        "Lorenzo GerezSuper welterweight": "assets/logos/upstreams/lorenzo-gerezsuper-welterweight.webp"
+        "Lorenzo GerezSuper welterweight": "assets/logos/upstreams/lorenzo-gerezsuper-welterweight.webp",
+        "Richards Bay": "assets/logos/upstreams/richards-bay.webp",
+        "Balingen": "assets/logos/upstreams/balingen.webp",
+        "Lubeck Schwartau": "assets/logos/upstreams/lubeck-schwartau.webp",
+        "TS Galaxy": "assets/logos/upstreams/ts-galaxy.webp",
+        "Golden Arrows": "assets/logos/upstreams/golden-arrows.webp",
+        "Casric Stars": "assets/logos/upstreams/casric-stars.webp",
+        "Northhorn-Lingen": "assets/logos/upstreams/northhorn-lingen.webp",
+        "Potsdam": "assets/logos/upstreams/potsdam.webp",
+        "Elbflorenz Dresden": "assets/logos/upstreams/elbflorenz-dresden.webp",
+        "Dessau-Rosslauer": "assets/logos/upstreams/dessau-rosslauer.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6026,6 +6036,7 @@
         "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "Pokal": "assets/logos/leagues/pokal.webp",
-        "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp"
+        "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp",
+        "Ligue A": "assets/logos/leagues/ligue-a.webp"
     }
 }
