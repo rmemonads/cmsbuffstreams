@@ -5494,7 +5494,12 @@
         "Vaxjo": "assets/logos/upstreams/vaxjo.webp",
         "Malmo": "assets/logos/upstreams/malmo.webp",
         "Leksand": "assets/logos/upstreams/leksand.webp",
-        "HV 71": "assets/logos/upstreams/hv-71.webp"
+        "HV 71": "assets/logos/upstreams/hv-71.webp",
+        "El Gouna FC": "assets/logos/upstreams/el-gouna-fc.webp",
+        "Arab Contractors FC": "assets/logos/upstreams/arab-contractors-fc.webp",
+        "Al-Masry": "assets/logos/upstreams/al-masry.webp",
+        "Pharco FC": "assets/logos/upstreams/pharco-fc.webp",
+        "Petrojet": "assets/logos/upstreams/petrojet.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
