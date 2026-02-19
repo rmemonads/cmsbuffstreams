@@ -5461,7 +5461,12 @@
         "Polina Iatcenko": "assets/logos/upstreams/polina-iatcenko.webp",
         "Al Ahli Jeddah": "assets/logos/upstreams/al-ahli-jeddah.webp",
         "AL Najma SC": "assets/logos/upstreams/al-najma-sc.webp",
-        "Minas T\u00eanis Clube": "assets/logos/upstreams/minas-t\u00eanis-clube.webp"
+        "Minas T\u00eanis Clube": "assets/logos/upstreams/minas-t\u00eanis-clube.webp",
+        "Cherno More Ticha": "assets/logos/upstreams/cherno-more-ticha.webp",
+        "Cartagines": "assets/logos/upstreams/cartagines.webp",
+        "Jamshedpur": "assets/logos/upstreams/jamshedpur.webp",
+        "Punjab": "assets/logos/upstreams/punjab.webp",
+        "Balkan Botevgrad": "assets/logos/upstreams/balkan-botevgrad.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6042,6 +6047,7 @@
         "Pokal": "assets/logos/leagues/pokal.webp",
         "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp",
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
-        "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp"
+        "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp",
+        "Cricket T20": "assets/logos/leagues/cricket-t20.webp"
     }
 }
