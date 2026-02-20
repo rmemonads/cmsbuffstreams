@@ -5656,7 +5656,9 @@
         "Gold Coast Knights": "assets/logos/upstreams/gold-coast-knights.webp",
         "HK TAM Levice": "assets/logos/upstreams/hk-tam-levice.webp",
         "HC BIT markets TEBS Bratislava": "assets/logos/upstreams/hc-bit-markets-tebs-bratislava.webp",
-        "Pakistan A": "assets/logos/upstreams/pakistan-a.webp"
+        "Pakistan A": "assets/logos/upstreams/pakistan-a.webp",
+        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp",
+        "Catalans Dragons": "assets/logos/streamed/catalans-dragons.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
