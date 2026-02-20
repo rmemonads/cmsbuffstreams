@@ -5801,7 +5801,14 @@
         "Josiah Harrell": "assets/logos/streamed/josiah-harrell.webp",
         "Austin": "assets/logos/streamed/austin.webp",
         "Columbus Crew": "assets/logos/streamed/columbus-crew.webp",
-        "Cincinnati Reds": "assets/logos/streamed/cincinnati-reds.webp"
+        "Cincinnati Reds": "assets/logos/streamed/cincinnati-reds.webp",
+        "Krasava": "assets/logos/upstreams/krasava.webp",
+        "Leczna": "assets/logos/upstreams/leczna.webp",
+        "Real de Banjul": "assets/logos/upstreams/real-de-banjul.webp",
+        "FC Kallon": "assets/logos/upstreams/fc-kallon.webp",
+        "Star Sport Academy": "assets/logos/upstreams/star-sport-academy.webp",
+        "Martin Schindler": "assets/logos/upstreams/martin-schindler.webp",
+        "Boris Kr\u010dmar": "assets/logos/upstreams/boris-kr\u010dmar.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6408,6 +6415,8 @@
         "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp",
         "NRL pre-season: Wests Tigers V Panthers": "assets/logos/leagues/nrl-pre-season-wests-tigers-v-panthers.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
-        "Cage Warriors": "assets/logos/leagues/cage-warriors.webp"
+        "Cage Warriors": "assets/logos/leagues/cage-warriors.webp",
+        "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
+        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp"
     }
 }
