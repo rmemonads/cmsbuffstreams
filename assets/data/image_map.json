@@ -5816,7 +5816,17 @@
         "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp",
         "Dave Chisnall": "assets/logos/upstreams/dave-chisnall.webp",
         "Pilgrim D.": "assets/logos/upstreams/pilgrim-d.webp",
-        "Houston Astros": "assets/logos/streamed/houston-astros.webp"
+        "Houston Astros": "assets/logos/streamed/houston-astros.webp",
+        "Ghazl El Mahalla FC": "assets/logos/upstreams/ghazl-el-mahalla-fc.webp",
+        "Ismaily": "assets/logos/upstreams/ismaily.webp",
+        "Wadi Degla": "assets/logos/upstreams/wadi-degla.webp",
+        "Damac FC": "assets/logos/upstreams/damac-fc.webp",
+        "Al-Taawoun": "assets/logos/upstreams/al-taawoun.webp",
+        "Al-Okhdood": "assets/logos/upstreams/al-okhdood.webp",
+        "Al-Qadsiah": "assets/logos/upstreams/al-qadsiah.webp",
+        "Leigh": "assets/logos/upstreams/leigh.webp",
+        "PSG W": "assets/logos/upstreams/psg-w.webp",
+        "Lens W": "assets/logos/upstreams/lens-w.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6428,6 +6438,8 @@
         "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp",
         "Svenska Cupen, Group 5": "assets/logos/leagues/svenska-cupen-group-5.webp",
         "Sweden Women Svenska Cupen": "assets/logos/leagues/sweden-women-svenska-cupen.webp",
-        "Premi\u00e8re Ligue, F\u00e9minine": "assets/logos/leagues/premi\u00e8re-ligue-f\u00e9minine.webp"
+        "Premi\u00e8re Ligue, F\u00e9minine": "assets/logos/leagues/premi\u00e8re-ligue-f\u00e9minine.webp",
+        "France Premiere Ligue Women": "assets/logos/leagues/france-premiere-ligue-women.webp",
+        "Rugby Six Nations U20": "assets/logos/leagues/rugby-six-nations-u20.webp"
     }
 }
