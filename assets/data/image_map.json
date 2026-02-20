@@ -5808,7 +5808,12 @@
         "FC Kallon": "assets/logos/upstreams/fc-kallon.webp",
         "Star Sport Academy": "assets/logos/upstreams/star-sport-academy.webp",
         "Martin Schindler": "assets/logos/upstreams/martin-schindler.webp",
-        "Boris Kr\u010dmar": "assets/logos/upstreams/boris-kr\u010dmar.webp"
+        "Boris Kr\u010dmar": "assets/logos/upstreams/boris-kr\u010dmar.webp",
+        "FC Nordsj\u00e6lland": "assets/logos/upstreams/fc-nordsj\u00e6lland.webp",
+        "IFK Skovde FK": "assets/logos/upstreams/ifk-skovde-fk.webp",
+        "IF Brommapojkarna": "assets/logos/upstreams/if-brommapojkarna.webp",
+        "APOEL B.C.": "assets/logos/upstreams/apoel-bc.webp",
+        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6417,6 +6422,9 @@
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
         "Cage Warriors": "assets/logos/leagues/cage-warriors.webp",
         "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
-        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp"
+        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp",
+        "Svenska Cupen, Group 5": "assets/logos/leagues/svenska-cupen-group-5.webp",
+        "Sweden Women Svenska Cupen": "assets/logos/leagues/sweden-women-svenska-cupen.webp",
+        "Premi\u00e8re Ligue, F\u00e9minine": "assets/logos/leagues/premi\u00e8re-ligue-f\u00e9minine.webp"
     }
 }
