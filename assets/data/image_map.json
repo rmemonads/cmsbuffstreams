@@ -5653,7 +5653,10 @@
         "Broadmeadow Magic": "assets/logos/upstreams/broadmeadow-magic.webp",
         "Altona Magic": "assets/logos/upstreams/altona-magic.webp",
         "Moreton City Excelsior": "assets/logos/upstreams/moreton-city-excelsior.webp",
-        "Gold Coast Knights": "assets/logos/upstreams/gold-coast-knights.webp"
+        "Gold Coast Knights": "assets/logos/upstreams/gold-coast-knights.webp",
+        "HK TAM Levice": "assets/logos/upstreams/hk-tam-levice.webp",
+        "HC BIT markets TEBS Bratislava": "assets/logos/upstreams/hc-bit-markets-tebs-bratislava.webp",
+        "Pakistan A": "assets/logos/upstreams/pakistan-a.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
