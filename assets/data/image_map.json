@@ -5691,7 +5691,20 @@
         "Calcio Giugliano": "assets/logos/upstreams/calcio-giugliano.webp",
         "Nogomet: Gr\u0161ka liga: Panserraikos": "assets/logos/upstreams/nogomet-gr\u0161ka-liga-panserraikos.webp",
         "Nogomet: Bolgarska liga: CSKA": "assets/logos/upstreams/nogomet-bolgarska-liga-cska.webp",
-        "Lok. Zagreb W": "assets/logos/upstreams/lok-zagreb-w.webp"
+        "Lok. Zagreb W": "assets/logos/upstreams/lok-zagreb-w.webp",
+        "Paphos": "assets/logos/upstreams/paphos.webp",
+        "Anorthosis": "assets/logos/upstreams/anorthosis.webp",
+        "Sioux Falls Skyforce": "assets/logos/upstreams/sioux-falls-skyforce.webp",
+        "Valley Suns": "assets/logos/upstreams/valley-suns.webp",
+        "Merrimack Warriors": "assets/logos/upstreams/merrimack-warriors.webp",
+        "Siena Saints": "assets/logos/upstreams/siena-saints.webp",
+        "Charlotte 49ers": "assets/logos/upstreams/charlotte-49ers.webp",
+        "East Carolina Pirates": "assets/logos/upstreams/east-carolina-pirates.webp",
+        "Wichita State Shockers": "assets/logos/upstreams/wichita-state-shockers.webp",
+        "Temple Owls": "assets/logos/upstreams/temple-owls.webp",
+        "Herning-Ikast W": "assets/logos/upstreams/herning-ikast-w.webp",
+        "Olimpia Lions": "assets/logos/upstreams/olimpia-lions.webp",
+        "Pampas XV": "assets/logos/upstreams/pampas-xv.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6293,6 +6306,8 @@
         "Finland - Division 1A": "assets/logos/leagues/finland-division-1a.webp",
         "Superisligaen": "assets/logos/leagues/superisligaen.webp",
         "NRL Pre-Season: Warriors V Dolphins": "assets/logos/leagues/nrl-pre-season-warriors-v-dolphins.webp",
-        "Division 1 Women": "assets/logos/leagues/division-1-women.webp"
+        "Division 1 Women": "assets/logos/leagues/division-1-women.webp",
+        "First Division": "assets/logos/leagues/first-division.webp",
+        "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp"
     }
 }
