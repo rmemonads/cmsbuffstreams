@@ -5828,7 +5828,9 @@
         "PSG W": "assets/logos/upstreams/psg-w.webp",
         "Lens W": "assets/logos/upstreams/lens-w.webp",
         "Fairfield": "assets/logos/streamed/fairfield.webp",
-        "Sacred Heart": "assets/logos/streamed/sacred-heart.webp"
+        "Sacred Heart": "assets/logos/streamed/sacred-heart.webp",
+        "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp",
+        "Charlotte FC": "assets/logos/streamed/charlotte-fc.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
