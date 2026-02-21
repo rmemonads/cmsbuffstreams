@@ -6046,7 +6046,18 @@
         "Geoffrey Neal": "assets/logos/upstreams/geoffrey-neal.webp",
         "Diane Parry": "assets/logos/upstreams/diane-parry.webp",
         "Heather Watson": "assets/logos/upstreams/heather-watson.webp",
-        "Victoria Jimenez Kasintseva": "assets/logos/upstreams/victoria-jimenez-kasintseva.webp"
+        "Victoria Jimenez Kasintseva": "assets/logos/upstreams/victoria-jimenez-kasintseva.webp",
+        "Nyiregyhaza Spartacus FC": "assets/logos/upstreams/nyiregyhaza-spartacus-fc.webp",
+        "DUX Logro\u00f1o": "assets/logos/upstreams/dux-logro\u00f1o.webp",
+        "FC Badalona": "assets/logos/upstreams/fc-badalona.webp",
+        "Radnik": "assets/logos/upstreams/radnik.webp",
+        "Alanya": "assets/logos/upstreams/alanya.webp",
+        "Amarante FC": "assets/logos/upstreams/amarante-fc.webp",
+        "Etoile Filante Lome": "assets/logos/upstreams/etoile-filante-lome.webp",
+        "AS Otr": "assets/logos/upstreams/as-otr.webp",
+        "Acad\u00e9mica Coimbra": "assets/logos/upstreams/acad\u00e9mica-coimbra.webp",
+        "Chris Dobey": "assets/logos/upstreams/chris-dobey.webp",
+        "Connor Scutt": "assets/logos/upstreams/connor-scutt.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6675,6 +6686,8 @@
         "Austin, USA, Qualifying": "assets/logos/leagues/austin-usa-qualifying.webp",
         "Merida, Mexico, Qualifying": "assets/logos/leagues/merida-mexico-qualifying.webp",
         "Acapulco, Mexico, Qualifying": "assets/logos/leagues/acapulco-mexico-qualifying.webp",
-        "UFC Fight Night: Strickland vs. Hernandez": "assets/logos/leagues/ufc-fight-night-strickland-vs-hernandez.webp"
+        "UFC Fight Night: Strickland vs. Hernandez": "assets/logos/leagues/ufc-fight-night-strickland-vs-hernandez.webp",
+        "NB I": "assets/logos/leagues/nb-i.webp",
+        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp"
     }
 }
