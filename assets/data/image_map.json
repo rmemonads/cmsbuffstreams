@@ -5988,7 +5988,9 @@
         "HC Merano": "assets/logos/upstreams/hc-merano.webp",
         "Sydney Roosters": "assets/logos/streamed/sydney-roosters.webp",
         "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp",
-        "Hull F.C.": "assets/logos/streamed/hull-fc.webp"
+        "Hull F.C.": "assets/logos/streamed/hull-fc.webp",
+        "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
+        "Higgins J.": "assets/logos/upstreams/higgins-j.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6611,6 +6613,7 @@
         "Germany - Cup": "assets/logos/leagues/germany-cup.webp",
         "King Mindaugas Cup, Playoffs": "assets/logos/leagues/king-mindaugas-cup-playoffs.webp",
         "Mineiro M\u00f3dulo I - Playoffs": "assets/logos/leagues/mineiro-m\u00f3dulo-i-playoffs.webp",
-        "Australia - NPL U23 - Queensland": "assets/logos/leagues/australia-npl-u23-queensland.webp"
+        "Australia - NPL U23 - Queensland": "assets/logos/leagues/australia-npl-u23-queensland.webp",
+        "The Ford Trophy, Final": "assets/logos/leagues/the-ford-trophy-final.webp"
     }
 }
