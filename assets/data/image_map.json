@@ -5840,7 +5840,30 @@
         "Austin FC": "assets/logos/streamed/austin-fc.webp",
         "Minnesota United": "assets/logos/streamed/minnesota-united.webp",
         "UC San Diego": "assets/logos/streamed/uc-san-diego.webp",
-        "Silkeborg IF": "assets/logos/streamed/silkeborg-if.webp"
+        "Silkeborg IF": "assets/logos/streamed/silkeborg-if.webp",
+        "NK Vara\u017edin": "assets/logos/upstreams/nk-vara\u017edin.webp",
+        "Acad. Viseu": "assets/logos/upstreams/acad-viseu.webp",
+        "FK Radni\u010dki 1923": "assets/logos/upstreams/fk-radni\u010dki-1923.webp",
+        "AGF": "assets/logos/upstreams/agf.webp",
+        "Viborg FF": "assets/logos/upstreams/viborg-ff.webp",
+        "APO Levadiakos": "assets/logos/upstreams/apo-levadiakos.webp",
+        "D Concepcion": "assets/logos/upstreams/d-concepcion.webp",
+        "UEB Cividale": "assets/logos/upstreams/ueb-cividale.webp",
+        "Lehigh Mountain Hawks": "assets/logos/upstreams/lehigh-mountain-hawks.webp",
+        "BK Latvijas Universit\u0101te": "assets/logos/upstreams/bk-latvijas-universit\u0101te.webp",
+        "Wright State Raiders": "assets/logos/upstreams/wright-state-raiders.webp",
+        "Robert Morris Colonials": "assets/logos/upstreams/robert-morris-colonials.webp",
+        "North Texas Mean Green": "assets/logos/upstreams/north-texas-mean-green.webp",
+        "Capitanes de Ciudad de M\u00e9xico": "assets/logos/upstreams/capitanes-de-ciudad-de-m\u00e9xico.webp",
+        "TVB 1898 Stuttgart": "assets/logos/upstreams/tvb-1898-stuttgart.webp",
+        "Deportes Concepci\u00f3n": "assets/logos/upstreams/deportes-concepci\u00f3n.webp",
+        "Northeastern Huskies": "assets/logos/upstreams/northeastern-huskies.webp",
+        "Easterns": "assets/logos/upstreams/easterns.webp",
+        "Mpumalanga": "assets/logos/upstreams/mpumalanga.webp",
+        "South Western Districts": "assets/logos/upstreams/south-western-districts.webp",
+        "Northern Cape": "assets/logos/upstreams/northern-cape.webp",
+        "Josh Rock": "assets/logos/upstreams/josh-rock.webp",
+        "William O'Connor": "assets/logos/upstreams/william-oconnor.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6454,6 +6477,8 @@
         "Sweden Women Svenska Cupen": "assets/logos/leagues/sweden-women-svenska-cupen.webp",
         "Premi\u00e8re Ligue, F\u00e9minine": "assets/logos/leagues/premi\u00e8re-ligue-f\u00e9minine.webp",
         "France Premiere Ligue Women": "assets/logos/leagues/france-premiere-ligue-women.webp",
-        "Rugby Six Nations U20": "assets/logos/leagues/rugby-six-nations-u20.webp"
+        "Rugby Six Nations U20": "assets/logos/leagues/rugby-six-nations-u20.webp",
+        "CSA Provincial One-Day Challenge Division Two": "assets/logos/leagues/csa-provincial-one-day-challenge-division-two.webp",
+        "ICC Men's T20 World Cup, Super 8, Group 1": "assets/logos/leagues/icc-mens-t20-world-cup-super-8-group-1.webp"
     }
 }
