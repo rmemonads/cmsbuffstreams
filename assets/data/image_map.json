@@ -5834,7 +5834,13 @@
         "Monika Stanikova": "assets/logos/upstreams/monika-stanikova.webp",
         "Valmiera Glass Via": "assets/logos/upstreams/valmiera-glass-via.webp",
         "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
-        "Aguilas-UMak FC": "assets/logos/upstreams/aguilas-umak-fc.webp"
+        "Aguilas-UMak FC": "assets/logos/upstreams/aguilas-umak-fc.webp",
+        "Orlando City": "assets/logos/streamed/orlando-city.webp",
+        "Le\u00f3n": "assets/logos/streamed/le\u00f3n.webp",
+        "Austin FC": "assets/logos/streamed/austin-fc.webp",
+        "Minnesota United": "assets/logos/streamed/minnesota-united.webp",
+        "UC San Diego": "assets/logos/streamed/uc-san-diego.webp",
+        "Silkeborg IF": "assets/logos/streamed/silkeborg-if.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
