@@ -6079,7 +6079,10 @@
         "Orlando Luz": "assets/logos/upstreams/orlando-luz.webp",
         "Henrique Rocha": "assets/logos/upstreams/henrique-rocha.webp",
         "Jan-Lennard Struff": "assets/logos/upstreams/jan-lennard-struff.webp",
-        "Patricio Heras": "assets/logos/upstreams/patricio-heras.webp"
+        "Patricio Heras": "assets/logos/upstreams/patricio-heras.webp",
+        "Uthai Thani": "assets/logos/upstreams/uthai-thani.webp",
+        "Takuya Kumasaka": "assets/logos/upstreams/takuya-kumasaka.webp",
+        "Tung-Lin Wu": "assets/logos/upstreams/tung-lin-wu.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6713,6 +6716,9 @@
         "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
         "Finland - KorisLeague - The losers' tour": "assets/logos/leagues/finland-korisleague-the-losers-tour.webp",
         "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp",
-        "Brazil - Paulista - Serie A1 - Playoff": "assets/logos/leagues/brazil-paulista-serie-a1-playoff.webp"
+        "Brazil - Paulista - Serie A1 - Playoff": "assets/logos/leagues/brazil-paulista-serie-a1-playoff.webp",
+        "Paulista S\u00e9rie A1 - Playoffs": "assets/logos/leagues/paulista-s\u00e9rie-a1-playoffs.webp",
+        "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
+        "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp"
     }
 }
