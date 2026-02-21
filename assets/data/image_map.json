@@ -5831,7 +5831,10 @@
         "Sacred Heart": "assets/logos/streamed/sacred-heart.webp",
         "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp",
         "Charlotte FC": "assets/logos/streamed/charlotte-fc.webp",
-        "Monika Stanikova": "assets/logos/upstreams/monika-stanikova.webp"
+        "Monika Stanikova": "assets/logos/upstreams/monika-stanikova.webp",
+        "Valmiera Glass Via": "assets/logos/upstreams/valmiera-glass-via.webp",
+        "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
+        "Aguilas-UMak FC": "assets/logos/upstreams/aguilas-umak-fc.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
