@@ -6057,7 +6057,17 @@
         "AS Otr": "assets/logos/upstreams/as-otr.webp",
         "Acad\u00e9mica Coimbra": "assets/logos/upstreams/acad\u00e9mica-coimbra.webp",
         "Chris Dobey": "assets/logos/upstreams/chris-dobey.webp",
-        "Connor Scutt": "assets/logos/upstreams/connor-scutt.webp"
+        "Connor Scutt": "assets/logos/upstreams/connor-scutt.webp",
+        "Kataja Basket Talents": "assets/logos/upstreams/kataja-basket-talents.webp",
+        "Kataja Talents": "assets/logos/upstreams/kataja-talents.webp",
+        "Cento": "assets/logos/upstreams/cento.webp",
+        "Pallacanestro Roseto": "assets/logos/upstreams/pallacanestro-roseto.webp",
+        "Orlandina Basket": "assets/logos/upstreams/orlandina-basket.webp",
+        "Latina Basket": "assets/logos/upstreams/latina-basket.webp",
+        "Umana San Giobbe Chiusi": "assets/logos/upstreams/umana-san-giobbe-chiusi.webp",
+        "Junior Casale Monferrato": "assets/logos/upstreams/junior-casale-monferrato.webp",
+        "Basket Cecina": "assets/logos/upstreams/basket-cecina.webp",
+        "Raholan Pyrkiva": "assets/logos/upstreams/raholan-pyrkiva.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6688,6 +6698,8 @@
         "Acapulco, Mexico, Qualifying": "assets/logos/leagues/acapulco-mexico-qualifying.webp",
         "UFC Fight Night: Strickland vs. Hernandez": "assets/logos/leagues/ufc-fight-night-strickland-vs-hernandez.webp",
         "NB I": "assets/logos/leagues/nb-i.webp",
-        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp"
+        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
+        "Finland - KorisLeague - The losers' tour": "assets/logos/leagues/finland-korisleague-the-losers-tour.webp",
+        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp"
     }
 }
