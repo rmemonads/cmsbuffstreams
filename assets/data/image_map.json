@@ -5990,7 +5990,11 @@
         "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp",
         "Hull F.C.": "assets/logos/streamed/hull-fc.webp",
         "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
-        "Higgins J.": "assets/logos/upstreams/higgins-j.webp"
+        "Higgins J.": "assets/logos/upstreams/higgins-j.webp",
+        "AD Sarchi": "assets/logos/upstreams/ad-sarchi.webp",
+        "TWK Innsbruck": "assets/logos/upstreams/twk-innsbruck.webp",
+        "Bolzano Foxes": "assets/logos/upstreams/bolzano-foxes.webp",
+        "Caen": "assets/logos/upstreams/caen.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
