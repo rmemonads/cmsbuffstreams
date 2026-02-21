@@ -6067,7 +6067,10 @@
         "Umana San Giobbe Chiusi": "assets/logos/upstreams/umana-san-giobbe-chiusi.webp",
         "Junior Casale Monferrato": "assets/logos/upstreams/junior-casale-monferrato.webp",
         "Basket Cecina": "assets/logos/upstreams/basket-cecina.webp",
-        "Raholan Pyrkiva": "assets/logos/upstreams/raholan-pyrkiva.webp"
+        "Raholan Pyrkiva": "assets/logos/upstreams/raholan-pyrkiva.webp",
+        "New York City FC": "assets/logos/streamed/new-york-city-fc.webp",
+        "Seattle Sounders": "assets/logos/streamed/seattle-sounders.webp",
+        "Colorado Rapids": "assets/logos/streamed/colorado-rapids.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
