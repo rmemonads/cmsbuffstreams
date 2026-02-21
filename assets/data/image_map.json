@@ -6087,7 +6087,10 @@
         "Wichita State": "assets/logos/streamed/wichita-state.webp",
         "Georgetown University": "assets/logos/streamed/georgetown-university.webp",
         "Hawaii": "assets/logos/streamed/hawaii.webp",
-        "UC-Santa Barbara": "assets/logos/streamed/uc-santa-barbara.webp"
+        "UC-Santa Barbara": "assets/logos/streamed/uc-santa-barbara.webp",
+        "Caheer Warik": "assets/logos/upstreams/caheer-warik.webp",
+        "Ryuki Matsuda": "assets/logos/upstreams/ryuki-matsuda.webp",
+        "Ross Smith": "assets/logos/upstreams/ross-smith.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
