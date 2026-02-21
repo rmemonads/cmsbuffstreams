@@ -6021,7 +6021,32 @@
         "Benjamin Torrealba": "assets/logos/upstreams/benjamin-torrealba.webp",
         "Jennifer Brady": "assets/logos/upstreams/jennifer-brady.webp",
         "Nikola Bartunkova": "assets/logos/upstreams/nikola-bartunkova.webp",
-        "Stetson": "assets/logos/streamed/stetson.webp"
+        "Stetson": "assets/logos/streamed/stetson.webp",
+        "Kongsvinger": "assets/logos/upstreams/kongsvinger.webp",
+        "Haugesund": "assets/logos/upstreams/haugesund.webp",
+        "1. FC Schweinfurt 05": "assets/logos/upstreams/1-fc-schweinfurt-05.webp",
+        "Lok. Plovdiv": "assets/logos/upstreams/lok-plovdiv.webp",
+        "Spartak Varna": "assets/logos/upstreams/spartak-varna.webp",
+        "St. Etienne": "assets/logos/upstreams/st-etienne.webp",
+        "Stade Laval": "assets/logos/upstreams/stade-laval.webp",
+        "Deportivo Lara": "assets/logos/upstreams/deportivo-lara.webp",
+        "Club Atletico Barinas": "assets/logos/upstreams/club-atletico-barinas.webp",
+        "Lok. Sofia": "assets/logos/upstreams/lok-sofia.webp",
+        "Be\u015fikta\u015f JK": "assets/logos/upstreams/be\u015fikta\u015f-jk.webp",
+        "Le Mans Sarthe Basket": "assets/logos/upstreams/le-mans-sarthe-basket.webp",
+        "Draci Pars \u0160umperk": "assets/logos/upstreams/draci-pars-\u0161umperk.webp",
+        "HC Novy Jicin": "assets/logos/upstreams/hc-novy-jicin.webp",
+        "HC D\u011b\u010d\u00edn": "assets/logos/upstreams/hc-d\u011b\u010d\u00edn.webp",
+        "HC Wikov Hronov": "assets/logos/upstreams/hc-wikov-hronov.webp",
+        "Varvara Lepchenko": "assets/logos/upstreams/varvara-lepchenko.webp",
+        "Nadia Valdez": "assets/logos/upstreams/nadia-valdez.webp",
+        "Carlos Leal MIranda": "assets/logos/upstreams/carlos-leal-miranda.webp",
+        "Zach Reese": "assets/logos/upstreams/zach-reese.webp",
+        "Sergey Spivak": "assets/logos/upstreams/sergey-spivak.webp",
+        "Geoffrey Neal": "assets/logos/upstreams/geoffrey-neal.webp",
+        "Diane Parry": "assets/logos/upstreams/diane-parry.webp",
+        "Heather Watson": "assets/logos/upstreams/heather-watson.webp",
+        "Victoria Jimenez Kasintseva": "assets/logos/upstreams/victoria-jimenez-kasintseva.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6649,6 +6674,7 @@
         "Santiago, Chile, Qualifying": "assets/logos/leagues/santiago-chile-qualifying.webp",
         "Austin, USA, Qualifying": "assets/logos/leagues/austin-usa-qualifying.webp",
         "Merida, Mexico, Qualifying": "assets/logos/leagues/merida-mexico-qualifying.webp",
-        "Acapulco, Mexico, Qualifying": "assets/logos/leagues/acapulco-mexico-qualifying.webp"
+        "Acapulco, Mexico, Qualifying": "assets/logos/leagues/acapulco-mexico-qualifying.webp",
+        "UFC Fight Night: Strickland vs. Hernandez": "assets/logos/leagues/ufc-fight-night-strickland-vs-hernandez.webp"
     }
 }
