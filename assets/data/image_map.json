@@ -6308,7 +6308,10 @@
         "MCR Lima-Horta Barcelona": "assets/logos/upstreams/mcr-lima-horta-barcelona.webp",
         "Unicaja Mijas Malaga": "assets/logos/upstreams/unicaja-mijas-malaga.webp",
         "Ardoi (W)": "assets/logos/upstreams/ardoi-w.webp",
-        "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp"
+        "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp",
+        "APOEL Nicosia": "assets/logos/upstreams/apoel-nicosia.webp",
+        "EA7 Emporio Armani Milano": "assets/logos/upstreams/ea7-emporio-armani-milano.webp",
+        "Cristo Reyes": "assets/logos/upstreams/cristo-reyes.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
