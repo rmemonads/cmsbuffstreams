@@ -6289,7 +6289,18 @@
         "Border": "assets/logos/upstreams/border.webp",
         "South Africa Emerging": "assets/logos/upstreams/south-africa-emerging.webp",
         "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
-        "Wakefield Trinity Wildcats": "assets/logos/streamed/wakefield-trinity-wildcats.webp"
+        "Wakefield Trinity Wildcats": "assets/logos/streamed/wakefield-trinity-wildcats.webp",
+        "Puszcza": "assets/logos/upstreams/puszcza.webp",
+        "S Rzeszow": "assets/logos/upstreams/s-rzeszow.webp",
+        "AZ Alkmaar W": "assets/logos/upstreams/az-alkmaar-w.webp",
+        "PSV W": "assets/logos/upstreams/psv-w.webp",
+        "Mtibwa Sugar": "assets/logos/upstreams/mtibwa-sugar.webp",
+        "Costa Adeje Tenerife": "assets/logos/upstreams/costa-adeje-tenerife.webp",
+        "Police FC": "assets/logos/upstreams/police-fc.webp",
+        "APS Bomet": "assets/logos/upstreams/aps-bomet.webp",
+        "Allura Zamarripa": "assets/logos/upstreams/allura-zamarripa.webp",
+        "Alyssa Reguer": "assets/logos/upstreams/alyssa-reguer.webp",
+        "Michaela Bayerlova": "assets/logos/upstreams/michaela-bayerlova.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6940,6 +6951,8 @@
         "Antalya, Turkiye, Qualifying": "assets/logos/leagues/antalya-turkiye-qualifying.webp",
         "Scottish - Premier League (W)": "assets/logos/leagues/scottish-premier-league-w.webp",
         "St. Brieuc, France, Qualifying": "assets/logos/leagues/st-brieuc-france-qualifying.webp",
-        "Tigre 2, Argentina, Qualifying": "assets/logos/leagues/tigre-2-argentina-qualifying.webp"
+        "Tigre 2, Argentina, Qualifying": "assets/logos/leagues/tigre-2-argentina-qualifying.webp",
+        "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp",
+        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp"
     }
 }
