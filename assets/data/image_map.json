@@ -6357,7 +6357,9 @@
         "Kiara Zabkova": "assets/logos/upstreams/kiara-zabkova.webp",
         "Aleksandra Stevanovic": "assets/logos/upstreams/aleksandra-stevanovic.webp",
         "Summer Yardley": "assets/logos/upstreams/summer-yardley.webp",
-        "Alexia Clara Adascalitei": "assets/logos/upstreams/alexia-clara-adascalitei.webp"
+        "Alexia Clara Adascalitei": "assets/logos/upstreams/alexia-clara-adascalitei.webp",
+        "Julia Terziyska": "assets/logos/upstreams/julia-terziyska.webp",
+        "Charles Broom": "assets/logos/upstreams/charles-broom.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7017,6 +7019,7 @@
         "Nik\u00e9 Liga": "assets/logos/leagues/nik\u00e9-liga.webp",
         "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
         "Pune, India": "assets/logos/leagues/pune-india.webp",
-        "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp"
+        "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp",
+        "St. Brieuc, France": "assets/logos/leagues/st-brieuc-france.webp"
     }
 }
