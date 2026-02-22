@@ -6311,7 +6311,13 @@
         "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp",
         "APOEL Nicosia": "assets/logos/upstreams/apoel-nicosia.webp",
         "EA7 Emporio Armani Milano": "assets/logos/upstreams/ea7-emporio-armani-milano.webp",
-        "Cristo Reyes": "assets/logos/upstreams/cristo-reyes.webp"
+        "Cristo Reyes": "assets/logos/upstreams/cristo-reyes.webp",
+        "MFK Ru\u017eomberok": "assets/logos/upstreams/mfk-ru\u017eomberok.webp",
+        "RCD Espanyol de Barcelona": "assets/logos/upstreams/rcd-espanyol-de-barcelona.webp",
+        "K. Beerschot V.A.": "assets/logos/upstreams/k-beerschot-va.webp",
+        "RWDM Brussels": "assets/logos/upstreams/rwdm-brussels.webp",
+        "Gbohloesu": "assets/logos/upstreams/gbohloesu.webp",
+        "Unisport Sokode": "assets/logos/upstreams/unisport-sokode.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6967,6 +6973,7 @@
         "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp",
         "Svenska Cupen, Group 7": "assets/logos/leagues/svenska-cupen-group-7.webp",
         "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
-        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp"
+        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp",
+        "Nik\u00e9 Liga": "assets/logos/leagues/nik\u00e9-liga.webp"
     }
 }
