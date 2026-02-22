@@ -6090,7 +6090,37 @@
         "UC-Santa Barbara": "assets/logos/streamed/uc-santa-barbara.webp",
         "Caheer Warik": "assets/logos/upstreams/caheer-warik.webp",
         "Ryuki Matsuda": "assets/logos/upstreams/ryuki-matsuda.webp",
-        "Ross Smith": "assets/logos/upstreams/ross-smith.webp"
+        "Ross Smith": "assets/logos/upstreams/ross-smith.webp",
+        "Boavista SC": "assets/logos/streamed/boavista-sc.webp",
+        "Municipal": "assets/logos/streamed/municipal.webp",
+        "Antigua": "assets/logos/streamed/antigua.webp",
+        "Alianza FC": "assets/logos/streamed/alianza-fc.webp",
+        "Municipal Lime\u00f1o": "assets/logos/streamed/municipal-lime\u00f1o.webp",
+        "Lamar": "assets/logos/streamed/lamar.webp",
+        "Jacksonville": "assets/logos/streamed/jacksonville.webp",
+        "Wofford": "assets/logos/streamed/wofford.webp",
+        "Progreso": "assets/logos/streamed/progreso.webp",
+        "Montana State": "assets/logos/streamed/montana-state.webp",
+        "Inter Santa Maria": "assets/logos/streamed/inter-santa-maria.webp",
+        "Itag\u00fc\u00ed Leones": "assets/logos/streamed/itag\u00fc\u00ed-leones.webp",
+        "Barranquilla": "assets/logos/streamed/barranquilla.webp",
+        "Utah Tech": "assets/logos/streamed/utah-tech.webp",
+        "UC Riverside": "assets/logos/streamed/uc-riverside.webp",
+        "UC Davis": "assets/logos/streamed/uc-davis.webp",
+        "Toledo": "assets/logos/streamed/toledo.webp",
+        "EC Red Bull Salzburg": "assets/logos/streamed/ec-red-bull-salzburg.webp",
+        "HC Pustertal W\u00f6lfe": "assets/logos/streamed/hc-pustertal-w\u00f6lfe.webp",
+        "Volley Milano": "assets/logos/streamed/volley-milano.webp",
+        "Powervolley Milano": "assets/logos/streamed/powervolley-milano.webp",
+        "Queretaro": "assets/logos/upstreams/queretaro.webp",
+        "Seattle Sounders FC": "assets/logos/upstreams/seattle-sounders-fc.webp",
+        "Freiburg W": "assets/logos/upstreams/freiburg-w.webp",
+        "London City Lionesses W": "assets/logos/upstreams/london-city-lionesses-w.webp",
+        "Tottenham W": "assets/logos/upstreams/tottenham-w.webp",
+        "Cadiz CF": "assets/logos/upstreams/cadiz-cf.webp",
+        "Al Qadisiya": "assets/logos/upstreams/al-qadisiya.webp",
+        "Jong AZ": "assets/logos/upstreams/jong-az.webp",
+        "Den Bosch": "assets/logos/upstreams/den-bosch.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6727,6 +6757,7 @@
         "Brazil - Paulista - Serie A1 - Playoff": "assets/logos/leagues/brazil-paulista-serie-a1-playoff.webp",
         "Paulista S\u00e9rie A1 - Playoffs": "assets/logos/leagues/paulista-s\u00e9rie-a1-playoffs.webp",
         "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
-        "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp"
+        "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp",
+        "League 2": "assets/logos/leagues/league-2.webp"
     }
 }
