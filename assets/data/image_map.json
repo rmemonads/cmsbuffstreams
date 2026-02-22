@@ -6120,7 +6120,15 @@
         "Cadiz CF": "assets/logos/upstreams/cadiz-cf.webp",
         "Al Qadisiya": "assets/logos/upstreams/al-qadisiya.webp",
         "Jong AZ": "assets/logos/upstreams/jong-az.webp",
-        "Den Bosch": "assets/logos/upstreams/den-bosch.webp"
+        "Den Bosch": "assets/logos/upstreams/den-bosch.webp",
+        "Boncourt": "assets/logos/upstreams/boncourt.webp",
+        "Farzan Amiri": "assets/logos/upstreams/farzan-amiri.webp",
+        "Alex Rybakov": "assets/logos/upstreams/alex-rybakov.webp",
+        "Federico Iannaccone": "assets/logos/upstreams/federico-iannaccone.webp",
+        "Dylan Dietrich": "assets/logos/upstreams/dylan-dietrich.webp",
+        "Oleksandr Ovcharenko": "assets/logos/upstreams/oleksandr-ovcharenko.webp",
+        "Limpopo": "assets/logos/upstreams/limpopo.webp",
+        "Knights": "assets/logos/upstreams/knights.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6758,6 +6766,8 @@
         "Paulista S\u00e9rie A1 - Playoffs": "assets/logos/leagues/paulista-s\u00e9rie-a1-playoffs.webp",
         "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
         "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp",
-        "League 2": "assets/logos/leagues/league-2.webp"
+        "League 2": "assets/logos/leagues/league-2.webp",
+        "Lugano, Switzerland, Qualifying": "assets/logos/leagues/lugano-switzerland-qualifying.webp",
+        "Pakistan Women in South Africa, 3 ODI Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-odi-series.webp"
     }
 }
