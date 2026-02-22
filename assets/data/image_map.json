@@ -6300,7 +6300,15 @@
         "APS Bomet": "assets/logos/upstreams/aps-bomet.webp",
         "Allura Zamarripa": "assets/logos/upstreams/allura-zamarripa.webp",
         "Alyssa Reguer": "assets/logos/upstreams/alyssa-reguer.webp",
-        "Michaela Bayerlova": "assets/logos/upstreams/michaela-bayerlova.webp"
+        "Michaela Bayerlova": "assets/logos/upstreams/michaela-bayerlova.webp",
+        "AIK": "assets/logos/upstreams/aik.webp",
+        "V\u00e4ster\u00e5s SK": "assets/logos/upstreams/v\u00e4ster\u00e5s-sk.webp",
+        "Amics Castell\u00f3": "assets/logos/upstreams/amics-castell\u00f3.webp",
+        "Cb Salou": "assets/logos/upstreams/cb-salou.webp",
+        "MCR Lima-Horta Barcelona": "assets/logos/upstreams/mcr-lima-horta-barcelona.webp",
+        "Unicaja Mijas Malaga": "assets/logos/upstreams/unicaja-mijas-malaga.webp",
+        "Ardoi (W)": "assets/logos/upstreams/ardoi-w.webp",
+        "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6953,6 +6961,9 @@
         "St. Brieuc, France, Qualifying": "assets/logos/leagues/st-brieuc-france-qualifying.webp",
         "Tigre 2, Argentina, Qualifying": "assets/logos/leagues/tigre-2-argentina-qualifying.webp",
         "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp",
-        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp"
+        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp",
+        "Svenska Cupen, Group 7": "assets/logos/leagues/svenska-cupen-group-7.webp",
+        "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
+        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp"
     }
 }
