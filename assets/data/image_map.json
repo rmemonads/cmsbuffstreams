@@ -6321,7 +6321,25 @@
         "Internazionale U19": "assets/logos/streamed/internazionale-u19.webp",
         "Real Betis U19": "assets/logos/streamed/real-betis-u19.webp",
         "Eintracht Frankf U19": "assets/logos/streamed/eintracht-frankf-u19.webp",
-        "Sporting CP U19": "assets/logos/streamed/sporting-cp-u19.webp"
+        "Sporting CP U19": "assets/logos/streamed/sporting-cp-u19.webp",
+        "US Forces Armees": "assets/logos/upstreams/us-forces-armees.webp",
+        "Polonia Bytom": "assets/logos/upstreams/polonia-bytom.webp",
+        "Pogo\u0144 Siedlce": "assets/logos/upstreams/pogo\u0144-siedlce.webp",
+        "Bhantal FC": "assets/logos/upstreams/bhantal-fc.webp",
+        "Wilberforce Strikers": "assets/logos/upstreams/wilberforce-strikers.webp",
+        "Hypo": "assets/logos/upstreams/hypo.webp",
+        "Huima": "assets/logos/upstreams/huima.webp",
+        "Turun Nkmy": "assets/logos/upstreams/turun-nkmy.webp",
+        "Unstoppable": "assets/logos/upstreams/unstoppable.webp",
+        "Bubali": "assets/logos/upstreams/bubali.webp",
+        "Yuta Shimizu": "assets/logos/upstreams/yuta-shimizu.webp",
+        "Jatin Nain": "assets/logos/upstreams/jatin-nain.webp",
+        "Neeraj Yashpaul": "assets/logos/upstreams/neeraj-yashpaul.webp",
+        "Sarthak Suden": "assets/logos/upstreams/sarthak-suden.webp",
+        "Vishal Gautam": "assets/logos/upstreams/vishal-gautam.webp",
+        "Stan Wawrinka": "assets/logos/upstreams/stan-wawrinka.webp",
+        "Benjamin Hassan": "assets/logos/upstreams/benjamin-hassan.webp",
+        "Jack Draper": "assets/logos/upstreams/jack-draper.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6978,6 +6996,9 @@
         "Svenska Cupen, Group 7": "assets/logos/leagues/svenska-cupen-group-7.webp",
         "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
         "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp",
-        "Nik\u00e9 Liga": "assets/logos/leagues/nik\u00e9-liga.webp"
+        "Nik\u00e9 Liga": "assets/logos/leagues/nik\u00e9-liga.webp",
+        "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
+        "Pune, India": "assets/logos/leagues/pune-india.webp",
+        "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp"
     }
 }
