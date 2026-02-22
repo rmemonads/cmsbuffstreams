@@ -6128,7 +6128,19 @@
         "Dylan Dietrich": "assets/logos/upstreams/dylan-dietrich.webp",
         "Oleksandr Ovcharenko": "assets/logos/upstreams/oleksandr-ovcharenko.webp",
         "Limpopo": "assets/logos/upstreams/limpopo.webp",
-        "Knights": "assets/logos/upstreams/knights.webp"
+        "Knights": "assets/logos/upstreams/knights.webp",
+        "Portimonense SAD": "assets/logos/upstreams/portimonense-sad.webp",
+        "Miercurea Ciuc": "assets/logos/upstreams/miercurea-ciuc.webp",
+        "AFC Hermannstadt": "assets/logos/upstreams/afc-hermannstadt.webp",
+        "FC Den Bosch": "assets/logos/upstreams/fc-den-bosch.webp",
+        "C\u00e1diz": "assets/logos/upstreams/c\u00e1diz.webp",
+        "U Catolica": "assets/logos/upstreams/u-catolica.webp",
+        "Coquimbo": "assets/logos/upstreams/coquimbo.webp",
+        "Atl San Luis": "assets/logos/upstreams/atl-san-luis.webp",
+        "Yusuke Takahashi": "assets/logos/upstreams/yusuke-takahashi.webp",
+        "Petr Brunclik": "assets/logos/upstreams/petr-brunclik.webp",
+        "Flynn Thomas": "assets/logos/upstreams/flynn-thomas.webp",
+        "Rudolf Molleker": "assets/logos/upstreams/rudolf-molleker.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -6768,6 +6780,7 @@
         "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp",
         "League 2": "assets/logos/leagues/league-2.webp",
         "Lugano, Switzerland, Qualifying": "assets/logos/leagues/lugano-switzerland-qualifying.webp",
-        "Pakistan Women in South Africa, 3 ODI Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-odi-series.webp"
+        "Pakistan Women in South Africa, 3 ODI Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-odi-series.webp",
+        "Premier Division": "assets/logos/leagues/premier-division.webp"
     }
 }
