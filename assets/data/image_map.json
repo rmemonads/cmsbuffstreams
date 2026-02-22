@@ -6317,7 +6317,11 @@
         "K. Beerschot V.A.": "assets/logos/upstreams/k-beerschot-va.webp",
         "RWDM Brussels": "assets/logos/upstreams/rwdm-brussels.webp",
         "Gbohloesu": "assets/logos/upstreams/gbohloesu.webp",
-        "Unisport Sokode": "assets/logos/upstreams/unisport-sokode.webp"
+        "Unisport Sokode": "assets/logos/upstreams/unisport-sokode.webp",
+        "Internazionale U19": "assets/logos/streamed/internazionale-u19.webp",
+        "Real Betis U19": "assets/logos/streamed/real-betis-u19.webp",
+        "Eintracht Frankf U19": "assets/logos/streamed/eintracht-frankf-u19.webp",
+        "Sporting CP U19": "assets/logos/streamed/sporting-cp-u19.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
