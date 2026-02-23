@@ -6442,7 +6442,12 @@
         "Hayu Kinoshita": "assets/logos/upstreams/hayu-kinoshita.webp",
         "Stefan Kostic": "assets/logos/upstreams/stefan-kostic.webp",
         "Inter San Carlos": "assets/logos/upstreams/inter-san-carlos.webp",
-        "Cofutpa": "assets/logos/upstreams/cofutpa.webp"
+        "Cofutpa": "assets/logos/upstreams/cofutpa.webp",
+        "Alycia Parks": "assets/logos/upstreams/alycia-parks.webp",
+        "Oksana Selekhmeteva": "assets/logos/upstreams/oksana-selekhmeteva.webp",
+        "Taylor Townsend": "assets/logos/upstreams/taylor-townsend.webp",
+        "Emily Seibold": "assets/logos/upstreams/emily-seibold.webp",
+        "Anna Bondar": "assets/logos/upstreams/anna-bondar.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7110,6 +7115,7 @@
         "Women's National Cricket League": "assets/logos/leagues/womens-national-cricket-league.webp",
         "World Open": "assets/logos/leagues/world-open.webp",
         "UEFA Youth League, Knockout stage": "assets/logos/leagues/uefa-youth-league-knockout-stage.webp",
-        "Ukraine - Premier League": "assets/logos/leagues/ukraine-premier-league.webp"
+        "Ukraine - Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
+        "Austin, USA": "assets/logos/leagues/austin-usa.webp"
     }
 }
