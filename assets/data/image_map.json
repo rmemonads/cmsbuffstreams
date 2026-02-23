@@ -6597,7 +6597,22 @@
         "Allister Carter": "assets/logos/upstreams/allister-carter.webp",
         "Anthony McGill": "assets/logos/upstreams/anthony-mcgill.webp",
         "David Grace": "assets/logos/upstreams/david-grace.webp",
-        "Dominica U20": "assets/logos/upstreams/dominica-u20.webp"
+        "Dominica U20": "assets/logos/upstreams/dominica-u20.webp",
+        "Live Dubai Duty Free Tennis Championships": "assets/logos/upstreams/live-dubai-duty-free-tennis-championships.webp",
+        "Aviation Club Tennis Centre in Dubai": "assets/logos/upstreams/aviation-club-tennis-centre-in-dubai.webp",
+        "Dominic Stricker": "assets/logos/upstreams/dominic-stricker.webp",
+        "Hugo Grenier": "assets/logos/upstreams/hugo-grenier.webp",
+        "Mark Lajal": "assets/logos/upstreams/mark-lajal.webp",
+        "Ivan Gakhov": "assets/logos/upstreams/ivan-gakhov.webp",
+        "Jurij Rodionov": "assets/logos/upstreams/jurij-rodionov.webp",
+        "George Loffhagen": "assets/logos/upstreams/george-loffhagen.webp",
+        "Pyotr Nesterov": "assets/logos/upstreams/pyotr-nesterov.webp",
+        "Artem Bogomolov": "assets/logos/upstreams/artem-bogomolov.webp",
+        "Norbert Gombos": "assets/logos/upstreams/norbert-gombos.webp",
+        "Nerman Fatic": "assets/logos/upstreams/nerman-fatic.webp",
+        "Raphael Perot": "assets/logos/upstreams/raphael-perot.webp",
+        "Marc-Andrea Huesler": "assets/logos/upstreams/marc-andrea-huesler.webp",
+        "Nikolas Sanchez Izquierdo": "assets/logos/upstreams/nikolas-sanchez-izquierdo.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7277,6 +7292,7 @@
         "ATP Dubai": "assets/logos/leagues/atp-dubai.webp",
         "Merida, Mexico": "assets/logos/leagues/merida-mexico.webp",
         "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp",
-        "Championshipul CONCACAF U20 - Qualifiers": "assets/logos/leagues/championshipul-concacaf-u20-qualifiers.webp"
+        "Championshipul CONCACAF U20 - Qualifiers": "assets/logos/leagues/championshipul-concacaf-u20-qualifiers.webp",
+        "Atp Dubai": "assets/logos/leagues/atp-dubai.webp"
     }
 }
