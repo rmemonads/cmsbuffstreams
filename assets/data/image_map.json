@@ -6491,7 +6491,19 @@
         "Honoka Kobayashi": "assets/logos/upstreams/honoka-kobayashi.webp",
         "Koharu Nishikawa": "assets/logos/upstreams/koharu-nishikawa.webp",
         "Naho Sato": "assets/logos/upstreams/naho-sato.webp",
-        "I Wen Wan": "assets/logos/upstreams/i-wen-wan.webp"
+        "I Wen Wan": "assets/logos/upstreams/i-wen-wan.webp",
+        "Frankfurt U19": "assets/logos/upstreams/frankfurt-u19.webp",
+        "Tanjong Pagar United": "assets/logos/upstreams/tanjong-pagar-united.webp",
+        "Suriname U20": "assets/logos/upstreams/suriname-u20.webp",
+        "Belize U20": "assets/logos/upstreams/belize-u20.webp",
+        "Odense Bulldogs": "assets/logos/upstreams/odense-bulldogs.webp",
+        "Ian Luca Cervantes Tomas": "assets/logos/upstreams/ian-luca-cervantes-tomas.webp",
+        "Pavel Lagutin": "assets/logos/upstreams/pavel-lagutin.webp",
+        "Trinidad & Tobago U20": "assets/logos/upstreams/trinidad-tobago-u20.webp",
+        "Bermuda U20": "assets/logos/upstreams/bermuda-u20.webp",
+        "Guyana U20": "assets/logos/upstreams/guyana-u20.webp",
+        "Yamato Sueoka": "assets/logos/upstreams/yamato-sueoka.webp",
+        "Maahi Shah": "assets/logos/upstreams/maahi-shah.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7163,6 +7175,7 @@
         "Austin, USA": "assets/logos/leagues/austin-usa.webp",
         "Lugano, Switzerland": "assets/logos/leagues/lugano-switzerland.webp",
         "Tigre 2, Argentina": "assets/logos/leagues/tigre-2-argentina.webp",
-        "Acapulco, Mexico": "assets/logos/leagues/acapulco-mexico.webp"
+        "Acapulco, Mexico": "assets/logos/leagues/acapulco-mexico.webp",
+        "CONCACAF Championship U20": "assets/logos/leagues/concacaf-championship-u20.webp"
     }
 }
