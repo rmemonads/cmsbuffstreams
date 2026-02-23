@@ -6379,7 +6379,35 @@
         "ZSC Lions": "assets/logos/upstreams/zsc-lions.webp",
         "Ajoie": "assets/logos/upstreams/ajoie.webp",
         "Nexe": "assets/logos/upstreams/nexe.webp",
-        "Washington Huskies": "assets/logos/upstreams/washington-huskies.webp"
+        "Washington Huskies": "assets/logos/upstreams/washington-huskies.webp",
+        "\u0141KS \u0141\u00f3d\u017a": "assets/logos/upstreams/\u0142ks-\u0142\u00f3d\u017a.webp",
+        "Landskrona BoIS": "assets/logos/upstreams/landskrona-bois.webp",
+        "Al Hidd": "assets/logos/upstreams/al-hidd.webp",
+        "Sitra Club": "assets/logos/upstreams/sitra-club.webp",
+        "Riteriai": "assets/logos/upstreams/riteriai.webp",
+        "CD Moquegua": "assets/logos/upstreams/cd-moquegua.webp",
+        "New South Wales Breakers": "assets/logos/upstreams/new-south-wales-breakers.webp",
+        "Tasmania Women": "assets/logos/upstreams/tasmania-women.webp",
+        "Manta FC": "assets/logos/upstreams/manta-fc.webp",
+        "Chapelton Maroons": "assets/logos/upstreams/chapelton-maroons.webp",
+        "Cian McDonnell": "assets/logos/upstreams/cian-mcdonnell.webp",
+        "James Pikkaart": "assets/logos/upstreams/james-pikkaart.webp",
+        "Julio Cesar Porras": "assets/logos/upstreams/julio-cesar-porras.webp",
+        "Fausto Tabacco": "assets/logos/upstreams/fausto-tabacco.webp",
+        "Francesca Franchi": "assets/logos/upstreams/francesca-franchi.webp",
+        "Mirjana Jovanovic": "assets/logos/upstreams/mirjana-jovanovic.webp",
+        "Iaroslava Sviatetckaia": "assets/logos/upstreams/iaroslava-sviatetckaia.webp",
+        "Annika Barth": "assets/logos/upstreams/annika-barth.webp",
+        "Amarissa Kiara Toth": "assets/logos/upstreams/amarissa-kiara-toth.webp",
+        "Lei Peifan": "assets/logos/upstreams/lei-peifan.webp",
+        "Dylan Emery": "assets/logos/upstreams/dylan-emery.webp",
+        "SI Jiahui": "assets/logos/upstreams/si-jiahui.webp",
+        "Robbie Williams": "assets/logos/upstreams/robbie-williams.webp",
+        "Michael Holt": "assets/logos/upstreams/michael-holt.webp",
+        "Ben Mertens": "assets/logos/upstreams/ben-mertens.webp",
+        "Joe O'Connor": "assets/logos/upstreams/joe-oconnor.webp",
+        "Aaron Hill": "assets/logos/upstreams/aaron-hill.webp",
+        "Martin O'Donnel": "assets/logos/upstreams/martin-odonnel.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7042,6 +7070,9 @@
         "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp",
         "St. Brieuc, France": "assets/logos/leagues/st-brieuc-france.webp",
         "UEFA Youth League": "assets/logos/leagues/uefa-youth-league.webp",
-        "Swiss - NLA": "assets/logos/leagues/swiss-nla.webp"
+        "Swiss - NLA": "assets/logos/leagues/swiss-nla.webp",
+        "Svenska Cupen, Group 3": "assets/logos/leagues/svenska-cupen-group-3.webp",
+        "Women's National Cricket League": "assets/logos/leagues/womens-national-cricket-league.webp",
+        "World Open": "assets/logos/leagues/world-open.webp"
     }
 }
