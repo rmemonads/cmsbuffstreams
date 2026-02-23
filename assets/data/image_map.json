@@ -6359,7 +6359,27 @@
         "Summer Yardley": "assets/logos/upstreams/summer-yardley.webp",
         "Alexia Clara Adascalitei": "assets/logos/upstreams/alexia-clara-adascalitei.webp",
         "Julia Terziyska": "assets/logos/upstreams/julia-terziyska.webp",
-        "Charles Broom": "assets/logos/upstreams/charles-broom.webp"
+        "Charles Broom": "assets/logos/upstreams/charles-broom.webp",
+        "Lamar Cardinals": "assets/logos/upstreams/lamar-cardinals.webp",
+        "Nicholls State Colonels": "assets/logos/upstreams/nicholls-state-colonels.webp",
+        "Inter U19": "assets/logos/upstreams/inter-u19.webp",
+        "Betis U19": "assets/logos/upstreams/betis-u19.webp",
+        "Yantra Gabrovo": "assets/logos/upstreams/yantra-gabrovo.webp",
+        "Concordia": "assets/logos/upstreams/concordia.webp",
+        "FC Hunedoara": "assets/logos/upstreams/fc-hunedoara.webp",
+        "Al-Taawon": "assets/logos/upstreams/al-taawon.webp",
+        "Cambuur": "assets/logos/upstreams/cambuur.webp",
+        "Eindhoven FC": "assets/logos/upstreams/eindhoven-fc.webp",
+        "Ambri Piotta": "assets/logos/upstreams/ambri-piotta.webp",
+        "SC Bern": "assets/logos/upstreams/sc-bern.webp",
+        "Kloten": "assets/logos/upstreams/kloten.webp",
+        "Davos": "assets/logos/upstreams/davos.webp",
+        "Langenau Tigers": "assets/logos/upstreams/langenau-tigers.webp",
+        "Biel Bienne": "assets/logos/upstreams/biel-bienne.webp",
+        "ZSC Lions": "assets/logos/upstreams/zsc-lions.webp",
+        "Ajoie": "assets/logos/upstreams/ajoie.webp",
+        "Nexe": "assets/logos/upstreams/nexe.webp",
+        "Washington Huskies": "assets/logos/upstreams/washington-huskies.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7020,6 +7040,8 @@
         "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
         "Pune, India": "assets/logos/leagues/pune-india.webp",
         "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp",
-        "St. Brieuc, France": "assets/logos/leagues/st-brieuc-france.webp"
+        "St. Brieuc, France": "assets/logos/leagues/st-brieuc-france.webp",
+        "UEFA Youth League": "assets/logos/leagues/uefa-youth-league.webp",
+        "Swiss - NLA": "assets/logos/leagues/swiss-nla.webp"
     }
 }
