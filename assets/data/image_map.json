@@ -6855,7 +6855,9 @@
         "La Salle": "assets/logos/streamed/la-salle.webp",
         "Trinidad&Tobago U20": "assets/logos/upstreams/trinidadtobago-u20.webp",
         "Liu Wenwei": "assets/logos/upstreams/liu-wenwei.webp",
-        "Simona Ogescu": "assets/logos/upstreams/simona-ogescu.webp"
+        "Simona Ogescu": "assets/logos/upstreams/simona-ogescu.webp",
+        "CSA": "assets/logos/upstreams/csa.webp",
+        "Club Sporting Cristal": "assets/logos/upstreams/club-sporting-cristal.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
