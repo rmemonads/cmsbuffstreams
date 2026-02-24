@@ -6794,7 +6794,20 @@
         "Josh Nguyen": "assets/logos/upstreams/josh-nguyen.webp",
         "Mikolaj Szymanowski": "assets/logos/upstreams/mikolaj-szymanowski.webp",
         "Fabio Caponio": "assets/logos/upstreams/fabio-caponio.webp",
-        "Jakob Houe": "assets/logos/upstreams/jakob-houe.webp"
+        "Jakob Houe": "assets/logos/upstreams/jakob-houe.webp",
+        "Jackson Page": "assets/logos/upstreams/jackson-page.webp",
+        "Luca Brecel": "assets/logos/upstreams/luca-brecel.webp",
+        "Jimmy Robertson": "assets/logos/upstreams/jimmy-robertson.webp",
+        "Stan Moody": "assets/logos/upstreams/stan-moody.webp",
+        "Wilson G.": "assets/logos/upstreams/wilson-g.webp",
+        "Sarkhosh Amir": "assets/logos/upstreams/sarkhosh-amir.webp",
+        "Mitchell Mann": "assets/logos/upstreams/mitchell-mann.webp",
+        "Kalamazoo Wings": "assets/logos/upstreams/kalamazoo-wings.webp",
+        "Sam Craigie": "assets/logos/upstreams/sam-craigie.webp",
+        "Kyren Wilson": "assets/logos/upstreams/kyren-wilson.webp",
+        "Liu Hongyu": "assets/logos/upstreams/liu-hongyu.webp",
+        "Stuart Bingham": "assets/logos/upstreams/stuart-bingham.webp",
+        "Yang Gao": "assets/logos/upstreams/yang-gao.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7489,6 +7502,7 @@
         "Slovakia - 1. League - Playoff": "assets/logos/leagues/slovakia-1-league-playoff.webp",
         "Portugal - League Revelacao U23 - Gr.Championship": "assets/logos/leagues/portugal-league-revelacao-u23-grchampionship.webp",
         "WTA - Merida (MEX)": "assets/logos/leagues/wta-merida-mex.webp",
-        "German Open - Double": "assets/logos/leagues/german-open-double.webp"
+        "German Open - Double": "assets/logos/leagues/german-open-double.webp",
+        "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp"
     }
 }
