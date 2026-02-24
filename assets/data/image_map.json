@@ -6843,7 +6843,12 @@
         "Philippines": "assets/logos/streamed/philippines.webp",
         "EHC Red Bull M\u00fcnchen": "assets/logos/streamed/ehc-red-bull-m\u00fcnchen.webp",
         "Torreense U23": "assets/logos/upstreams/torreense-u23.webp",
-        "Mika Brunold": "assets/logos/upstreams/mika-brunold.webp"
+        "Mika Brunold": "assets/logos/upstreams/mika-brunold.webp",
+        "Gent U23": "assets/logos/upstreams/gent-u23.webp",
+        "OC Charleroi": "assets/logos/upstreams/oc-charleroi.webp",
+        "Keisuke Saitoh": "assets/logos/upstreams/keisuke-saitoh.webp",
+        "Ajeet Rai": "assets/logos/upstreams/ajeet-rai.webp",
+        "Shinji Hazawa": "assets/logos/upstreams/shinji-hazawa.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7539,6 +7544,8 @@
         "Portugal - League Revelacao U23 - Gr.Championship": "assets/logos/leagues/portugal-league-revelacao-u23-grchampionship.webp",
         "WTA - Merida (MEX)": "assets/logos/leagues/wta-merida-mex.webp",
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
-        "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp"
+        "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp",
+        "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp",
+        "English EFL Trohpy": "assets/logos/leagues/english-efl-trohpy.webp"
     }
 }
