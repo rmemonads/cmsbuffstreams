@@ -6840,7 +6840,8 @@
         "Guam": "assets/logos/streamed/guam.webp",
         "Chinese Taipei": "assets/logos/streamed/chinese-taipei.webp",
         "South Korea": "assets/logos/streamed/south-korea.webp",
-        "Philippines": "assets/logos/streamed/philippines.webp"
+        "Philippines": "assets/logos/streamed/philippines.webp",
+        "EHC Red Bull M\u00fcnchen": "assets/logos/streamed/ehc-red-bull-m\u00fcnchen.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
