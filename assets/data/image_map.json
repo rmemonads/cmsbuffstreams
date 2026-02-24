@@ -6848,7 +6848,10 @@
         "OC Charleroi": "assets/logos/upstreams/oc-charleroi.webp",
         "Keisuke Saitoh": "assets/logos/upstreams/keisuke-saitoh.webp",
         "Ajeet Rai": "assets/logos/upstreams/ajeet-rai.webp",
-        "Shinji Hazawa": "assets/logos/upstreams/shinji-hazawa.webp"
+        "Shinji Hazawa": "assets/logos/upstreams/shinji-hazawa.webp",
+        "West Bromwich": "assets/logos/upstreams/west-bromwich.webp",
+        "Olympiacos --- CN HD": "assets/logos/upstreams/olympiacos-cn-hd.webp",
+        "Jana Bojovic": "assets/logos/upstreams/jana-bojovic.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7546,6 +7549,7 @@
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
         "ATP - Dubai (EUA)": "assets/logos/leagues/atp-dubai-eua.webp",
         "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp",
-        "English EFL Trohpy": "assets/logos/leagues/english-efl-trohpy.webp"
+        "English EFL Trohpy": "assets/logos/leagues/english-efl-trohpy.webp",
+        "Scottish Challenge Cup": "assets/logos/leagues/scottish-challenge-cup.webp"
     }
 }
