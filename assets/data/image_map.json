@@ -6642,7 +6642,15 @@
         "\u017dilina Youth": "assets/logos/streamed/\u017eilina-youth.webp",
         "Club Brugge Youth": "assets/logos/streamed/club-brugge-youth.webp",
         "ACT Meteors": "assets/logos/upstreams/act-meteors.webp",
-        "South Australian Scorpions": "assets/logos/upstreams/south-australian-scorpions.webp"
+        "South Australian Scorpions": "assets/logos/upstreams/south-australian-scorpions.webp",
+        "Monique Barry": "assets/logos/upstreams/monique-barry.webp",
+        "Bar\u00e7a Basket": "assets/logos/upstreams/bar\u00e7a-basket.webp",
+        "RK Trimo Trebnje": "assets/logos/upstreams/rk-trimo-trebnje.webp",
+        "MRK Krka": "assets/logos/upstreams/mrk-krka.webp",
+        "Elena Micic": "assets/logos/upstreams/elena-micic.webp",
+        "Hikaru Sato": "assets/logos/upstreams/hikaru-sato.webp",
+        "Ruien Zhang": "assets/logos/upstreams/ruien-zhang.webp",
+        "Miho Kuramochi": "assets/logos/upstreams/miho-kuramochi.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7326,6 +7334,7 @@
         "Atp Dubai": "assets/logos/leagues/atp-dubai.webp",
         "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp",
         "1. NLB Liga": "assets/logos/leagues/1-nlb-liga.webp",
-        "NHL": "assets/logos/leagues/nhl.webp"
+        "NHL": "assets/logos/leagues/nhl.webp",
+        "1. SRL": "assets/logos/leagues/1-srl.webp"
     }
 }
