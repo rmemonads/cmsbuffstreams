@@ -6841,7 +6841,9 @@
         "Chinese Taipei": "assets/logos/streamed/chinese-taipei.webp",
         "South Korea": "assets/logos/streamed/south-korea.webp",
         "Philippines": "assets/logos/streamed/philippines.webp",
-        "EHC Red Bull M\u00fcnchen": "assets/logos/streamed/ehc-red-bull-m\u00fcnchen.webp"
+        "EHC Red Bull M\u00fcnchen": "assets/logos/streamed/ehc-red-bull-m\u00fcnchen.webp",
+        "Torreense U23": "assets/logos/upstreams/torreense-u23.webp",
+        "Mika Brunold": "assets/logos/upstreams/mika-brunold.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
