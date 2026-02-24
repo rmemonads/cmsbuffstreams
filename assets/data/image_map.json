@@ -6624,7 +6624,19 @@
         "Matthew Hulme": "assets/logos/upstreams/matthew-hulme.webp",
         "Matias Soto": "assets/logos/upstreams/matias-soto.webp",
         "Porto Rico U20": "assets/logos/upstreams/porto-rico-u20.webp",
-        "St. Kitts \u015fi Nevis U20": "assets/logos/upstreams/st-kitts-\u015fi-nevis-u20.webp"
+        "St. Kitts \u015fi Nevis U20": "assets/logos/upstreams/st-kitts-\u015fi-nevis-u20.webp",
+        "Gimnasia de Chivilcoy": "assets/logos/upstreams/gimnasia-de-chivilcoy.webp",
+        "Dominican Republic U20": "assets/logos/upstreams/dominican-republic-u20.webp",
+        "Halkbank": "assets/logos/upstreams/halkbank.webp",
+        "AZ Alkmaar U19": "assets/logos/upstreams/az-alkmaar-u19.webp",
+        "Legia U19": "assets/logos/upstreams/legia-u19.webp",
+        "Trimo Trebnje": "assets/logos/upstreams/trimo-trebnje.webp",
+        "Krka": "assets/logos/upstreams/krka.webp",
+        "Cuneo Volley": "assets/logos/upstreams/cuneo-volley.webp",
+        "Washington Capitals": "assets/logos/upstreams/washington-capitals.webp",
+        "Philadelphia Flyers": "assets/logos/upstreams/philadelphia-flyers.webp",
+        "Tampa Bay Lightning": "assets/logos/upstreams/tampa-bay-lightning.webp",
+        "Toronto Maple Leafs": "assets/logos/upstreams/toronto-maple-leafs.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7305,6 +7317,9 @@
         "Merida, Mexico": "assets/logos/leagues/merida-mexico.webp",
         "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp",
         "Championshipul CONCACAF U20 - Qualifiers": "assets/logos/leagues/championshipul-concacaf-u20-qualifiers.webp",
-        "Atp Dubai": "assets/logos/leagues/atp-dubai.webp"
+        "Atp Dubai": "assets/logos/leagues/atp-dubai.webp",
+        "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp",
+        "1. NLB Liga": "assets/logos/leagues/1-nlb-liga.webp",
+        "NHL": "assets/logos/leagues/nhl.webp"
     }
 }
