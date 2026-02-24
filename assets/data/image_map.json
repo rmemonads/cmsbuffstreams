@@ -6636,7 +6636,13 @@
         "Washington Capitals": "assets/logos/upstreams/washington-capitals.webp",
         "Philadelphia Flyers": "assets/logos/upstreams/philadelphia-flyers.webp",
         "Tampa Bay Lightning": "assets/logos/upstreams/tampa-bay-lightning.webp",
-        "Toronto Maple Leafs": "assets/logos/upstreams/toronto-maple-leafs.webp"
+        "Toronto Maple Leafs": "assets/logos/upstreams/toronto-maple-leafs.webp",
+        "Gimnasia y Esgrima de Chivilcoy": "assets/logos/streamed/gimnasia-y-esgrima-de-chivilcoy.webp",
+        "Gimnasia y Esgrima de Mendoza": "assets/logos/streamed/gimnasia-y-esgrima-de-mendoza.webp",
+        "\u017dilina Youth": "assets/logos/streamed/\u017eilina-youth.webp",
+        "Club Brugge Youth": "assets/logos/streamed/club-brugge-youth.webp",
+        "ACT Meteors": "assets/logos/upstreams/act-meteors.webp",
+        "South Australian Scorpions": "assets/logos/upstreams/south-australian-scorpions.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
