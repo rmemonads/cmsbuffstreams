@@ -7055,7 +7055,11 @@
         "Carlton Blues": "assets/logos/upstreams/carlton-blues.webp",
         "Geelong Cats": "assets/logos/upstreams/geelong-cats.webp",
         "Julia Grabher": "assets/logos/upstreams/julia-grabher.webp",
-        "Anhelina Kalinina": "assets/logos/upstreams/anhelina-kalinina.webp"
+        "Anhelina Kalinina": "assets/logos/upstreams/anhelina-kalinina.webp",
+        "KAC Klagenfurt": "assets/logos/upstreams/kac-klagenfurt.webp",
+        "HC Pustertal": "assets/logos/upstreams/hc-pustertal.webp",
+        "Red Bull Hockey Juniors": "assets/logos/upstreams/red-bull-hockey-juniors.webp",
+        "Bianca Elena Barbulescu": "assets/logos/upstreams/bianca-elena-barbulescu.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7767,6 +7771,7 @@
         "German Open (W)": "assets/logos/leagues/german-open-w.webp",
         "German Open": "assets/logos/leagues/german-open.webp",
         "Zimbabwe Women in New Zealand, 3 T20I Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-t20i-series.webp",
-        "AFL": "assets/logos/leagues/afl.webp"
+        "AFL": "assets/logos/leagues/afl.webp",
+        "WTA Merida Open": "assets/logos/leagues/wta-merida-open.webp"
     }
 }
