@@ -7114,7 +7114,11 @@
         "Iraq": "assets/logos/streamed/iraq.webp",
         "Syria": "assets/logos/streamed/syria.webp",
         "Iran": "assets/logos/streamed/iran.webp",
-        "Jordan": "assets/logos/streamed/jordan.webp"
+        "Jordan": "assets/logos/streamed/jordan.webp",
+        "\u017dKK Crvena zvezda": "assets/logos/upstreams/\u017ekk-crvena-zvezda.webp",
+        "Bertanu Valmieras BS": "assets/logos/upstreams/bertanu-valmieras-bs.webp",
+        "Jekabpils BA": "assets/logos/upstreams/jekabpils-ba.webp",
+        "BK Ogre/Bs Ogre": "assets/logos/upstreams/bk-ogrebs-ogre.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
