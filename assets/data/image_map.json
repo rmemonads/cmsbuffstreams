@@ -7041,7 +7041,21 @@
         "Tien Chen Chou": "assets/logos/upstreams/tien-chen-chou.webp",
         "MIranda Wilson": "assets/logos/upstreams/miranda-wilson.webp",
         "Yue Han": "assets/logos/upstreams/yue-han.webp",
-        "Ditlev Jaeger Holm": "assets/logos/upstreams/ditlev-jaeger-holm.webp"
+        "Ditlev Jaeger Holm": "assets/logos/upstreams/ditlev-jaeger-holm.webp",
+        "Gulbenes Buki": "assets/logos/upstreams/gulbenes-buki.webp",
+        "OKK Jagodina": "assets/logos/upstreams/okk-jagodina.webp",
+        "\u017dKK Kraljevo": "assets/logos/upstreams/\u017ekk-kraljevo.webp",
+        "KK Ni\u0161 Maxbet": "assets/logos/upstreams/kk-ni\u0161-maxbet.webp",
+        "Novosadska \u017dKA Novi Sad": "assets/logos/upstreams/novosadska-\u017eka-novi-sad.webp",
+        "BBC Troistorrents-Chablais": "assets/logos/upstreams/bbc-troistorrents-chablais.webp",
+        "Karol Filar": "assets/logos/upstreams/karol-filar.webp",
+        "Noelia Bouz\u00f3 Zanotti": "assets/logos/upstreams/noelia-bouz\u00f3-zanotti.webp",
+        "New Zealand Women": "assets/logos/upstreams/new-zealand-women.webp",
+        "Zimbabwe Women": "assets/logos/upstreams/zimbabwe-women.webp",
+        "Carlton Blues": "assets/logos/upstreams/carlton-blues.webp",
+        "Geelong Cats": "assets/logos/upstreams/geelong-cats.webp",
+        "Julia Grabher": "assets/logos/upstreams/julia-grabher.webp",
+        "Anhelina Kalinina": "assets/logos/upstreams/anhelina-kalinina.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7751,6 +7765,8 @@
         "Thailand - Cup FA": "assets/logos/leagues/thailand-cup-fa.webp",
         "Extraliga": "assets/logos/leagues/extraliga.webp",
         "German Open (W)": "assets/logos/leagues/german-open-w.webp",
-        "German Open": "assets/logos/leagues/german-open.webp"
+        "German Open": "assets/logos/leagues/german-open.webp",
+        "Zimbabwe Women in New Zealand, 3 T20I Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-t20i-series.webp",
+        "AFL": "assets/logos/leagues/afl.webp"
     }
 }
