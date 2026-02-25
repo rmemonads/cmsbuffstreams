@@ -7118,7 +7118,10 @@
         "\u017dKK Crvena zvezda": "assets/logos/upstreams/\u017ekk-crvena-zvezda.webp",
         "Bertanu Valmieras BS": "assets/logos/upstreams/bertanu-valmieras-bs.webp",
         "Jekabpils BA": "assets/logos/upstreams/jekabpils-ba.webp",
-        "BK Ogre/Bs Ogre": "assets/logos/upstreams/bk-ogrebs-ogre.webp"
+        "BK Ogre/Bs Ogre": "assets/logos/upstreams/bk-ogrebs-ogre.webp",
+        "Neom SC": "assets/logos/upstreams/neom-sc.webp",
+        "Mora IK": "assets/logos/upstreams/mora-ik.webp",
+        "Thiago Agustin TIrante": "assets/logos/upstreams/thiago-agustin-tirante.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
