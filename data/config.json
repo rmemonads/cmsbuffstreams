@@ -3,7 +3,7 @@
     "sitemap_enabled": true,
     "sitemap_include_leagues": true,
     "sitemap_static_pages": "founder-story, contact, privacy, terms, dmca",
-    "sitemap_lastmod_manual": "2026-02-09",
+    "sitemap_lastmod_manual": "2026-02-25",
     "ga4_id": "G-KVYJSX3VW7",
     "title_part_1": "Buff",
     "title_part_2": "Streams",
@@ -11,16 +11,16 @@
     "custom_meta_tags": [
       "<meta name=\"google-site-verification\" content=\"Ru9BSOV_R5DvGmpD_7bvR4Fr0bQYBX4O65-JBLbrNwU\" />"
     ],
-    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://buffstreamslive.cc/sitemap.xml",
-    "domain": "buffstreamslive.cc",
+    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://buffstreams.mobi/sitemap.xml",
+    "domain": "buffstreams.mobi",
     "logo_url": "/assets/buffstreams-logo.webp",
     "favicon_url": "/assets/buffstreams-icon.png",
     "footer_copyright": "© 2026 Buffstreams — Online live sports streaming platform for major leagues, teams, and international tournaments worldwide.",
     "footer_disclaimer": "",
     "target_country": "US",
     "url_suffix": "-live",
-    "param_live": "live",
-    "param_info": "info"
+    "param_live": "livestreams",
+    "param_info": "information"
   },
   "theme": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
@@ -237,7 +237,7 @@
   },
   "sport_priorities": {
     "US": {
-      "_HIDE_OTHERS": false,
+      "_HIDE_OTHERS": true,
       "_BOOST": "",
       "NFL": {
         "score": 99,
@@ -275,39 +275,9 @@
         "hasLink": true,
         "isHidden": false
       },
-      "Premier League": {
-        "score": 90,
-        "isLeague": true,
-        "hasLink": true,
-        "isHidden": false
-      },
-      "Champions League": {
-        "score": 89,
-        "isLeague": true,
-        "hasLink": true,
-        "isHidden": false
-      },
       "Formula 1": {
         "score": 88,
         "isLeague": true,
-        "hasLink": true,
-        "isHidden": false
-      },
-      "MLS": {
-        "score": 87,
-        "isLeague": true,
-        "hasLink": true,
-        "isHidden": false
-      },
-      "La Liga": {
-        "score": 85,
-        "isLeague": true,
-        "hasLink": true,
-        "isHidden": false
-      },
-      "Football": {
-        "score": 80,
-        "isLeague": false,
         "hasLink": true,
         "isHidden": false
       }
