@@ -6886,7 +6886,11 @@
         "Aalborg": "assets/logos/upstreams/aalborg.webp",
         "Costa Rica U20": "assets/logos/upstreams/costa-rica-u20.webp",
         "Angouleme": "assets/logos/upstreams/angouleme.webp",
-        "Carolina Hurricanes": "assets/logos/upstreams/carolina-hurricanes.webp"
+        "Carolina Hurricanes": "assets/logos/upstreams/carolina-hurricanes.webp",
+        "Ellerton FC": "assets/logos/upstreams/ellerton-fc.webp",
+        "Monika Jirouskova": "assets/logos/upstreams/monika-jirouskova.webp",
+        "Vanja Gudelj": "assets/logos/upstreams/vanja-gudelj.webp",
+        "SC Delhi": "assets/logos/upstreams/sc-delhi.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
