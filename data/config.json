@@ -9,7 +9,7 @@
     "title_part_2": "Streams",
     "custom_js": "",
     "custom_meta_tags": [
-      "<meta name=\"google-site-verification\" content=\"Ru9BSOV_R5DvGmpD_7bvR4Fr0bQYBX4O65-JBLbrNwU\" />"
+      "<meta name=\"google-site-verification\" content=\"y0on2s08ezN7kDw7nvl0wz0VVhWPUuXHOzVOT67u314\" />"
     ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://buffstreams.mobi/sitemap.xml",
     "domain": "buffstreams.mobi",
