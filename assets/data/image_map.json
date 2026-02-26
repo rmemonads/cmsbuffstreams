@@ -7248,7 +7248,8 @@
         "Florida Everblades": "assets/logos/upstreams/florida-everblades.webp",
         "Orlando Solar Bears": "assets/logos/upstreams/orlando-solar-bears.webp",
         "Djurg\u00e5rdens IF": "assets/logos/upstreams/djurg\u00e5rdens-if.webp",
-        "Maanav Jain": "assets/logos/upstreams/maanav-jain.webp"
+        "Maanav Jain": "assets/logos/upstreams/maanav-jain.webp",
+        "SA XV Charente": "assets/logos/upstreams/sa-xv-charente.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7976,6 +7977,7 @@
         "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp",
         "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp",
         "Santiago Open": "assets/logos/leagues/santiago-open.webp",
-        "FIBA World Cup, European Qualifiers, Group G": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-g.webp"
+        "FIBA World Cup, European Qualifiers, Group G": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-g.webp",
+        "UEFA Conference League": "assets/logos/leagues/uefa-conference-league.webp"
     }
 }
