@@ -7244,7 +7244,9 @@
         "Argentina": "assets/logos/streamed/argentina.webp",
         "Uruguay": "assets/logos/streamed/uruguay.webp",
         "Cuba": "assets/logos/streamed/cuba.webp",
-        "Panama": "assets/logos/streamed/panama.webp"
+        "Panama": "assets/logos/streamed/panama.webp",
+        "Florida Everblades": "assets/logos/upstreams/florida-everblades.webp",
+        "Orlando Solar Bears": "assets/logos/upstreams/orlando-solar-bears.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
