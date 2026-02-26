@@ -7155,7 +7155,19 @@
         "Scarlets": "assets/logos/upstreams/scarlets.webp",
         "Cardiff Rugby": "assets/logos/upstreams/cardiff-rugby.webp",
         "Leinster": "assets/logos/upstreams/leinster.webp",
-        "Angel Ximenez": "assets/logos/upstreams/angel-ximenez.webp"
+        "Angel Ximenez": "assets/logos/upstreams/angel-ximenez.webp",
+        "Puerto Rico Basketball": "assets/logos/streamed/puerto-rico-basketball.webp",
+        "Canada Basketball": "assets/logos/streamed/canada-basketball.webp",
+        "Nicaragua Basketball": "assets/logos/streamed/nicaragua-basketball.webp",
+        "Mexico Basketball": "assets/logos/streamed/mexico-basketball.webp",
+        "United States Basketball": "assets/logos/streamed/united-states-basketball.webp",
+        "Dominican Republic Basketball": "assets/logos/streamed/dominican-republic-basketball.webp",
+        "Iraq Basketball": "assets/logos/streamed/iraq-basketball.webp",
+        "Syria Basketball": "assets/logos/streamed/syria-basketball.webp",
+        "Ukraine Basketball": "assets/logos/streamed/ukraine-basketball.webp",
+        "Spain Basketball": "assets/logos/streamed/spain-basketball.webp",
+        "Iran Basketball": "assets/logos/streamed/iran-basketball.webp",
+        "Jordan Basketball": "assets/logos/streamed/jordan-basketball.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
