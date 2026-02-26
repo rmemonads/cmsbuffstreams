@@ -7253,7 +7253,8 @@
         "Delaware": "assets/logos/streamed/delaware.webp",
         "Presbyterian": "assets/logos/streamed/presbyterian.webp",
         "High Point": "assets/logos/streamed/high-point.webp",
-        "Sam Houston State": "assets/logos/streamed/sam-houston-state.webp"
+        "Sam Houston State": "assets/logos/streamed/sam-houston-state.webp",
+        "Warriors": "assets/logos/upstreams/warriors.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7982,6 +7983,7 @@
         "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp",
         "Santiago Open": "assets/logos/leagues/santiago-open.webp",
         "FIBA World Cup, European Qualifiers, Group G": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-g.webp",
-        "UEFA Conference League": "assets/logos/leagues/uefa-conference-league.webp"
+        "UEFA Conference League": "assets/logos/leagues/uefa-conference-league.webp",
+        "CSA Provincial One-Day Challenge Division One": "assets/logos/leagues/csa-provincial-one-day-challenge-division-one.webp"
     }
 }
