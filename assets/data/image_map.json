@@ -7180,7 +7180,11 @@
         "HC Ambri-Piotta U21": "assets/logos/upstreams/hc-ambri-piotta-u21.webp",
         "Lausanne HC": "assets/logos/upstreams/lausanne-hc.webp",
         "Torpedo-Gorky Nizhny Novgorod": "assets/logos/upstreams/torpedo-gorky-nizhny-novgorod.webp",
-        "CSK VVS Samara": "assets/logos/upstreams/csk-vvs-samara.webp"
+        "CSK VVS Samara": "assets/logos/upstreams/csk-vvs-samara.webp",
+        "Carol Young Suh Lee": "assets/logos/upstreams/carol-young-suh-lee.webp",
+        "Mario Gonzalez Fernandez": "assets/logos/upstreams/mario-gonzalez-fernandez.webp",
+        "Oscar Weightman": "assets/logos/upstreams/oscar-weightman.webp",
+        "Andzhelina Kostova": "assets/logos/upstreams/andzhelina-kostova.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7905,6 +7909,7 @@
         "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp",
         "FIBA World Cup, European Qualifiers, Group B": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-b.webp",
         "FIBA World Cup, European Qualifiers, Group E": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-e.webp",
-        "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp"
+        "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp",
+        "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp"
     }
 }
