@@ -7168,7 +7168,19 @@
         "Spain Basketball": "assets/logos/streamed/spain-basketball.webp",
         "Iran Basketball": "assets/logos/streamed/iran-basketball.webp",
         "Jordan Basketball": "assets/logos/streamed/jordan-basketball.webp",
-        "Joel Gibson": "assets/logos/upstreams/joel-gibson.webp"
+        "Joel Gibson": "assets/logos/upstreams/joel-gibson.webp",
+        "Magesi FC": "assets/logos/upstreams/magesi-fc.webp",
+        "Schwarz-Wei\u00df Bregenz": "assets/logos/upstreams/schwarz-wei\u00df-bregenz.webp",
+        "Rubio \u00d1u": "assets/logos/upstreams/rubio-\u00f1u.webp",
+        "Li Tu": "assets/logos/upstreams/li-tu.webp",
+        "Chengyiyi Yuan": "assets/logos/upstreams/chengyiyi-yuan.webp",
+        "T\u00fcrkiye": "assets/logos/upstreams/t\u00fcrkiye.webp",
+        "Western Michigan Broncos": "assets/logos/upstreams/western-michigan-broncos.webp",
+        "HC Davos U21": "assets/logos/upstreams/hc-davos-u21.webp",
+        "HC Ambri-Piotta U21": "assets/logos/upstreams/hc-ambri-piotta-u21.webp",
+        "Lausanne HC": "assets/logos/upstreams/lausanne-hc.webp",
+        "Torpedo-Gorky Nizhny Novgorod": "assets/logos/upstreams/torpedo-gorky-nizhny-novgorod.webp",
+        "CSK VVS Samara": "assets/logos/upstreams/csk-vvs-samara.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -7890,6 +7902,9 @@
         "Liga de Expansi\u00f3n MX": "assets/logos/leagues/liga-de-expansi\u00f3n-mx.webp",
         "PWHL": "assets/logos/leagues/pwhl.webp",
         "VHL": "assets/logos/leagues/vhl.webp",
-        "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp"
+        "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp",
+        "FIBA World Cup, European Qualifiers, Group B": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-b.webp",
+        "FIBA World Cup, European Qualifiers, Group E": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-e.webp",
+        "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp"
     }
 }
