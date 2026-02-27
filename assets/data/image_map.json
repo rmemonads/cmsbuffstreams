@@ -7400,7 +7400,13 @@
         "Manchester W": "assets/logos/upstreams/manchester-w.webp",
         "Chiba": "assets/logos/upstreams/chiba.webp",
         "New Zealand W": "assets/logos/upstreams/new-zealand-w.webp",
-        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp"
+        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp",
+        "Ospitaletto F. | 240 min": "assets/logos/upstreams/ospitaletto-f-240-min.webp",
+        "Feh\u00e9rv\u00e1r AV19": "assets/logos/upstreams/feh\u00e9rv\u00e1r-av19.webp",
+        "ATP500: Dubai Duty Free Tennis Championships": "assets/logos/upstreams/atp500-dubai-duty-free-tennis-championships.webp",
+        "ATP500: Abierto Mexicano Telcel presentado por HSBC": "assets/logos/upstreams/atp500-abierto-mexicano-telcel-presentado-por-hsbc.webp",
+        "Acapulco": "assets/logos/upstreams/acapulco.webp",
+        "Saint-Rapha\u00ebl": "assets/logos/upstreams/saint-rapha\u00ebl.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8154,6 +8160,9 @@
         "Atlantic 10 Conference Women": "assets/logos/leagues/atlantic-10-conference-women.webp",
         "Superleague": "assets/logos/leagues/superleague.webp",
         "India Women in Australia, 3 ODI Series": "assets/logos/leagues/india-women-in-australia-3-odi-series.webp",
-        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp",
+        "Atp": "assets/logos/leagues/atp.webp",
+        "Rugby Union": "assets/logos/leagues/rugby-union.webp",
+        "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp"
     }
 }
