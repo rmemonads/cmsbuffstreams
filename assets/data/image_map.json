@@ -7457,7 +7457,9 @@
         "SC 1\u00ba Dezembro": "assets/logos/upstreams/sc-1\u00ba-dezembro.webp",
         "Amora FC": "assets/logos/upstreams/amora-fc.webp",
         "Duje Ajdukovic": "assets/logos/upstreams/duje-ajdukovic.webp",
-        "Federico Cina": "assets/logos/upstreams/federico-cina.webp"
+        "Federico Cina": "assets/logos/upstreams/federico-cina.webp",
+        "The Real Warriors": "assets/logos/upstreams/the-real-warriors.webp",
+        "DPMM": "assets/logos/upstreams/dpmm.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8216,6 +8218,7 @@
         "Rugby Union": "assets/logos/leagues/rugby-union.webp",
         "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp",
         "I-League": "assets/logos/leagues/i-league.webp",
-        "UFC Fight Night: Moreno vs. Kavanagh": "assets/logos/leagues/ufc-fight-night-moreno-vs-kavanagh.webp"
+        "UFC Fight Night: Moreno vs. Kavanagh": "assets/logos/leagues/ufc-fight-night-moreno-vs-kavanagh.webp",
+        "Malaysia Super League": "assets/logos/leagues/malaysia-super-league.webp"
     }
 }
