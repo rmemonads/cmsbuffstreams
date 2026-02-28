@@ -7638,7 +7638,8 @@
         "Texas A and M": "assets/logos/streamed/texas-a-and-m.webp",
         "Benetton Treviso": "assets/logos/upstreams/benetton-treviso.webp",
         "Onze Createurs": "assets/logos/upstreams/onze-createurs.webp",
-        "SC S\u00e3o Jo\u00e3o Ver": "assets/logos/upstreams/sc-s\u00e3o-jo\u00e3o-ver.webp"
+        "SC S\u00e3o Jo\u00e3o Ver": "assets/logos/upstreams/sc-s\u00e3o-jo\u00e3o-ver.webp",
+        "AS Pompier": "assets/logos/upstreams/as-pompier.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8413,6 +8414,7 @@
         "SheBelieves Cup, Women": "assets/logos/leagues/shebelieves-cup-women.webp",
         "German Open, Mixed Doubles": "assets/logos/leagues/german-open-mixed-doubles.webp",
         "Slovakia - 2. League": "assets/logos/leagues/slovakia-2-league.webp",
-        "2nd SNL": "assets/logos/leagues/2nd-snl.webp"
+        "2nd SNL": "assets/logos/leagues/2nd-snl.webp",
+        "SheBelieves Cup (W)": "assets/logos/leagues/shebelieves-cup-w.webp"
     }
 }
