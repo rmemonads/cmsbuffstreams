@@ -7632,7 +7632,9 @@
         "American": "assets/logos/streamed/american.webp",
         "AD Fundao": "assets/logos/upstreams/ad-fundao.webp",
         "Ferreira Zezere": "assets/logos/upstreams/ferreira-zezere.webp",
-        "ADCR Caxinas": "assets/logos/upstreams/adcr-caxinas.webp"
+        "ADCR Caxinas": "assets/logos/upstreams/adcr-caxinas.webp",
+        "St. Louis City": "assets/logos/streamed/st-louis-city.webp",
+        "Armenia": "assets/logos/streamed/armenia.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
