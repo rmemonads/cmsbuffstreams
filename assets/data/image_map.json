@@ -7783,7 +7783,9 @@
         "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp",
         "Albania": "assets/logos/streamed/albania.webp",
         "Fethiyespor": "assets/logos/streamed/fethiyespor.webp",
-        "\u0130stanbulspor": "assets/logos/streamed/istanbulspor.webp"
+        "\u0130stanbulspor": "assets/logos/streamed/istanbulspor.webp",
+        "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp",
+        "Natsuho Arakawa": "assets/logos/upstreams/natsuho-arakawa.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
