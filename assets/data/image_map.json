@@ -7651,7 +7651,23 @@
         "Daejeon Hana Citizen": "assets/logos/upstreams/daejeon-hana-citizen.webp",
         "FC Anyang": "assets/logos/upstreams/fc-anyang.webp",
         "Busan I Park": "assets/logos/upstreams/busan-i-park.webp",
-        "Seongnam FC": "assets/logos/upstreams/seongnam-fc.webp"
+        "Seongnam FC": "assets/logos/upstreams/seongnam-fc.webp",
+        "Yosuke Watanuki": "assets/logos/upstreams/yosuke-watanuki.webp",
+        "Mario Mansilla Diez": "assets/logos/upstreams/mario-mansilla-diez.webp",
+        "Stephanos Schinas": "assets/logos/upstreams/stephanos-schinas.webp",
+        "Allan Gatoto": "assets/logos/upstreams/allan-gatoto.webp",
+        "Ivan Marrero Curbelo": "assets/logos/upstreams/ivan-marrero-curbelo.webp",
+        "Etienne Niyigena": "assets/logos/upstreams/etienne-niyigena.webp",
+        "Maik Steiner": "assets/logos/upstreams/maik-steiner.webp",
+        "Ryan Nijboer": "assets/logos/upstreams/ryan-nijboer.webp",
+        "Peter Makk": "assets/logos/upstreams/peter-makk.webp",
+        "Michalis Sakellaridis": "assets/logos/upstreams/michalis-sakellaridis.webp",
+        "Jack Loge": "assets/logos/upstreams/jack-loge.webp",
+        "Michiel De Krom": "assets/logos/upstreams/michiel-de-krom.webp",
+        "Denys Klok": "assets/logos/upstreams/denys-klok.webp",
+        "Guy Orly Iradukunda": "assets/logos/upstreams/guy-orly-iradukunda.webp",
+        "Stefano Napolitano": "assets/logos/upstreams/stefano-napolitano.webp",
+        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8429,6 +8445,9 @@
         "2nd SNL": "assets/logos/leagues/2nd-snl.webp",
         "SheBelieves Cup (W)": "assets/logos/leagues/shebelieves-cup-w.webp",
         "AFC Asian Cup, Women, Group A": "assets/logos/leagues/afc-asian-cup-women-group-a.webp",
-        "AFC - Champions League - Playoff": "assets/logos/leagues/afc-champions-league-playoff.webp"
+        "AFC - Champions League - Playoff": "assets/logos/leagues/afc-champions-league-playoff.webp",
+        "Thionville, France, Qualifying": "assets/logos/leagues/thionville-france-qualifying.webp",
+        "Hersonissos, Greece, Qualifying": "assets/logos/leagues/hersonissos-greece-qualifying.webp",
+        "Kigali, Rwanda, Qualifying": "assets/logos/leagues/kigali-rwanda-qualifying.webp"
     }
 }
