@@ -7780,7 +7780,10 @@
         "Antivari (W)": "assets/logos/upstreams/antivari-w.webp",
         "El Salvador (W)": "assets/logos/upstreams/el-salvador-w.webp",
         "Barbados (W)": "assets/logos/upstreams/barbados-w.webp",
-        "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp"
+        "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp",
+        "Albania": "assets/logos/streamed/albania.webp",
+        "Fethiyespor": "assets/logos/streamed/fethiyespor.webp",
+        "\u0130stanbulspor": "assets/logos/streamed/istanbulspor.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
