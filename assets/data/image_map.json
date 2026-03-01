@@ -7667,7 +7667,20 @@
         "Denys Klok": "assets/logos/upstreams/denys-klok.webp",
         "Guy Orly Iradukunda": "assets/logos/upstreams/guy-orly-iradukunda.webp",
         "Stefano Napolitano": "assets/logos/upstreams/stefano-napolitano.webp",
-        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp"
+        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp",
+        "Pouso Alegre": "assets/logos/upstreams/pouso-alegre.webp",
+        "Portland Timbers II": "assets/logos/upstreams/portland-timbers-ii.webp",
+        "The Town FC": "assets/logos/upstreams/the-town-fc.webp",
+        "C\u00f3rdoba": "assets/logos/upstreams/c\u00f3rdoba.webp",
+        "Tennesse": "assets/logos/upstreams/tennesse.webp",
+        "Wanderers": "assets/logos/upstreams/wanderers.webp",
+        "James Story": "assets/logos/upstreams/james-story.webp",
+        "Petros Tsitsipas": "assets/logos/upstreams/petros-tsitsipas.webp",
+        "Nicholas David Ionel": "assets/logos/upstreams/nicholas-david-ionel.webp",
+        "Gray Voelzke": "assets/logos/upstreams/gray-voelzke.webp",
+        "Svyatoslav Gulin": "assets/logos/upstreams/svyatoslav-gulin.webp",
+        "Pietro Orlando Fellin": "assets/logos/upstreams/pietro-orlando-fellin.webp",
+        "Kei Nishikori": "assets/logos/upstreams/kei-nishikori.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8448,6 +8461,8 @@
         "AFC - Champions League - Playoff": "assets/logos/leagues/afc-champions-league-playoff.webp",
         "Thionville, France, Qualifying": "assets/logos/leagues/thionville-france-qualifying.webp",
         "Hersonissos, Greece, Qualifying": "assets/logos/leagues/hersonissos-greece-qualifying.webp",
-        "Kigali, Rwanda, Qualifying": "assets/logos/leagues/kigali-rwanda-qualifying.webp"
+        "Kigali, Rwanda, Qualifying": "assets/logos/leagues/kigali-rwanda-qualifying.webp",
+        "MLS League": "assets/logos/leagues/mls-league.webp",
+        "AFC Champions League Elite": "assets/logos/leagues/afc-champions-league-elite.webp"
     }
 }
