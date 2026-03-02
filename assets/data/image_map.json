@@ -7813,7 +7813,23 @@
         "Florent Bax": "assets/logos/upstreams/florent-bax.webp",
         "Gabriele Pennaforti": "assets/logos/upstreams/gabriele-pennaforti.webp",
         "Luka Mikrut": "assets/logos/upstreams/luka-mikrut.webp",
-        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp"
+        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp",
+        "New York City": "assets/logos/upstreams/new-york-city.webp",
+        "Weymouth Wales": "assets/logos/upstreams/weymouth-wales.webp",
+        "U de Deportes": "assets/logos/upstreams/u-de-deportes.webp",
+        "Wydad AC": "assets/logos/upstreams/wydad-ac.webp",
+        "Berkane": "assets/logos/upstreams/berkane.webp",
+        "Hassania Agadir": "assets/logos/upstreams/hassania-agadir.webp",
+        "Raja Casablanca": "assets/logos/upstreams/raja-casablanca.webp",
+        "Alabama Crimson Tide": "assets/logos/upstreams/alabama-crimson-tide.webp",
+        "Orlando City B": "assets/logos/upstreams/orlando-city-b.webp",
+        "Huntsville City FC": "assets/logos/upstreams/huntsville-city-fc.webp",
+        "IFK Kristianstad": "assets/logos/upstreams/ifk-kristianstad.webp",
+        "Fr\u00f6lunda HC": "assets/logos/upstreams/fr\u00f6lunda-hc.webp",
+        "Lule\u00e5 Hockey": "assets/logos/upstreams/lule\u00e5-hockey.webp",
+        "Pinches B.": "assets/logos/upstreams/pinches-b.webp",
+        "Miah H.": "assets/logos/upstreams/miah-h.webp",
+        "Minghui Zhang": "assets/logos/upstreams/minghui-zhang.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8613,6 +8629,13 @@
         "ABA League 2": "assets/logos/leagues/aba-league-2.webp",
         "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp",
         "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp",
-        "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp"
+        "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp",
+        "Morocco Botola Pro": "assets/logos/leagues/morocco-botola-pro.webp",
+        "Cupa Rom\u00e2niei Betano": "assets/logos/leagues/cupa-rom\u00e2niei-betano.webp",
+        "Copa del Rey": "assets/logos/leagues/copa-del-rey.webp",
+        "Ta\u00e7a de Portugal": "assets/logos/leagues/ta\u00e7a-de-portugal.webp",
+        "CONMEBOL Sudamericana, Qualification": "assets/logos/leagues/conmebol-sudamericana-qualification.webp",
+        "EHF European League, Main Round, Group III": "assets/logos/leagues/ehf-european-league-main-round-group-iii.webp",
+        "Champions Hockey League, Knockout stage": "assets/logos/leagues/champions-hockey-league-knockout-stage.webp"
     }
 }
