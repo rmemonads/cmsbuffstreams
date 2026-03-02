@@ -7802,7 +7802,18 @@
         "Guabira": "assets/logos/upstreams/guabira.webp",
         "Bermuda W": "assets/logos/upstreams/bermuda-w.webp",
         "Costa Rica W": "assets/logos/upstreams/costa-rica-w.webp",
-        "Podgorica": "assets/logos/upstreams/podgorica.webp"
+        "Podgorica": "assets/logos/upstreams/podgorica.webp",
+        "Pe\u00f1arol": "assets/logos/upstreams/pe\u00f1arol.webp",
+        "Filip Cristian Jianu": "assets/logos/upstreams/filip-cristian-jianu.webp",
+        "Marco Cecchinato": "assets/logos/upstreams/marco-cecchinato.webp",
+        "Aziz Ouakaa": "assets/logos/upstreams/aziz-ouakaa.webp",
+        "James McGloughlin": "assets/logos/upstreams/james-mcgloughlin.webp",
+        "Otso Martikainen": "assets/logos/upstreams/otso-martikainen.webp",
+        "Viktor Durasovic": "assets/logos/upstreams/viktor-durasovic.webp",
+        "Florent Bax": "assets/logos/upstreams/florent-bax.webp",
+        "Gabriele Pennaforti": "assets/logos/upstreams/gabriele-pennaforti.webp",
+        "Luka Mikrut": "assets/logos/upstreams/luka-mikrut.webp",
+        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8600,6 +8611,8 @@
         "Portugal - Taca de Portugal": "assets/logos/leagues/portugal-taca-de-portugal.webp",
         "Copa Southamericana - Qualifiers": "assets/logos/leagues/copa-southamericana-qualifiers.webp",
         "ABA League 2": "assets/logos/leagues/aba-league-2.webp",
-        "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp"
+        "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp",
+        "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp",
+        "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp"
     }
 }
