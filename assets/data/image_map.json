@@ -7965,7 +7965,13 @@
         "Mark Joyce": "assets/logos/upstreams/mark-joyce.webp",
         "Billy Joe Castle": "assets/logos/upstreams/billy-joe-castle.webp",
         "Menge Belashangul": "assets/logos/upstreams/menge-belashangul.webp",
-        "Sululta Ketema": "assets/logos/upstreams/sululta-ketema.webp"
+        "Sululta Ketema": "assets/logos/upstreams/sululta-ketema.webp",
+        "Freddie Ridout": "assets/logos/upstreams/freddie-ridout.webp",
+        "Didrik Liljekvist": "assets/logos/upstreams/didrik-liljekvist.webp",
+        "Rory Mcleod": "assets/logos/upstreams/rory-mcleod.webp",
+        "Barry Pinches": "assets/logos/upstreams/barry-pinches.webp",
+        "Gerard Greene": "assets/logos/upstreams/gerard-greene.webp",
+        "Hammad Miah": "assets/logos/upstreams/hammad-miah.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
@@ -8778,6 +8784,7 @@
         "Brasilia, Brazil": "assets/logos/leagues/brasilia-brazil.webp",
         "World Cup Women": "assets/logos/leagues/world-cup-women.webp",
         "Turkiye Kupasi, Group A": "assets/logos/leagues/turkiye-kupasi-group-a.webp",
-        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp"
+        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
+        "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp"
     }
 }
