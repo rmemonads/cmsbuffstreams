@@ -25,7 +25,7 @@
     
     <!-- SCHEMA -->
     <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://downradar.site/#organization", "name": "BuffStreams", "url": "https://downradar.site/", "logo": {"@type": "ImageObject", "url": "https://downradar.site/assets/buffstreams-logo.webp", "width": 512, "height": 512}}, {"@type": "WebSite", "@id": "https://downradar.site/#website", "url": "https://downradar.site/", "name": "BuffStreams", "publisher": {"@id": "https://downradar.site/#organization"}}, {"@type": "CollectionPage", "@id": "https://downradar.site/nhl-live/#leaguepage", "url": "https://downradar.site/nhl-live/", "name": "Watch NHL Live Streams & Full 2026 Schedule | BuffStreams", "description": "Watch NHL live on BuffStreams with the complete 2026 schedule, real-time fixtures, standings, playoffs coverage, and fast HD Ice Hockey streams \u2014 all in one place.", "mainEntity": {"@id": "https://downradar.site/nhl-live/#matchlist"}, "isPartOf": {"@id": "https://downradar.site/#website"}, "about": {"@type": "SportsOrganization", "name": "NHL", "sameAs": ["https://en.wikipedia.org/wiki/National_Hockey_League", "https://www.wikidata.org/wiki/Q1215892"]}}]}</script>
-<script id="dynamic-schema-placeholder" type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "@id": "https://downradar.site/nhl-live/#matchlist", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "SportsEvent", "name": "Carolina Hurricanes vs Vegas Golden Knights", "description": "Watch Carolina Hurricanes vs Vegas Golden Knights live stream. NHL.", "startDate": "2026-06-18T00:00:00.000Z", "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "isAccessibleForFree": true, "url": "https://downradar.site/watch/?information=carolina-hurricanes-vs-vegas-golden-knights-7ed21582", "image": ["https://downradar.site/assets/buffstreams-logo.webp"], "organizer": {"@id": "https://downradar.site/#organization"}, "sport": "Ice Hockey", "homeTeam": {"@type": "SportsTeam", "name": "Carolina Hurricanes", "image": "https://downradar.site/assets/logos/upstreams/carolina-hurricanes.webp"}, "awayTeam": {"@type": "SportsTeam", "name": "Vegas Golden Knights", "image": "https://downradar.site/assets/logos/streamed/vegas-golden-knights.webp"}}}]}</script>
+<script id="dynamic-schema-placeholder" type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "@id": "https://downradar.site/nhl-live/#matchlist", "itemListElement": []}</script>
 
     
     <style>html { scroll-behavior: smooth; }</style>
@@ -478,6 +478,7 @@
         .l-icon { font-size: 1.1rem; }
         #footer-leagues-section .sec-head { border-bottom: 2px solid #334155; }
     </style>
+<meta name="referrer" content="no-referrer-when-downgrade" />
 
 <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
@@ -529,21 +530,21 @@
     <main class="container">
         
         <!-- LIVE SECTION -->
-        <div id="live-list" style="display:none;" style="display:none;" style="display:none;" style="display:none;">
+        <div id="live-list" style="display:none;">
             <!-- L_LIVE_START --><!-- L_LIVE_END -->
         </div>
 
         <!-- UPCOMING SECTION -->
         <div id="upcoming-container">
-            <div class="sec-head" style="border-bottom: 2px solid #334155;" style="border-bottom: 2px solid #334155;" style="border-bottom: 2px solid #334155;">
+            <div class="sec-head">
                 <h2 class="sec-title">
-                    <img src="/assets/logos/leagues/nhl.webp" alt="NHL" style="width:28px; height:28px; object-fit:contain; margin-right:8px;"> 
+                    <span id="upcoming-logo-container" style="font-size:1.2rem; display:inline-flex; align-items:center;">📅</span> 
                     NHL Schedule
                 </h2>
             </div>
             <!-- Python replaces this with schedule rows -->
             <div id="schedule-list">
-                <!-- L_SCHED_START --><div class="match-row"><div class="col-time"><span class="time-main">07:00 PM ET</span><span class="time-sub">Jun 17</span></div><div class="teams-wrapper"><div class="league-tag">ICE HOCKEY</div><div class="team-name"><div class="logo-box"><img src="/assets/logos/upstreams/carolina-hurricanes.webp" alt="Carolina Hurricanes" class="t-img" loading="lazy"></div> Carolina Hurricanes</div><div class="team-name"><div class="logo-box"><img src="/assets/logos/streamed/vegas-golden-knights.webp" alt="Vegas Golden Knights" class="t-img" loading="lazy"></div> Vegas Golden Knights</div></div><div class="col-meta"><div style="display:flex; flex-direction:column; align-items:flex-end;"><span style="font-size:0.55rem; color:var(--text-muted); font-weight:700; text-transform:uppercase;">Starts</span><span class="meta-top" style="color:var(--accent-gold);">3h 24m</span></div></div><div class="col-action"><button class="btn-notify" onclick="handleNotify(this)">🔔 Notify</button><button class="btn-copy-link" onclick="copyText('https://downradar.site/watch/?information=carolina-hurricanes-vs-vegas-golden-knights-7ed21582')"><svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg> Link</button></div></div><!-- L_SCHED_END -->
+                <!-- L_SCHED_START --><!-- L_SCHED_END -->
             </div>
         </div>
 
