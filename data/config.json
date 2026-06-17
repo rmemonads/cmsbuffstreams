@@ -236,7 +236,7 @@
   "sport_priorities": {
     "US": {
       "_HIDE_OTHERS": true,
-      "_BOOST": "",
+      "_BOOST": "FIFA",
       "NFL": {
         "score": 99,
         "isLeague": true,
@@ -275,6 +275,18 @@
       },
       "Formula 1": {
         "score": 88,
+        "isLeague": true,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "Soccer": {
+        "score": 50,
+        "isLeague": false,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "FIFA": {
+        "score": 50,
         "isLeague": true,
         "hasLink": true,
         "isHidden": false
