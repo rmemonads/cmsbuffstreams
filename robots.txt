@@ -8,4 +8,4 @@ Disallow: /data/
 Disallow: /scripts/
 
 # Sitemap
-Sitemap: https://buffstreams.mobi/sitemap.xml
+Sitemap: https://downradar.site/sitemap.xml
