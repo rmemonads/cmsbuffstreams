@@ -8035,7 +8035,11 @@
         "Bosnia-Herzegovina": "assets/logos/streamed/bosnia-herzegovina.webp",
         "Qatar": "assets/logos/streamed/qatar.webp",
         "Indiana Fever W": "assets/logos/streamed/indiana-fever-w.webp",
-        "Atlanta Dream W": "assets/logos/streamed/atlanta-dream-w.webp"
+        "Atlanta Dream W": "assets/logos/streamed/atlanta-dream-w.webp",
+        "St. George Illawara Dragons": "assets/logos/streamed/st-george-illawara-dragons.webp",
+        "Morocco": "assets/logos/streamed/morocco.webp",
+        "Hamilton Tiger-Cats": "assets/logos/streamed/hamilton-tiger-cats.webp",
+        "BC Lions": "assets/logos/streamed/bc-lions.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
