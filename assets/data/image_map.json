@@ -8043,7 +8043,20 @@
         "Hawthorn Hawks": "assets/logos/streamed/hawthorn-hawks.webp",
         "Toronto Tempo W": "assets/logos/streamed/toronto-tempo-w.webp",
         "Indiana Fever": "assets/logos/streamed/indiana-fever.webp",
-        "Atlanta Dream": "assets/logos/streamed/atlanta-dream.webp"
+        "Atlanta Dream": "assets/logos/streamed/atlanta-dream.webp",
+        "Haiti": "assets/logos/streamed/haiti.webp",
+        "Canterbury Bankstown Bulldogs": "assets/logos/streamed/canterbury-bankstown-bulldogs.webp",
+        "Manly Sea Eagles": "assets/logos/streamed/manly-sea-eagles.webp",
+        "Alpine Rams": "assets/logos/streamed/alpine-rams.webp",
+        "Paris Lights": "assets/logos/streamed/paris-lights.webp",
+        "Ottawa Redblacks": "assets/logos/streamed/ottawa-redblacks.webp",
+        "Toronto Argonauts": "assets/logos/streamed/toronto-argonauts.webp",
+        "Almer\u00eda": "assets/logos/streamed/almer\u00eda.webp",
+        "Ivory Coast": "assets/logos/streamed/ivory-coast.webp",
+        "Edmonton Elks": "assets/logos/streamed/edmonton-elks.webp",
+        "Montreal Alouettes": "assets/logos/streamed/montreal-alouettes.webp",
+        "Calgary Stampeders": "assets/logos/streamed/calgary-stampeders.webp",
+        "Saskatchewan Roughriders": "assets/logos/streamed/saskatchewan-roughriders.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
