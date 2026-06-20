@@ -8077,7 +8077,11 @@
         "Rhein Fire": "assets/logos/streamed/rhein-fire.webp",
         "Berlin Thunder": "assets/logos/streamed/berlin-thunder.webp",
         "Saudi Arabia": "assets/logos/streamed/saudi-arabia.webp",
-        "Cape Verde": "assets/logos/streamed/cape-verde.webp"
+        "Cape Verde": "assets/logos/streamed/cape-verde.webp",
+        "Richmond Tigers": "assets/logos/streamed/richmond-tigers.webp",
+        "North Melbourne Kangaroos": "assets/logos/streamed/north-melbourne-kangaroos.webp",
+        "St Kilda Football Club": "assets/logos/streamed/st-kilda-football-club.webp",
+        "Western Bulldogs": "assets/logos/streamed/western-bulldogs.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
