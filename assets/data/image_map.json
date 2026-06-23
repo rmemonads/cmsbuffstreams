@@ -8085,7 +8085,9 @@
         "Egypt": "assets/logos/streamed/egypt.webp",
         "Senegal": "assets/logos/streamed/senegal.webp",
         "Algeria": "assets/logos/streamed/algeria.webp",
-        "DR Congo": "assets/logos/streamed/dr-congo.webp"
+        "DR Congo": "assets/logos/streamed/dr-congo.webp",
+        "Essendon Bombers": "assets/logos/streamed/essendon-bombers.webp",
+        "West Coast Eagles": "assets/logos/streamed/west-coast-eagles.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
