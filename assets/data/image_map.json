@@ -8120,7 +8120,9 @@
         "Cavalry": "assets/logos/streamed/cavalry.webp",
         "Supra du Qu\u00e9bec": "assets/logos/streamed/supra-du-qu\u00e9bec.webp",
         "Fremantle Football Club": "assets/logos/streamed/fremantle-football-club.webp",
-        "Gold Coast Football Club": "assets/logos/streamed/gold-coast-football-club.webp"
+        "Gold Coast Football Club": "assets/logos/streamed/gold-coast-football-club.webp",
+        "MI New York": "assets/logos/streamed/mi-new-york.webp",
+        "Los Angeles Knight Riders": "assets/logos/streamed/los-angeles-knight-riders.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
