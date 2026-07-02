@@ -97,19 +97,25 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=chicago-white-sox-vs-cleveland-guardians-1bed830a</loc>
+        <loc>https://downradar.site/watch/?information=cuiaba-vs-america-mineiro-973b37dd</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=detroit-tigers-vs-texas-rangers-c5d1a880</loc>
+        <loc>https://downradar.site/watch/?information=arizona-diamondbacks-vs-san-francisco-giants-8d6bce97</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=connecticut-sun-w-vs-dallas-wings-w-22e8f4c1</loc>
+        <loc>https://downradar.site/watch/?information=san-diego-padres-vs-los-angeles-dodgers-fdc05dad</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=toronto-blue-jays-vs-seattle-mariners-f6b8224e</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -121,7 +127,13 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=spain-vs-austria-5fa1d6ba</loc>
+        <loc>https://downradar.site/watch/?information=pittsburgh-pirates-vs-washington-nationals-c6c8947d</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=minnesota-twins-vs-new-york-yankees-ca5772af</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -139,13 +151,13 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=kansas-city-royals-vs-tampa-bay-rays-07277b3f</loc>
+        <loc>https://downradar.site/watch/?information=baltimore-orioles-vs-cincinnati-reds-0e685cb6</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=los-angeles-dodgers-vs-san-diego-padres-6e56a1e8</loc>
+        <loc>https://downradar.site/watch/?information=cleveland-guardians-vs-chicago-white-sox-818c342d</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -157,13 +169,97 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=chicago-cubs-vs-st-louis-cardinals-17ff5b1e</loc>
+        <loc>https://downradar.site/watch/?information=miami-marlins-vs-athletics-a94c9edb</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=cleveland-guardians-vs-chicago-white-sox-818c342d</loc>
+        <loc>https://downradar.site/watch/?information=colorado-rockies-vs-miami-marlins-5b0d169c</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=toronto-blue-jays-vs-seattle-mariners-413ec013</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=philadelphia-phillies-vs-pittsburgh-pirates-fe80fb55</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=milwaukee-brewers-vs-arizona-diamondbacks-ea828a79</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=athletics-vs-los-angeles-dodgers-88298b56</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=connecticut-sun-w-vs-dallas-wings-w-22e8f4c1</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=portugal-vs-croatia-95e781b8</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=san-francisco-giants-vs-colorado-rockies-f768f7d4</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=los-angeles-dodgers-vs-san-diego-padres-6e56a1e8</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=spain-vs-austria-5fa1d6ba</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=tour-de-france-team-presentation-8a1faaba</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=tampa-bay-rays-vs-houston-astros-f6734aea</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=tennis-channel-e7360aab</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=rally-tv-e7360aab</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=milwaukee-brewers-vs-cincinnati-reds-cf30bca1</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -181,115 +277,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=portugal-vs-croatia-95e781b8</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=miami-marlins-vs-athletics-a94c9edb</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=san-diego-padres-vs-los-angeles-dodgers-fdc05dad</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=atlanta-braves-vs-new-york-mets-5f1b9743</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=seattle-mariners-vs-los-angeles-angels-374fe913</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=tampa-bay-rays-vs-houston-astros-6b973696</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=geelong-football-club-vs-brisbane-lions-581a1663</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=toronto-blue-jays-vs-seattle-mariners-f6b8224e</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=colorado-rockies-vs-miami-marlins-5b0d169c</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=milwaukee-brewers-vs-arizona-diamondbacks-ea828a79</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=tour-de-france-team-presentation-8a1faaba</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=milwaukee-brewers-vs-cincinnati-reds-8cf34e89</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=philadelphia-phillies-vs-pittsburgh-pirates-2afb3a2c</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=cleveland-guardians-vs-chicago-white-sox-1fffcf06</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=toronto-blue-jays-vs-seattle-mariners-413ec013</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=texas-rangers-vs-detroit-tigers-308c0057</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=boston-red-sox-vs-los-angeles-angels-46e4c8ba</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=tampa-bay-rays-vs-houston-astros-f6734aea</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=milwaukee-brewers-vs-cincinnati-reds-cf30bca1</loc>
+        <loc>https://downradar.site/watch/?information=kansas-city-royals-vs-tampa-bay-rays-07277b3f</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -301,7 +289,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=atlanta-braves-vs-st-louis-cardinals-53844381</loc>
+        <loc>https://downradar.site/watch/?information=detroit-tigers-vs-texas-rangers-c5d1a880</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=tampa-bay-rays-vs-houston-astros-6b973696</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=chicago-cubs-vs-st-louis-cardinals-17ff5b1e</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -313,43 +313,25 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=san-francisco-giants-vs-colorado-rockies-f768f7d4</loc>
+        <loc>https://downradar.site/watch/?information=texas-rangers-vs-detroit-tigers-308c0057</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=minnesota-twins-vs-new-york-yankees-ca5772af</loc>
+        <loc>https://downradar.site/watch/?information=seattle-mariners-vs-los-angeles-angels-374fe913</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=athletics-vs-los-angeles-dodgers-88298b56</loc>
+        <loc>https://downradar.site/watch/?information=atlanta-braves-vs-new-york-mets-5f1b9743</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=arizona-diamondbacks-vs-san-francisco-giants-8d6bce97</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=pittsburgh-pirates-vs-washington-nationals-c6c8947d</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=baltimore-orioles-vs-cincinnati-reds-0e685cb6</loc>
-        <lastmod>2026-07-02</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://downradar.site/watch/?information=cuiaba-vs-america-mineiro-973b37dd</loc>
+        <loc>https://downradar.site/watch/?information=milwaukee-brewers-vs-cincinnati-reds-8cf34e89</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -361,19 +343,31 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=colorado-rockies-vs-miami-marlins-b6768df7</loc>
+        <loc>https://downradar.site/watch/?information=geelong-football-club-vs-brisbane-lions-581a1663</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=rally-tv-e7360aab</loc>
+        <loc>https://downradar.site/watch/?information=boston-red-sox-vs-los-angeles-angels-46e4c8ba</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=philadelphia-phillies-vs-pittsburgh-pirates-fe80fb55</loc>
+        <loc>https://downradar.site/watch/?information=philadelphia-phillies-vs-pittsburgh-pirates-2afb3a2c</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=atlanta-braves-vs-st-louis-cardinals-53844381</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=chicago-white-sox-vs-cleveland-guardians-1bed830a</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -385,7 +379,13 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://downradar.site/watch/?information=tennis-channel-e7360aab</loc>
+        <loc>https://downradar.site/watch/?information=cleveland-guardians-vs-chicago-white-sox-1fffcf06</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://downradar.site/watch/?information=colorado-rockies-vs-miami-marlins-b6768df7</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
