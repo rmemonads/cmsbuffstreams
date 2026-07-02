@@ -8128,7 +8128,12 @@
         "St Kilda Saints": "assets/logos/streamed/st-kilda-saints.webp",
         "Congo DR": "assets/logos/streamed/congo-dr.webp",
         "HFX Wanderers FC": "assets/logos/streamed/hfx-wanderers-fc.webp",
-        "Geelong Football Club": "assets/logos/streamed/geelong-football-club.webp"
+        "Geelong Football Club": "assets/logos/streamed/geelong-football-club.webp",
+        "Adelaide Football Club": "assets/logos/streamed/adelaide-football-club.webp",
+        "Nigeria Basketball": "assets/logos/streamed/nigeria-basketball.webp",
+        "Guinea Basketball": "assets/logos/streamed/guinea-basketball.webp",
+        "Cronulla-Sutherland Sharks": "assets/logos/streamed/cronulla-sutherland-sharks.webp",
+        "Samoa": "assets/logos/streamed/samoa.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
