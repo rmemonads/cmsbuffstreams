@@ -8245,7 +8245,10 @@
         "Stirling Albion": "assets/logos/streamed/stirling-albion.webp",
         "Essendon Football Club": "assets/logos/streamed/essendon-football-club.webp",
         "CS Saint-Laurent": "assets/logos/streamed/cs-saint-laurent.webp",
-        "Texas Super Kings": "assets/logos/streamed/texas-super-kings.webp"
+        "Texas Super Kings": "assets/logos/streamed/texas-super-kings.webp",
+        "Japan Rugby": "assets/logos/streamed/japan-rugby.webp",
+        "Fiji Rugby": "assets/logos/streamed/fiji-rugby.webp",
+        "Argentina Rugby": "assets/logos/streamed/argentina-rugby.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
