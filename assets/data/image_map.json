@@ -8248,7 +8248,10 @@
         "Texas Super Kings": "assets/logos/streamed/texas-super-kings.webp",
         "Japan Rugby": "assets/logos/streamed/japan-rugby.webp",
         "Fiji Rugby": "assets/logos/streamed/fiji-rugby.webp",
-        "Argentina Rugby": "assets/logos/streamed/argentina-rugby.webp"
+        "Argentina Rugby": "assets/logos/streamed/argentina-rugby.webp",
+        "Mj\u00e4llby": "assets/logos/streamed/mj\u00e4llby.webp",
+        "\u00d6rgryte": "assets/logos/streamed/\u00f6rgryte.webp",
+        "H\u00e4cken": "assets/logos/streamed/h\u00e4cken.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
