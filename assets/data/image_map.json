@@ -8242,7 +8242,9 @@
         "Dumbarton": "assets/logos/streamed/dumbarton.webp",
         "East Fife": "assets/logos/streamed/east-fife.webp",
         "Brechin City": "assets/logos/streamed/brechin-city.webp",
-        "Stirling Albion": "assets/logos/streamed/stirling-albion.webp"
+        "Stirling Albion": "assets/logos/streamed/stirling-albion.webp",
+        "Essendon Football Club": "assets/logos/streamed/essendon-football-club.webp",
+        "CS Saint-Laurent": "assets/logos/streamed/cs-saint-laurent.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
