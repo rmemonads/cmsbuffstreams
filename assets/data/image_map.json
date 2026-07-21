@@ -8670,7 +8670,11 @@
         "Fiorentina U20": "assets/logos/streamed/fiorentina-u20.webp",
         "Hammarby": "assets/logos/streamed/hammarby.webp",
         "Hapoel Beer Sheva": "assets/logos/streamed/hapoel-beer-sheva.webp",
-        "TN Tempo W": "assets/logos/streamed/tn-tempo-w.webp"
+        "TN Tempo W": "assets/logos/streamed/tn-tempo-w.webp",
+        "UCV": "assets/logos/streamed/ucv.webp",
+        "Podlasie Bia\u0142a Podlaska": "assets/logos/streamed/podlasie-bia\u0142a-podlaska.webp",
+        "Antigua and Barbuda": "assets/logos/streamed/antigua-and-barbuda.webp",
+        "Dons": "assets/logos/streamed/dons.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
