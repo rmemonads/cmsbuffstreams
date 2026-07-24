@@ -8684,7 +8684,9 @@
         "Hull FC": "assets/logos/streamed/hull-fc.webp",
         "Troms\u00f8": "assets/logos/streamed/troms\u00f8.webp",
         "Hradec Kr\u00e1lov\u00e9": "assets/logos/streamed/hradec-kr\u00e1lov\u00e9.webp",
-        "Pafos": "assets/logos/streamed/pafos.webp"
+        "Pafos": "assets/logos/streamed/pafos.webp",
+        "Am\u00e9rica": "assets/logos/streamed/am\u00e9rica.webp",
+        "Richmond Football Club": "assets/logos/streamed/richmond-football-club.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
