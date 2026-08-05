@@ -8743,7 +8743,9 @@
         "Mjallby AIF": "assets/logos/streamed/mjallby-aif.webp",
         "Welsh Fire": "assets/logos/streamed/welsh-fire.webp",
         "K-League Stars": "assets/logos/streamed/k-league-stars.webp",
-        "Bangkok": "assets/logos/streamed/bangkok.webp"
+        "Bangkok": "assets/logos/streamed/bangkok.webp",
+        "Vikingur": "assets/logos/streamed/vikingur.webp",
+        "KF Shkendija 79": "assets/logos/streamed/kf-shkendija-79.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
