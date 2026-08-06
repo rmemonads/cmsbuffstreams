@@ -8745,7 +8745,9 @@
         "K-League Stars": "assets/logos/streamed/k-league-stars.webp",
         "Bangkok": "assets/logos/streamed/bangkok.webp",
         "Vikingur": "assets/logos/streamed/vikingur.webp",
-        "KF Shkendija 79": "assets/logos/streamed/kf-shkendija-79.webp"
+        "KF Shkendija 79": "assets/logos/streamed/kf-shkendija-79.webp",
+        "Arizona Cardinals": "assets/logos/streamed/arizona-cardinals.webp",
+        "Carolina Panthers": "assets/logos/streamed/carolina-panthers.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
