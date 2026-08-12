@@ -8859,7 +8859,12 @@
         "Mons": "assets/logos/streamed/mons.webp",
         "Vilanova": "assets/logos/streamed/vilanova.webp",
         "Langreo": "assets/logos/streamed/langreo.webp",
-        "Atletico Torque": "assets/logos/streamed/atletico-torque.webp"
+        "Atletico Torque": "assets/logos/streamed/atletico-torque.webp",
+        "Pittsburgh Steelers": "assets/logos/streamed/pittsburgh-steelers.webp",
+        "Green Bay Packers": "assets/logos/streamed/green-bay-packers.webp",
+        "Cincinnati Bengals": "assets/logos/streamed/cincinnati-bengals.webp",
+        "Detroit Lions": "assets/logos/streamed/detroit-lions.webp",
+        "Indianapolis Colts": "assets/logos/streamed/indianapolis-colts.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
