@@ -9003,7 +9003,11 @@
         "Brazil U17": "assets/logos/streamed/brazil-u17.webp",
         "Venezuela U17": "assets/logos/streamed/venezuela-u17.webp",
         "Pro Palazzolo": "assets/logos/streamed/pro-palazzolo.webp",
-        "Lillestrom": "assets/logos/streamed/lillestrom.webp"
+        "Lillestrom": "assets/logos/streamed/lillestrom.webp",
+        "St. T\u00f6nis": "assets/logos/streamed/st-t\u00f6nis.webp",
+        "Union Berlin Women": "assets/logos/streamed/union-berlin-women.webp",
+        "Bayern Munich Women": "assets/logos/streamed/bayern-munich-women.webp",
+        "Cacere\u00f1o": "assets/logos/streamed/cacere\u00f1o.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
