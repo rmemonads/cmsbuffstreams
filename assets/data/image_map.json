@@ -9041,7 +9041,10 @@
         "RB Leipzig Women": "assets/logos/streamed/rb-leipzig-women.webp",
         "Bayer Leverkusen Women": "assets/logos/streamed/bayer-leverkusen-women.webp",
         "Vit\u00f3ria": "assets/logos/streamed/vit\u00f3ria.webp",
-        "Artis Brno": "assets/logos/streamed/artis-brno.webp"
+        "Artis Brno": "assets/logos/streamed/artis-brno.webp",
+        "Mainz 05 Women": "assets/logos/streamed/mainz-05-women.webp",
+        "Werder Bremen Women": "assets/logos/streamed/werder-bremen-women.webp",
+        "Hallescher": "assets/logos/streamed/hallescher.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
