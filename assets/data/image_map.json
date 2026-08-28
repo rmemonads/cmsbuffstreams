@@ -9071,7 +9071,13 @@
         "Anderson (SC)": "assets/logos/streamed/anderson-sc.webp",
         "South Dakota Mines": "assets/logos/streamed/south-dakota-mines.webp",
         "Freiburg Women": "assets/logos/streamed/freiburg-women.webp",
-        "Stuttgart W": "assets/logos/streamed/stuttgart-w.webp"
+        "Stuttgart W": "assets/logos/streamed/stuttgart-w.webp",
+        "Merrimack": "assets/logos/streamed/merrimack.webp",
+        "Albany": "assets/logos/streamed/albany.webp",
+        "New Hampshire": "assets/logos/streamed/new-hampshire.webp",
+        "Northern Colorado": "assets/logos/streamed/northern-colorado.webp",
+        "Weber State": "assets/logos/streamed/weber-state.webp",
+        "Cal Poly": "assets/logos/streamed/cal-poly.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
