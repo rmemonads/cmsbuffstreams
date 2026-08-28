@@ -9069,7 +9069,9 @@
         "Concord": "assets/logos/streamed/concord.webp",
         "Northwestern (IA)": "assets/logos/streamed/northwestern-ia.webp",
         "Anderson (SC)": "assets/logos/streamed/anderson-sc.webp",
-        "South Dakota Mines": "assets/logos/streamed/south-dakota-mines.webp"
+        "South Dakota Mines": "assets/logos/streamed/south-dakota-mines.webp",
+        "Freiburg Women": "assets/logos/streamed/freiburg-women.webp",
+        "Stuttgart W": "assets/logos/streamed/stuttgart-w.webp"
     },
     "leagues": {
         "NBA": "assets/logos/leagues/nba.webp",
